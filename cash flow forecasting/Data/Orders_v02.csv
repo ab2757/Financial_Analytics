@@ -1,0 +1,1462 @@
+OrderID,CustomerID,OrderVolume,ShipMode,Segment,Category,PaymentTerm,Discount,ExistingPurchaseOrder,FirstCustomerOrder,CashInDate
+O-109,1011,10.68,Second Class,Consumer,Furniture,14,5,Yes,Yes,01-01-2011
+O-110,1025,10.71,Second Class,Consumer,Furniture,14,5,Yes,Yes,02-01-2011
+O-111,1029,10.63,Second Class,Consumer,Furniture,14,5,Yes,Yes,03-01-2011
+O-112,1006,10.9,Second Class,Consumer,Furniture,14,5,Yes,Yes,04-01-2011
+O-113,1015,10.86,Second Class,Consumer,Furniture,14,5,Yes,Yes,05-01-2011
+O-114,1023,11.55,Second Class,Consumer,Furniture,14,5,Yes,Yes,06-01-2011
+O-115,1024,11.99,Second Class,Consumer,Furniture,14,5,Yes,Yes,07-01-2011
+O-116,1010,12.04,Second Class,Consumer,Furniture,14,5,Yes,Yes,08-01-2011
+O-117,1030,12.23,Second Class,Consumer,Furniture,14,5,Yes,Yes,09-01-2011
+O-118,1000,12.1,Second Class,Consumer,Furniture,14,5,Yes,Yes,10-01-2011
+O-119,1010,11.78,Second Class,Consumer,Furniture,14,5,Yes,Yes,11-01-2011
+O-120,1010,11.29,Second Class,Consumer,Furniture,14,5,Yes,Yes,12-01-2011
+O-121,1022,10.87,Second Class,Consumer,Furniture,14,5,Yes,Yes,13-01-2011
+O-122,1007,11.1,Second Class,Consumer,Furniture,14,5,Yes,Yes,14-01-2011
+O-123,1015,10.86,Second Class,Consumer,Furniture,14,5,Yes,Yes,15-01-2011
+O-124,1008,10.6,Second Class,Consumer,Furniture,14,5,Yes,Yes,16-01-2011
+O-125,1005,10.33,Second Class,Consumer,Furniture,14,5,Yes,Yes,17-01-2011
+O-126,1005,10.29,Second Class,Consumer,Furniture,14,5,Yes,Yes,18-01-2011
+O-223,1031,10.71,Standard Class,Consumer,Technology,14,3,Yes,No,19-01-2011
+O-213,1031,10.79,Standard Class,Consumer,Office Supplies,14,5,Yes,No,20-01-2011
+O-245,1043,10.77,Standard Class,Consumer,Office Supplies,14,5,Yes,No,21-01-2011
+O-270,1031,10.3,First Class,Consumer,Technology,14,5,Yes,No,22-01-2011
+O-271,1065,10.26,First Class,Consumer,Technology,14,5,Yes,No,23-01-2011
+O-272,1008,9.61,Standard Class,Consumer,Technology,14,5,Yes,No,24-01-2011
+O-180,1020,9.66,Same Day,Consumer,Office Supplies,14,5,Yes,No,25-01-2011
+O-159,1014,9.83,Same Day,Corporate,Technology,14,3,Yes,No,26-01-2011
+O-113,1006,9.28,Standard Class,Consumer,Office Supplies,14,5,Yes,No,27-01-2011
+O-124,1015,9.62,Standard Class,Consumer,Office Supplies,14,5,Yes,No,28-01-2011
+O-148,1008,9.24,Standard Class,Consumer,Technology,14,3,Yes,No,29-01-2011
+O-138,1010,9.66,Standard Class,Consumer,Office Supplies,14,5,Yes,Yes,30-01-2011
+O-133,1031,9.89,Standard Class,Consumer,Office Supplies,14,5,Yes,Yes,31-01-2011
+O-114,1006,10.08,Standard Class,Consumer,Office Supplies,30,5,Yes,No,01-02-2011
+O-137,1000,10.04,Standard Class,Consumer,Office Supplies,14,5,Yes,No,02-02-2011
+O-215,1031,9.87,Standard Class,Consumer,Office Supplies,14,5,No,No,03-02-2011
+O-176,1008,10.19,Standard Class,Consumer,Technology,30,5,Yes,No,04-02-2011
+O-149,1008,10.25,Standard Class,Consumer,Furniture,30,5,No,No,05-02-2011
+O-102,1006,10.21,Second Class,Consumer,Office Supplies,30,3,Yes,Yes,06-02-2011
+O-134,1008,10.14,Standard Class,Consumer,Office Supplies,14,0,Yes,No,07-02-2011
+O-125,1014,9.78,Second Class,Corporate,Office Supplies,30,5,Yes,No,08-02-2011
+O-106,1014,9.87,Standard Class,Corporate,Furniture,14,0,Yes,Yes,09-02-2011
+O-105,1009,9.94,Standard Class,Consumer,Technology,45,3,Yes,Yes,10-02-2011
+O-132,1019,9.67,First Class,Corporate,Office Supplies,14,3,Yes,Yes,11-02-2011
+O-143,1011,9.35,Standard Class,Corporate,Office Supplies,14,5,Yes,Yes,12-02-2011
+O-147,1025,9.47,Standard Class,Corporate,Technology,30,3,Yes,No,13-02-2011
+O-212,1029,9.38,Standard Class,Corporate,Office Supplies,14,3,Yes,No,14-02-2011
+O-119,1006,9.13,Standard Class,Consumer,Office Supplies,45,5,Yes,No,15-02-2011
+O-107,1015,9.03,Second Class,Consumer,Office Supplies,30,3,Yes,Yes,16-02-2011
+O-104,1023,9.38,Standard Class,Consumer,Office Supplies,30,5,No,Yes,17-02-2011
+O-100,1024,9.62,Same Day,Corporate,Office Supplies,30,5,Yes,Yes,18-02-2011
+O-112,1010,9.46,Standard Class,Consumer,Technology,45,5,Yes,Yes,19-02-2011
+O-126,1030,9.19,First Class,Corporate,Furniture,45,0,Yes,No,20-02-2011
+O-160,1000,9.24,First Class,Consumer,Office Supplies,30,3,Yes,No,21-02-2011
+O-116,1010,9.14,Same Day,Consumer,Office Supplies,30,5,Yes,No,22-02-2011
+O-202,1010,8.83,First Class,Consumer,Office Supplies,30,0,Yes,No,23-02-2011
+O-199,1022,8.81,Second Class,Corporate,Furniture,30,5,Yes,No,24-02-2011
+O-296,1007,8.59,Second Class,Corporate,Office Supplies,14,3,Yes,No,25-02-2011
+O-219,1015,8.57,Standard Class,Consumer,Technology,45,3,Yes,No,26-02-2011
+O-231,1008,8.5,Standard Class,Consumer,Furniture,45,5,No,No,27-02-2011
+O-154,1005,8.39,Standard Class,Corporate,Office Supplies,30,3,Yes,Yes,28-02-2011
+O-259,1005,8.9,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-03-2011
+O-127,1000,8.96,Standard Class,Consumer,Office Supplies,45,3,Yes,Yes,02-03-2011
+O-317,1012,8.96,Standard Class,Corporate,Office Supplies,14,0,Yes,No,03-03-2011
+O-117,1014,8.95,Standard Class,Corporate,Office Supplies,45,5,Yes,No,04-03-2011
+O-170,1028,8.74,First Class,Consumer,Office Supplies,45,3,No,No,05-03-2011
+O-227,1010,9.6,First Class,Consumer,Office Supplies,45,0,Yes,No,06-03-2011
+O-222,1021,10.18,Standard Class,Corporate,Office Supplies,30,5,No,No,07-03-2011
+O-188,1021,9.97,Standard Class,Corporate,Office Supplies,30,0,Yes,Yes,08-03-2011
+O-168,1018,9.81,Same Day,Corporate,Office Supplies,45,0,Yes,No,09-03-2011
+O-221,1015,9.71,Standard Class,Consumer,Office Supplies,45,3,No,No,10-03-2011
+O-157,1018,9.53,Same Day,Corporate,Office Supplies,45,0,Yes,No,11-03-2011
+O-436,1015,9.5,Standard Class,Consumer,Technology,45,3,Yes,No,12-03-2011
+O-256,1022,9.26,Standard Class,Corporate,Office Supplies,30,0,Yes,No,13-03-2011
+O-242,1011,9.46,Second Class,Corporate,Office Supplies,45,3,Yes,No,14-03-2011
+O-331,1024,9.38,Standard Class,Corporate,Office Supplies,30,0,Yes,No,15-03-2011
+O-297,1007,9.66,Second Class,Corporate,Office Supplies,30,0,Yes,No,16-03-2011
+O-255,1022,9.58,Standard Class,Corporate,Office Supplies,30,3,Yes,No,17-03-2011
+O-372,1007,9.39,Standard Class,Corporate,Office Supplies,45,5,Yes,No,18-03-2011
+O-181,1012,9.45,Standard Class,Corporate,Office Supplies,45,3,Yes,No,19-03-2011
+O-407,1010,9.74,Standard Class,Consumer,Office Supplies,45,3,Yes,No,20-03-2011
+O-360,1022,9.91,First Class,Corporate,Office Supplies,30,0,Yes,No,21-03-2011
+O-325,1022,10.06,Standard Class,Corporate,Office Supplies,45,3,Yes,No,22-03-2011
+O-314,1022,9.94,Same Day,Corporate,Office Supplies,45,5,Yes,No,23-03-2011
+O-570,1025,10.23,Standard Class,Corporate,Office Supplies,14,5,Yes,No,24-03-2011
+O-309,1003,10.16,First Class,Corporate,Office Supplies,45,3,No,No,25-03-2011
+O-450,1026,10.16,Standard Class,Corporate,Office Supplies,45,5,Yes,No,26-03-2011
+O-537,1003,10.27,First Class,Corporate,Technology,45,5,No,No,27-03-2011
+O-687,1024,10.27,Standard Class,Corporate,Office Supplies,14,0,Yes,No,28-03-2011
+O-495,1005,10.15,Standard Class,Corporate,Office Supplies,45,0,Yes,No,29-03-2011
+O-610,1010,10.09,Second Class,Consumer,Office Supplies,45,0,Yes,No,30-03-2011
+O-595,1005,9.74,Standard Class,Corporate,Office Supplies,45,5,Yes,No,31-03-2011
+O-544,1007,9.67,First Class,Corporate,Technology,45,0,No,No,01-04-2011
+O-508,1013,9.68,First Class,Consumer,Office Supplies,45,0,Yes,No,02-04-2011
+O-606,1011,9.28,First Class,Corporate,Furniture,45,5,No,No,03-04-2011
+O-689,1021,9.32,First Class,Corporate,Office Supplies,45,5,Yes,No,04-04-2011
+O-560,1012,9.03,Standard Class,Corporate,Office Supplies,30,3,Yes,No,05-04-2011
+O-819,1008,9.22,Standard Class,Consumer,Office Supplies,45,5,Yes,No,06-04-2011
+O-638,1024,9.05,Standard Class,Corporate,Furniture,45,5,Yes,No,07-04-2011
+O-686,1022,9.02,Standard Class,Corporate,Furniture,30,0,Yes,No,08-04-2011
+O-721,1025,9.05,Standard Class,Corporate,Office Supplies,30,5,Yes,No,09-04-2011
+O-732,1024,9.19,Standard Class,Corporate,Office Supplies,30,0,Yes,No,10-04-2011
+O-719,1005,9.08,Standard Class,Corporate,Office Supplies,45,5,Yes,No,11-04-2011
+O-649,1018,8.75,Standard Class,Corporate,Office Supplies,45,5,No,No,12-04-2011
+O-969,1025,8.54,Standard Class,Corporate,Office Supplies,14,3,Yes,No,13-04-2011
+O-646,1025,8.88,Standard Class,Corporate,Office Supplies,45,0,Yes,No,14-04-2011
+O-758,1003,8.81,Standard Class,Corporate,Office Supplies,45,0,Yes,No,15-04-2011
+O-784,1025,8.57,Standard Class,Corporate,Office Supplies,30,5,Yes,No,16-04-2011
+O-881,1029,8.53,Second Class,Corporate,Technology,45,0,Yes,No,17-04-2011
+O-873,1007,8.37,Standard Class,Corporate,Technology,45,5,Yes,No,18-04-2011
+O-811,1024,8.68,First Class,Corporate,Office Supplies,45,5,Yes,No,19-04-2011
+O-599,1026,8.46,Same Day,Corporate,Office Supplies,45,5,No,No,20-04-2011
+O-857,1022,8.14,Second Class,Corporate,Office Supplies,30,5,Yes,No,21-04-2011
+O-742,1012,8.33,Standard Class,Corporate,Office Supplies,45,3,Yes,No,22-04-2011
+O-778,1024,8.23,Second Class,Corporate,Office Supplies,45,0,Yes,No,23-04-2011
+O-867,1015,8.48,First Class,Consumer,Office Supplies,30,0,No,No,24-04-2011
+O-886,1018,8.22,Same Day,Corporate,Office Supplies,45,5,Yes,No,25-04-2011
+O-983,1024,8.17,Standard Class,Corporate,Office Supplies,45,3,Yes,No,26-04-2011
+O-896,1010,8.21,Second Class,Consumer,Office Supplies,30,0,No,No,27-04-2011
+O-1095,1015,8.27,Standard Class,Consumer,Technology,45,5,No,No,28-04-2011
+O-859,1022,8.51,Second Class,Corporate,Office Supplies,45,3,No,No,29-04-2011
+O-1067,1013,8.4,Standard Class,Consumer,Furniture,45,3,Yes,No,30-04-2011
+O-1016,1013,8.43,Second Class,Consumer,Office Supplies,45,5,Yes,No,01-05-2011
+O-931,1025,8.2,Second Class,Corporate,Furniture,45,3,No,No,02-05-2011
+O-1032,1010,8,Standard Class,Consumer,Office Supplies,45,0,Yes,No,03-05-2011
+O-1077,1005,8.42,Second Class,Corporate,Technology,45,5,No,No,04-05-2011
+O-1092,1021,8.18,Standard Class,Corporate,Office Supplies,30,0,Yes,No,05-05-2011
+O-1230,1019,8.28,Standard Class,Corporate,Office Supplies,45,5,Yes,No,06-05-2011
+O-1072,1028,8.14,Standard Class,Consumer,Office Supplies,45,0,Yes,No,07-05-2011
+O-967,1007,7.97,Standard Class,Corporate,Office Supplies,45,0,Yes,No,08-05-2011
+O-1051,1011,7.91,Standard Class,Corporate,Office Supplies,45,0,Yes,No,09-05-2011
+O-1097,1025,7.86,Standard Class,Corporate,Office Supplies,45,5,Yes,No,10-05-2011
+O-1089,1021,7.95,Standard Class,Corporate,Office Supplies,45,5,Yes,No,11-05-2011
+O-1163,1013,7.57,Standard Class,Consumer,Office Supplies,45,3,Yes,No,12-05-2011
+O-1382,1010,7.46,Standard Class,Consumer,Furniture,30,0,Yes,No,13-05-2011
+O-1114,1022,7.24,Standard Class,Corporate,Office Supplies,30,5,No,No,14-05-2011
+O-1132,1008,7.48,First Class,Consumer,Office Supplies,45,0,No,No,15-05-2011
+O-1256,1025,7.56,Second Class,Corporate,Office Supplies,30,0,Yes,No,16-05-2011
+O-1055,1025,7.73,Same Day,Corporate,Office Supplies,45,3,No,No,17-05-2011
+O-1167,1026,8.64,Second Class,Corporate,Office Supplies,45,3,Yes,No,18-05-2011
+O-1404,1013,8.67,Standard Class,Consumer,Office Supplies,30,3,Yes,No,19-05-2011
+O-1131,1026,8.77,Standard Class,Corporate,Office Supplies,45,3,Yes,No,20-05-2011
+O-1311,1026,8.85,Second Class,Corporate,Office Supplies,45,5,Yes,No,21-05-2011
+O-1252,1015,9.12,Standard Class,Consumer,Office Supplies,45,0,Yes,No,22-05-2011
+O-1426,1013,9.06,Same Day,Consumer,Furniture,45,3,Yes,No,23-05-2011
+O-1205,1010,9.37,First Class,Consumer,Office Supplies,45,0,No,No,24-05-2011
+O-1275,1024,9.71,First Class,Corporate,Office Supplies,45,0,Yes,No,25-05-2011
+O-1381,1012,9.6,Standard Class,Corporate,Technology,45,0,Yes,No,26-05-2011
+O-1394,1025,9.74,Standard Class,Corporate,Office Supplies,45,5,Yes,No,27-05-2011
+O-1357,1017,9.94,First Class,Corporate,Office Supplies,45,5,Yes,No,28-05-2011
+O-1610,1005,9.76,Standard Class,Corporate,Office Supplies,45,0,Yes,No,29-05-2011
+O-1469,1029,9.6,Standard Class,Corporate,Office Supplies,45,5,Yes,No,30-05-2011
+O-1540,1013,9.25,Standard Class,Consumer,Office Supplies,45,5,Yes,No,31-05-2011
+O-1366,1011,9.08,First Class,Corporate,Office Supplies,45,0,Yes,No,01-06-2011
+O-1637,1014,9.15,Same Day,Corporate,Office Supplies,45,0,Yes,No,02-06-2011
+O-1635,1016,9.09,Standard Class,Corporate,Office Supplies,45,0,Yes,No,03-06-2011
+O-1515,1022,9.13,First Class,Corporate,Office Supplies,45,5,Yes,No,04-06-2011
+O-1588,1000,9.49,Standard Class,Consumer,Office Supplies,45,3,No,No,05-06-2011
+O-1841,1029,9.71,First Class,Corporate,Office Supplies,14,0,Yes,No,06-06-2011
+O-1555,1029,9.66,Same Day,Corporate,Office Supplies,45,0,Yes,No,07-06-2011
+O-1658,1021,9.7,Second Class,Corporate,Office Supplies,45,5,Yes,No,08-06-2011
+O-1603,1012,9.51,Standard Class,Corporate,Office Supplies,45,3,Yes,No,09-06-2011
+O-1435,1012,9.66,Second Class,Corporate,Office Supplies,45,0,No,No,10-06-2011
+O-1682,1029,9.62,First Class,Corporate,Office Supplies,45,3,Yes,No,11-06-2011
+O-1596,1026,9.69,Second Class,Corporate,Office Supplies,45,0,Yes,No,12-06-2011
+O-1565,1021,9.82,Standard Class,Corporate,Office Supplies,45,3,Yes,No,13-06-2011
+O-1609,1026,9.57,Standard Class,Corporate,Office Supplies,45,5,No,No,14-06-2011
+O-2063,1011,9.5,First Class,Corporate,Office Supplies,14,0,Yes,No,15-06-2011
+O-1730,1000,9.57,Standard Class,Consumer,Office Supplies,45,0,No,No,16-06-2011
+O-1758,1022,9.69,Standard Class,Corporate,Office Supplies,45,5,Yes,No,17-06-2011
+O-1651,1011,9.77,Same Day,Corporate,Office Supplies,45,3,No,No,18-06-2011
+O-1793,1010,10.21,Standard Class,Consumer,Office Supplies,45,0,Yes,No,19-06-2011
+O-1657,1021,10,Second Class,Corporate,Office Supplies,45,0,Yes,No,20-06-2011
+O-1739,1013,10.4,Standard Class,Consumer,Office Supplies,45,0,Yes,No,21-06-2011
+O-1872,1000,10.36,Standard Class,Consumer,Furniture,45,0,No,No,22-06-2011
+O-1901,1010,10.36,Standard Class,Consumer,Office Supplies,30,0,Yes,No,23-06-2011
+O-2031,1015,10.38,First Class,Consumer,Office Supplies,45,0,Yes,No,24-06-2011
+O-1770,1025,10.6,Standard Class,Corporate,Office Supplies,45,0,Yes,No,25-06-2011
+O-1910,1022,10.6,Standard Class,Corporate,Office Supplies,30,0,Yes,No,26-06-2011
+O-2071,1018,10.59,First Class,Corporate,Office Supplies,45,5,Yes,No,27-06-2011
+O-2061,1013,10.56,Standard Class,Consumer,Office Supplies,45,5,Yes,No,28-06-2011
+O-2194,1024,10.54,Standard Class,Corporate,Office Supplies,30,5,Yes,No,29-06-2011
+O-1890,1025,10.75,Standard Class,Corporate,Office Supplies,45,3,Yes,No,30-06-2011
+O-2134,1029,10.66,Standard Class,Corporate,Office Supplies,45,3,Yes,No,01-07-2011
+O-2060,1024,10.43,Standard Class,Corporate,Office Supplies,45,5,Yes,No,02-07-2011
+O-1997,1026,10.82,Standard Class,Corporate,Office Supplies,30,5,No,No,03-07-2011
+O-2187,1026,11.09,First Class,Corporate,Furniture,45,3,Yes,No,04-07-2011
+O-2328,1000,10.92,Standard Class,Consumer,Office Supplies,45,5,Yes,No,05-07-2011
+O-2158,1007,11,Second Class,Corporate,Office Supplies,45,3,Yes,No,06-07-2011
+O-2166,1022,11,First Class,Corporate,Office Supplies,45,5,Yes,No,07-07-2011
+O-2084,1007,10.69,Standard Class,Corporate,Office Supplies,45,3,Yes,No,08-07-2011
+O-2355,1007,10.58,Standard Class,Corporate,Office Supplies,45,3,Yes,No,09-07-2011
+O-2115,1007,10.77,Standard Class,Corporate,Furniture,45,3,No,No,10-07-2011
+O-2146,1007,10.69,Standard Class,Corporate,Office Supplies,45,0,No,No,11-07-2011
+O-2320,1010,10.6,First Class,Consumer,Office Supplies,45,3,Yes,No,12-07-2011
+O-2406,1015,10.66,Second Class,Consumer,Office Supplies,45,0,Yes,No,13-07-2011
+O-2369,1012,10.54,Standard Class,Corporate,Office Supplies,45,5,Yes,No,14-07-2011
+O-2142,1011,10.46,Standard Class,Corporate,Office Supplies,45,3,No,No,15-07-2011
+O-2354,1003,10.75,Standard Class,Corporate,Office Supplies,45,0,Yes,No,16-07-2011
+O-2304,1010,10.72,Standard Class,Consumer,Office Supplies,45,0,Yes,No,17-07-2011
+O-2366,1029,10.77,Standard Class,Corporate,Office Supplies,45,3,Yes,No,18-07-2011
+O-2180,1026,10.61,Second Class,Corporate,Office Supplies,45,0,Yes,No,19-07-2011
+O-2385,1010,10.65,Standard Class,Consumer,Office Supplies,45,0,Yes,No,20-07-2011
+O-2367,1025,11.28,Standard Class,Corporate,Furniture,45,5,No,No,21-07-2011
+O-2540,1010,11.42,Standard Class,Consumer,Furniture,45,5,No,No,22-07-2011
+O-2447,1025,11.64,Standard Class,Corporate,Technology,45,5,No,No,23-07-2011
+O-2384,1013,11.58,Second Class,Consumer,Office Supplies,45,5,Yes,No,24-07-2011
+O-2547,1010,11.67,Standard Class,Consumer,Office Supplies,45,0,Yes,No,25-07-2011
+O-2646,1003,11.74,Standard Class,Corporate,Office Supplies,45,3,Yes,No,26-07-2011
+O-2399,1011,11.49,Standard Class,Corporate,Office Supplies,45,3,No,No,27-07-2011
+O-2500,1007,11.49,First Class,Corporate,Office Supplies,45,3,Yes,No,28-07-2011
+O-2573,1026,11.58,Second Class,Corporate,Office Supplies,30,5,Yes,No,29-07-2011
+O-2410,1011,11.31,Standard Class,Corporate,Office Supplies,45,0,Yes,No,30-07-2011
+O-2640,1005,11.28,Standard Class,Corporate,Office Supplies,45,5,Yes,No,31-07-2011
+O-2666,1012,11.18,First Class,Corporate,Office Supplies,30,5,No,No,01-08-2011
+O-2724,1021,11.39,Standard Class,Corporate,Office Supplies,45,5,Yes,No,02-08-2011
+O-2568,1012,11.5,Same Day,Corporate,Office Supplies,45,0,Yes,No,03-08-2011
+O-2743,1029,11.78,Second Class,Corporate,Office Supplies,45,5,Yes,No,04-08-2011
+O-2545,1013,11.91,Standard Class,Consumer,Office Supplies,45,0,Yes,No,05-08-2011
+O-2857,1025,11.87,Standard Class,Corporate,Office Supplies,45,5,Yes,No,06-08-2011
+O-2853,1022,12.05,Standard Class,Corporate,Office Supplies,14,0,No,No,07-08-2011
+O-2729,1003,12.1,Same Day,Corporate,Office Supplies,45,0,No,No,08-08-2011
+O-2980,1024,12.01,Standard Class,Corporate,Office Supplies,45,5,Yes,No,09-08-2011
+O-2842,1025,12.23,Standard Class,Corporate,Office Supplies,45,5,Yes,No,10-08-2011
+O-2914,1013,12.26,Standard Class,Consumer,Office Supplies,30,0,No,No,11-08-2011
+O-2738,1007,12.35,Second Class,Corporate,Office Supplies,45,0,No,No,12-08-2011
+O-3044,1022,12.66,Standard Class,Corporate,Office Supplies,45,3,Yes,No,13-08-2011
+O-3063,1003,12.9,First Class,Corporate,Furniture,45,5,No,No,14-08-2011
+O-2852,1026,13.09,Standard Class,Corporate,Office Supplies,45,3,Yes,No,15-08-2011
+O-2983,1024,12.79,Standard Class,Corporate,Office Supplies,45,5,Yes,No,16-08-2011
+O-2603,1026,13.12,Standard Class,Corporate,Office Supplies,45,0,No,No,17-08-2011
+O-3067,1025,13.11,Same Day,Corporate,Office Supplies,45,0,Yes,No,18-08-2011
+O-3145,1012,13.09,Second Class,Corporate,Furniture,45,5,Yes,No,19-08-2011
+O-3079,1012,13.05,Standard Class,Corporate,Office Supplies,45,3,Yes,No,20-08-2011
+O-3231,1022,13.02,Standard Class,Corporate,Office Supplies,45,3,Yes,No,21-08-2011
+O-3234,1025,13.04,Standard Class,Corporate,Office Supplies,45,5,Yes,No,22-08-2011
+O-3155,1025,12.83,Second Class,Corporate,Office Supplies,45,3,Yes,No,23-08-2011
+O-3334,1010,12.43,Second Class,Consumer,Technology,45,0,Yes,No,24-08-2011
+O-3384,1025,12.61,Standard Class,Corporate,Office Supplies,30,0,Yes,No,25-08-2011
+O-3237,1021,12.68,Standard Class,Corporate,Office Supplies,45,0,Yes,No,26-08-2011
+O-3607,1007,12.31,Standard Class,Corporate,Office Supplies,14,3,Yes,No,27-08-2011
+O-3266,1026,12.72,Standard Class,Corporate,Office Supplies,45,5,Yes,No,28-08-2011
+O-3254,1000,12.65,Standard Class,Consumer,Office Supplies,45,5,No,No,29-08-2011
+O-3219,1022,12.53,Standard Class,Corporate,Office Supplies,45,0,Yes,No,30-08-2011
+O-3485,1012,12.21,Standard Class,Corporate,Office Supplies,45,3,Yes,No,31-08-2011
+O-3576,1011,12.33,Standard Class,Corporate,Office Supplies,45,3,Yes,No,01-09-2011
+O-3511,1011,12.11,Second Class,Corporate,Office Supplies,45,3,Yes,No,02-09-2011
+O-3543,1013,11.84,First Class,Consumer,Office Supplies,45,3,Yes,No,03-09-2011
+O-3448,1013,11.74,Standard Class,Consumer,Office Supplies,45,0,Yes,No,04-09-2011
+O-3499,1025,11.64,Second Class,Corporate,Office Supplies,30,0,No,No,05-09-2011
+O-3630,1003,11.65,Standard Class,Corporate,Office Supplies,45,3,Yes,No,06-09-2011
+O-3665,1016,11.55,Standard Class,Corporate,Office Supplies,45,0,Yes,No,07-09-2011
+O-3637,1010,12.12,First Class,Consumer,Office Supplies,30,0,Yes,No,08-09-2011
+O-3653,1013,11.97,Second Class,Consumer,Office Supplies,45,3,Yes,No,09-09-2011
+O-3611,1030,12.24,Standard Class,Corporate,Office Supplies,45,0,Yes,No,10-09-2011
+O-3711,1026,12.15,Standard Class,Corporate,Furniture,45,5,Yes,No,11-09-2011
+O-3704,1024,12.21,Standard Class,Corporate,Furniture,30,0,No,No,12-09-2011
+O-3744,1029,13.22,First Class,Corporate,Office Supplies,45,5,Yes,No,13-09-2011
+O-3837,1011,13.86,Standard Class,Corporate,Technology,45,0,Yes,No,14-09-2011
+O-3597,1011,13.69,Standard Class,Corporate,Office Supplies,45,0,No,No,15-09-2011
+O-3833,1013,13.52,Second Class,Consumer,Office Supplies,30,0,Yes,No,16-09-2011
+O-4024,1016,13.87,Standard Class,Corporate,Office Supplies,45,3,Yes,No,17-09-2011
+O-3903,1013,13.56,Second Class,Consumer,Office Supplies,30,5,Yes,No,18-09-2011
+O-3717,1012,12.72,First Class,Corporate,Office Supplies,45,0,Yes,No,19-09-2011
+O-3996,1021,12.64,Second Class,Corporate,Office Supplies,14,3,Yes,No,20-09-2011
+O-3936,1022,12.4,Second Class,Corporate,Office Supplies,14,0,Yes,No,21-09-2011
+O-3877,1013,12.24,First Class,Consumer,Office Supplies,45,3,Yes,No,22-09-2011
+O-3956,1024,12.39,Second Class,Corporate,Office Supplies,30,0,No,No,23-09-2011
+O-3613,1021,12.32,Standard Class,Corporate,Office Supplies,45,3,No,No,24-09-2011
+O-3868,1018,12.2,Same Day,Corporate,Office Supplies,45,0,Yes,No,25-09-2011
+O-3804,1025,12.28,First Class,Corporate,Office Supplies,45,5,Yes,No,26-09-2011
+O-4093,1025,12.22,Standard Class,Corporate,Office Supplies,30,0,Yes,No,27-09-2011
+O-3769,1024,12.25,First Class,Corporate,Office Supplies,45,0,Yes,No,28-09-2011
+O-4052,1012,12.11,Second Class,Corporate,Office Supplies,30,0,Yes,No,29-09-2011
+O-4245,1021,12.11,Standard Class,Corporate,Office Supplies,14,0,Yes,No,30-09-2011
+O-4112,1024,11.99,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-10-2011
+O-4118,1029,12.02,Standard Class,Corporate,Office Supplies,45,5,Yes,No,02-10-2011
+O-3980,1021,12.31,Second Class,Corporate,Office Supplies,45,3,Yes,No,03-10-2011
+O-3990,1021,12.31,Second Class,Corporate,Office Supplies,45,5,Yes,No,04-10-2011
+O-4017,1021,11.9,First Class,Corporate,Office Supplies,45,5,Yes,No,05-10-2011
+O-3981,1026,12.13,Second Class,Corporate,Office Supplies,45,0,Yes,No,06-10-2011
+O-4317,1003,12.09,Same Day,Corporate,Office Supplies,45,5,Yes,No,07-10-2011
+O-4181,1010,12.19,Standard Class,Consumer,Office Supplies,45,3,Yes,No,08-10-2011
+O-4373,1025,12.17,First Class,Corporate,Furniture,45,3,Yes,No,09-10-2011
+O-4196,1025,12.12,Standard Class,Corporate,Office Supplies,45,5,Yes,No,10-10-2011
+O-4053,1024,12.27,Second Class,Corporate,Office Supplies,45,5,No,No,11-10-2011
+O-4733,1006,12.74,Same Day,Consumer,Office Supplies,45,3,Yes,No,12-10-2011
+O-4482,1021,12.79,Standard Class,Corporate,Office Supplies,30,0,Yes,No,13-10-2011
+O-4184,1022,12.72,Standard Class,Corporate,Office Supplies,45,3,Yes,No,14-10-2011
+O-3969,1024,12.66,Standard Class,Corporate,Office Supplies,45,3,No,No,15-10-2011
+O-4201,1025,11.99,Standard Class,Corporate,Office Supplies,45,3,No,No,16-10-2011
+O-4675,1022,12.09,Standard Class,Corporate,Furniture,30,3,No,No,17-10-2011
+O-4323,1018,12.44,Standard Class,Corporate,Office Supplies,45,0,No,No,18-10-2011
+O-4276,1024,12.2,Second Class,Corporate,Office Supplies,45,0,Yes,No,19-10-2011
+O-4495,1007,12.33,Standard Class,Corporate,Office Supplies,45,3,Yes,No,20-10-2011
+O-4642,1026,12.6,Standard Class,Corporate,Office Supplies,45,5,Yes,No,21-10-2011
+O-4405,1021,12.53,First Class,Corporate,Furniture,45,5,No,No,22-10-2011
+O-4707,1024,12.57,Standard Class,Corporate,Furniture,45,0,Yes,No,23-10-2011
+O-4874,1026,12.57,First Class,Corporate,Office Supplies,14,5,No,No,24-10-2011
+O-4544,1022,12.84,First Class,Corporate,Office Supplies,45,5,Yes,No,25-10-2011
+O-4731,1026,12.63,Standard Class,Corporate,Office Supplies,45,5,Yes,No,26-10-2011
+O-4474,1021,12.86,Standard Class,Corporate,Office Supplies,45,3,Yes,No,27-10-2011
+O-4645,1029,12.8,Standard Class,Corporate,Office Supplies,45,0,No,No,28-10-2011
+O-4293,1022,12.8,First Class,Corporate,Office Supplies,45,0,No,No,29-10-2011
+O-4927,1027,13.02,Standard Class,Consumer,Office Supplies,45,0,No,No,30-10-2011
+O-4883,1025,13.07,Standard Class,Corporate,Furniture,45,3,Yes,No,31-10-2011
+O-4959,1007,13.41,Same Day,Corporate,Office Supplies,30,3,No,No,01-11-2011
+O-4932,1013,13.42,Standard Class,Consumer,Office Supplies,45,0,Yes,No,02-11-2011
+O-4676,1011,13.36,Same Day,Corporate,Office Supplies,45,0,No,No,03-11-2011
+O-5001,1021,13.69,Second Class,Corporate,Office Supplies,30,0,Yes,No,04-11-2011
+O-4777,1012,13.64,Second Class,Corporate,Office Supplies,45,3,Yes,No,05-11-2011
+O-4851,1026,13.32,Standard Class,Corporate,Office Supplies,45,3,Yes,No,06-11-2011
+O-5169,1013,13.39,Standard Class,Consumer,Office Supplies,45,3,Yes,No,07-11-2011
+O-5002,1022,13.27,Second Class,Corporate,Furniture,45,3,Yes,No,08-11-2011
+O-4896,1025,13.38,Standard Class,Corporate,Office Supplies,45,3,Yes,No,09-11-2011
+O-5271,1015,13.5,Second Class,Consumer,Office Supplies,45,0,Yes,No,10-11-2011
+O-5315,1022,13.47,Standard Class,Corporate,Office Supplies,45,5,Yes,No,11-11-2011
+O-5253,1025,13.53,Second Class,Corporate,Office Supplies,30,0,Yes,No,12-11-2011
+O-4805,1026,13.38,Same Day,Corporate,Office Supplies,45,3,No,No,13-11-2011
+O-5105,1024,13.46,Standard Class,Corporate,Office Supplies,45,0,Yes,No,14-11-2011
+O-4986,1024,13.23,First Class,Corporate,Office Supplies,45,0,Yes,No,15-11-2011
+O-5245,1010,13.17,Same Day,Consumer,Office Supplies,45,5,No,No,16-11-2011
+O-5363,1025,12.89,Standard Class,Corporate,Technology,45,0,No,No,17-11-2011
+O-5585,1025,13.06,Standard Class,Corporate,Furniture,45,0,Yes,No,18-11-2011
+O-5655,1021,12.91,First Class,Corporate,Office Supplies,45,5,Yes,No,19-11-2011
+O-4992,1013,12.91,First Class,Consumer,Office Supplies,45,0,No,No,20-11-2011
+O-5566,1026,12.9,Standard Class,Corporate,Office Supplies,45,3,Yes,No,21-11-2011
+O-5478,1024,13,First Class,Corporate,Office Supplies,45,5,No,No,22-11-2011
+O-5590,1025,13.36,Standard Class,Corporate,Office Supplies,45,3,Yes,No,23-11-2011
+O-5417,1025,13.32,Standard Class,Corporate,Office Supplies,45,5,Yes,No,24-11-2011
+O-5114,1024,13.62,Second Class,Corporate,Office Supplies,45,0,No,No,25-11-2011
+O-5282,1021,14.12,Second Class,Corporate,Office Supplies,45,3,No,No,26-11-2011
+O-5611,1013,14.27,Standard Class,Consumer,Office Supplies,45,3,No,No,27-11-2011
+O-5875,1025,14.26,Second Class,Corporate,Office Supplies,45,3,Yes,No,28-11-2011
+O-5077,1021,14.21,Standard Class,Corporate,Office Supplies,45,0,No,No,29-11-2011
+O-5629,1025,14.34,Second Class,Corporate,Office Supplies,45,0,Yes,No,30-11-2011
+O-5971,1025,14.34,Second Class,Corporate,Furniture,45,3,Yes,No,01-12-2011
+O-5981,1024,14.4,First Class,Corporate,Office Supplies,45,0,Yes,No,02-12-2011
+O-5905,1021,14.85,Standard Class,Corporate,Office Supplies,45,3,Yes,No,03-12-2011
+O-5712,1026,15.01,Same Day,Corporate,Office Supplies,45,0,Yes,No,04-12-2011
+O-6002,1012,15.27,Standard Class,Corporate,Technology,45,3,Yes,No,05-12-2011
+O-5936,1022,15.33,Standard Class,Corporate,Office Supplies,45,5,Yes,No,06-12-2011
+O-6100,1003,15.53,Standard Class,Corporate,Office Supplies,45,0,Yes,No,07-12-2011
+O-5954,1024,15.62,Second Class,Corporate,Office Supplies,45,5,No,No,08-12-2011
+O-6109,1029,15.36,Standard Class,Corporate,Office Supplies,45,0,No,No,09-12-2011
+O-5689,1022,15.33,Same Day,Corporate,Office Supplies,45,5,No,No,10-12-2011
+O-5995,1022,15.63,Second Class,Corporate,Office Supplies,45,0,Yes,No,11-12-2011
+O-6260,1003,15.72,Second Class,Corporate,Office Supplies,45,5,No,No,12-12-2011
+O-6184,1029,16,Second Class,Corporate,Office Supplies,45,0,Yes,No,13-12-2011
+O-5827,1021,16.22,Standard Class,Corporate,Office Supplies,45,0,No,No,14-12-2011
+O-6290,1025,16.13,Second Class,Corporate,Office Supplies,30,0,Yes,No,15-12-2011
+O-6376,1011,15.81,Second Class,Corporate,Office Supplies,45,5,Yes,No,16-12-2011
+O-6538,1013,16.23,Second Class,Consumer,Office Supplies,30,3,No,No,17-12-2011
+O-6187,1024,16.34,Second Class,Corporate,Office Supplies,45,0,Yes,No,18-12-2011
+O-6375,1012,16.97,Standard Class,Corporate,Office Supplies,30,0,Yes,No,19-12-2011
+O-6396,1012,17.31,Standard Class,Corporate,Office Supplies,45,3,Yes,No,20-12-2011
+O-6474,1007,16.91,Standard Class,Corporate,Office Supplies,45,0,Yes,No,21-12-2011
+O-6171,1026,17.33,Standard Class,Corporate,Office Supplies,45,0,Yes,No,22-12-2011
+O-6564,1024,17.52,Standard Class,Corporate,Office Supplies,30,0,Yes,No,23-12-2011
+O-6533,1010,17.66,First Class,Consumer,Office Supplies,45,5,Yes,No,24-12-2011
+O-6577,1015,17.72,Second Class,Consumer,Office Supplies,45,5,No,No,25-12-2011
+O-6603,1010,17.78,Standard Class,Consumer,Office Supplies,45,5,No,No,26-12-2011
+O-6714,1022,17.17,Standard Class,Corporate,Office Supplies,30,5,Yes,No,27-12-2011
+O-6566,1025,17.2,Second Class,Corporate,Office Supplies,45,3,Yes,No,28-12-2011
+O-6473,1025,16.79,Standard Class,Corporate,Office Supplies,45,5,Yes,No,29-12-2011
+O-6578,1018,16.96,Standard Class,Corporate,Office Supplies,45,3,No,No,30-12-2011
+O-6844,1017,17.21,Standard Class,Corporate,Office Supplies,45,5,Yes,No,31-12-2011
+O-6646,1015,17.87,First Class,Consumer,Office Supplies,45,0,No,No,01-01-2012
+O-6447,1025,17.67,Standard Class,Corporate,Office Supplies,45,0,Yes,No,02-01-2012
+O-6623,1024,17.36,Standard Class,Corporate,Office Supplies,45,5,Yes,No,03-01-2012
+O-6517,1010,17.7,Standard Class,Consumer,Office Supplies,45,0,No,No,04-01-2012
+O-6718,1022,17.57,Standard Class,Corporate,Office Supplies,45,5,No,No,05-01-2012
+O-6746,1024,17.48,Second Class,Corporate,Office Supplies,45,3,Yes,No,06-01-2012
+O-6981,1010,17.09,First Class,Consumer,Furniture,45,0,Yes,No,07-01-2012
+O-6851,1022,17.41,Same Day,Corporate,Office Supplies,45,3,Yes,No,08-01-2012
+O-7001,1024,17.22,First Class,Corporate,Office Supplies,45,5,Yes,No,09-01-2012
+O-6764,1018,17.43,Standard Class,Corporate,Office Supplies,45,3,No,No,10-01-2012
+O-6812,1022,17.32,Standard Class,Corporate,Office Supplies,45,5,No,No,11-01-2012
+O-6909,1022,18.17,Standard Class,Corporate,Office Supplies,45,0,Yes,No,12-01-2012
+O-6918,1012,18.96,Standard Class,Corporate,Office Supplies,45,0,Yes,No,13-01-2012
+O-7019,1021,18.9,Standard Class,Corporate,Office Supplies,45,3,Yes,No,14-01-2012
+O-6830,1021,18.62,Same Day,Corporate,Office Supplies,45,5,Yes,No,15-01-2012
+O-7341,1025,18.91,Standard Class,Corporate,Office Supplies,45,5,Yes,No,16-01-2012
+O-7330,1011,18.91,Second Class,Corporate,Office Supplies,45,3,Yes,No,17-01-2012
+O-7405,1013,19.15,Standard Class,Consumer,Furniture,45,5,No,No,18-01-2012
+O-7452,1029,19.68,First Class,Corporate,Office Supplies,45,3,Yes,No,19-01-2012
+O-7292,1021,19.73,First Class,Corporate,Office Supplies,45,3,Yes,No,20-01-2012
+O-7387,1013,19.84,First Class,Consumer,Office Supplies,45,0,No,No,21-01-2012
+O-7420,1026,19.73,Standard Class,Corporate,Office Supplies,30,0,Yes,No,22-01-2012
+O-7830,1010,20,Standard Class,Consumer,Office Supplies,30,3,No,No,23-01-2012
+O-7419,1022,20.54,Standard Class,Corporate,Office Supplies,45,3,Yes,No,24-01-2012
+O-7526,1025,20.53,Second Class,Corporate,Office Supplies,45,3,Yes,No,25-01-2012
+O-7409,1022,19.27,Standard Class,Corporate,Office Supplies,45,3,Yes,No,26-01-2012
+O-7580,1025,19.61,Standard Class,Corporate,Furniture,45,3,No,No,27-01-2012
+O-7963,1022,20.86,Second Class,Corporate,Furniture,45,5,Yes,No,28-01-2012
+O-7654,1024,20.55,Standard Class,Corporate,Office Supplies,45,5,No,No,29-01-2012
+O-7403,1026,20.2,Standard Class,Corporate,Office Supplies,45,0,No,No,30-01-2012
+O-7459,1012,18.82,First Class,Corporate,Office Supplies,45,3,Yes,No,31-01-2012
+O-7563,1021,19.29,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-02-2012
+O-7776,1029,19.5,First Class,Corporate,Office Supplies,45,0,Yes,No,02-02-2012
+O-7539,1021,18.84,Second Class,Corporate,Office Supplies,45,5,No,No,03-02-2012
+O-7789,1025,19.32,Standard Class,Corporate,Office Supplies,45,3,Yes,No,04-02-2012
+O-8059,1012,19.29,Standard Class,Corporate,Office Supplies,30,5,No,No,05-02-2012
+O-7689,1025,19.14,Second Class,Corporate,Office Supplies,45,0,Yes,No,06-02-2012
+O-8007,1025,18.06,First Class,Corporate,Office Supplies,30,5,No,No,07-02-2012
+O-7999,1025,17.86,First Class,Corporate,Furniture,45,5,No,No,08-02-2012
+O-8095,1025,18.26,Standard Class,Corporate,Office Supplies,45,3,Yes,No,09-02-2012
+O-8214,1010,17.72,Standard Class,Consumer,Office Supplies,45,3,Yes,No,10-02-2012
+O-8301,1013,17.13,Standard Class,Consumer,Office Supplies,45,3,No,No,11-02-2012
+O-7934,1012,16.72,Standard Class,Corporate,Office Supplies,45,5,No,No,12-02-2012
+O-8430,1000,17.44,Standard Class,Consumer,Office Supplies,45,3,No,No,13-02-2012
+O-8249,1024,17.46,Same Day,Corporate,Office Supplies,45,3,Yes,No,14-02-2012
+O-8245,1012,18.22,Standard Class,Corporate,Technology,45,0,No,No,15-02-2012
+O-8303,1021,18.93,Standard Class,Corporate,Office Supplies,45,0,Yes,No,16-02-2012
+O-8462,1029,18.72,Standard Class,Corporate,Office Supplies,45,5,No,No,17-02-2012
+O-8599,1029,19.33,Standard Class,Corporate,Furniture,45,0,No,No,18-02-2012
+O-8356,1026,18.89,Standard Class,Corporate,Office Supplies,45,3,Yes,No,19-02-2012
+O-8453,1021,18.12,Same Day,Corporate,Office Supplies,45,0,Yes,No,20-02-2012
+O-8323,1013,19.15,Standard Class,Consumer,Office Supplies,45,0,Yes,No,21-02-2012
+O-8460,1005,19.46,First Class,Corporate,Office Supplies,45,3,No,No,22-02-2012
+O-8734,1024,19.78,Standard Class,Corporate,Office Supplies,45,0,Yes,No,23-02-2012
+O-8634,1025,20.59,Second Class,Corporate,Office Supplies,45,3,Yes,No,24-02-2012
+O-8633,1007,19.54,Standard Class,Corporate,Office Supplies,45,0,Yes,No,25-02-2012
+O-9078,1012,19.29,Standard Class,Corporate,Technology,45,5,Yes,No,26-02-2012
+O-8920,1010,18.82,Standard Class,Consumer,Office Supplies,45,0,Yes,No,27-02-2012
+O-8616,1025,19.53,Second Class,Corporate,Office Supplies,45,3,Yes,No,28-02-2012
+O-8903,1013,19.36,Standard Class,Consumer,Office Supplies,45,0,Yes,No,29-02-2012
+O-9094,1025,19.55,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-03-2012
+O-9001,1003,19.6,Second Class,Corporate,Office Supplies,45,3,No,No,02-03-2012
+O-9221,1030,19.83,Standard Class,Corporate,Office Supplies,45,3,Yes,No,03-03-2012
+O-9196,1005,19.77,Standard Class,Corporate,Office Supplies,45,3,Yes,No,04-03-2012
+O-9301,1012,20.13,Standard Class,Corporate,Office Supplies,30,3,Yes,No,05-03-2012
+O-9003,1021,20.11,Second Class,Corporate,Office Supplies,45,5,Yes,No,06-03-2012
+O-9266,1021,20.04,First Class,Corporate,Office Supplies,30,0,Yes,No,07-03-2012
+O-9303,1012,20.59,Second Class,Corporate,Office Supplies,30,0,Yes,No,08-03-2012
+O-8960,1025,21.18,Second Class,Corporate,Office Supplies,45,0,Yes,No,09-03-2012
+O-9274,1013,21.88,Standard Class,Consumer,Office Supplies,45,0,Yes,No,10-03-2012
+O-9302,1012,21.82,Second Class,Corporate,Office Supplies,45,5,Yes,No,11-03-2012
+O-9320,1024,22.07,Standard Class,Corporate,Office Supplies,45,5,Yes,No,12-03-2012
+O-9423,1018,21.92,Standard Class,Corporate,Office Supplies,45,5,Yes,No,13-03-2012
+O-9404,1007,22.33,Standard Class,Corporate,Office Supplies,45,5,Yes,No,14-03-2012
+O-9527,1026,22.64,First Class,Corporate,Office Supplies,30,3,Yes,No,15-03-2012
+O-9014,1026,22.56,First Class,Corporate,Office Supplies,45,3,No,No,16-03-2012
+O-9324,1007,22.32,Standard Class,Corporate,Furniture,45,0,No,No,17-03-2012
+O-9558,1003,23.06,Standard Class,Corporate,Office Supplies,30,3,Yes,No,18-03-2012
+O-9497,1021,23.99,First Class,Corporate,Technology,45,0,Yes,No,19-03-2012
+O-9491,1029,23.98,Second Class,Corporate,Office Supplies,45,3,Yes,No,20-03-2012
+O-9496,1007,23.83,First Class,Corporate,Office Supplies,45,0,No,No,21-03-2012
+O-9368,1013,23.18,Standard Class,Consumer,Office Supplies,45,5,No,No,22-03-2012
+O-9607,1024,23.89,Standard Class,Corporate,Furniture,30,5,No,No,23-03-2012
+O-9285,1022,23.85,Second Class,Corporate,Office Supplies,45,0,No,No,24-03-2012
+O-9609,1012,24.23,Second Class,Corporate,Office Supplies,30,5,Yes,No,25-03-2012
+O-9556,1003,24.68,Standard Class,Corporate,Office Supplies,45,5,Yes,No,26-03-2012
+O-9628,1025,24.79,Standard Class,Corporate,Furniture,45,5,Yes,No,27-03-2012
+O-9723,1028,24.35,Standard Class,Consumer,Office Supplies,45,5,Yes,No,28-03-2012
+O-9709,1013,24.91,Standard Class,Consumer,Furniture,45,5,Yes,No,29-03-2012
+O-9803,1028,26.59,First Class,Consumer,Office Supplies,45,5,Yes,No,30-03-2012
+O-9837,1015,26.56,Second Class,Consumer,Office Supplies,45,5,Yes,No,31-03-2012
+O-9502,1021,26.11,First Class,Corporate,Office Supplies,45,5,Yes,No,01-04-2012
+O-9889,1031,26.39,Standard Class,Consumer,Office Supplies,45,0,Yes,No,02-04-2012
+O-9593,1024,26.44,Standard Class,Corporate,Office Supplies,30,0,No,No,03-04-2012
+O-9758,1029,26.71,First Class,Corporate,Office Supplies,45,3,Yes,No,04-04-2012
+O-9764,1007,27.14,Standard Class,Corporate,Office Supplies,45,5,Yes,No,05-04-2012
+O-9617,1021,26.78,Standard Class,Corporate,Office Supplies,45,0,Yes,No,06-04-2012
+O-9751,1015,26.84,Same Day,Consumer,Office Supplies,45,0,Yes,No,07-04-2012
+O-9828,1030,26.6,Standard Class,Corporate,Office Supplies,45,3,Yes,No,08-04-2012
+O-9857,1013,27.4,Second Class,Consumer,Furniture,45,0,Yes,No,09-04-2012
+O-9802,1012,26.61,Standard Class,Corporate,Office Supplies,30,5,No,No,10-04-2012
+O-9726,1014,25.07,Second Class,Corporate,Office Supplies,45,0,Yes,No,11-04-2012
+O-9942,1010,23.62,First Class,Consumer,Office Supplies,30,3,No,No,12-04-2012
+O-9754,1026,21.97,Standard Class,Corporate,Technology,45,0,No,No,13-04-2012
+O-9960,1021,24.28,Standard Class,Corporate,Office Supplies,14,5,No,No,14-04-2012
+O-9774,1007,23.73,Standard Class,Corporate,Office Supplies,45,3,No,No,15-04-2012
+O-10003,1014,23.47,Standard Class,Corporate,Office Supplies,45,0,Yes,No,16-04-2012
+O-9896,1025,23.77,Standard Class,Corporate,Office Supplies,45,5,Yes,No,17-04-2012
+O-9912,1025,23.42,Standard Class,Corporate,Office Supplies,45,3,Yes,No,18-04-2012
+O-9886,1013,24.12,Standard Class,Consumer,Office Supplies,45,3,Yes,No,19-04-2012
+O-9894,1010,24.07,Standard Class,Consumer,Office Supplies,45,0,Yes,No,20-04-2012
+O-10019,1012,24.51,Standard Class,Corporate,Office Supplies,30,3,Yes,No,21-04-2012
+O-10083,1020,24.65,Standard Class,Consumer,Office Supplies,45,3,No,No,22-04-2012
+O-9917,1012,24.97,Standard Class,Corporate,Office Supplies,45,0,Yes,No,23-04-2012
+O-10062,1022,25.75,Standard Class,Corporate,Office Supplies,45,5,Yes,No,24-04-2012
+O-10147,1016,26.33,Standard Class,Corporate,Technology,45,3,No,No,25-04-2012
+O-10004,1011,26.03,First Class,Corporate,Office Supplies,45,0,Yes,No,26-04-2012
+O-10301,1010,25.55,Standard Class,Consumer,Technology,45,5,Yes,No,27-04-2012
+O-10055,1012,25.69,Second Class,Corporate,Furniture,45,0,Yes,No,28-04-2012
+O-10022,1018,26.5,Standard Class,Corporate,Office Supplies,45,0,No,No,29-04-2012
+O-9953,1021,27.14,Standard Class,Corporate,Office Supplies,45,3,Yes,No,30-04-2012
+O-10102,1003,27.76,Second Class,Corporate,Office Supplies,45,5,No,No,01-05-2012
+O-10214,1022,27.74,Standard Class,Corporate,Office Supplies,45,5,Yes,No,02-05-2012
+O-9935,1021,26.93,Standard Class,Corporate,Office Supplies,45,3,Yes,No,03-05-2012
+O-10101,1022,27.27,Standard Class,Corporate,Office Supplies,45,3,Yes,No,04-05-2012
+O-10134,1022,27.4,First Class,Corporate,Office Supplies,30,0,No,No,05-05-2012
+O-10263,1010,27.2,Standard Class,Consumer,Office Supplies,45,0,Yes,No,06-05-2012
+O-10251,1007,26.34,Standard Class,Corporate,Office Supplies,45,5,Yes,No,07-05-2012
+O-10154,1026,26.14,Standard Class,Corporate,Office Supplies,45,0,Yes,No,08-05-2012
+O-10151,1022,26.16,Standard Class,Corporate,Office Supplies,45,0,Yes,No,09-05-2012
+O-10329,1020,26.74,Standard Class,Consumer,Office Supplies,45,3,No,No,10-05-2012
+O-10460,1024,27.7,Standard Class,Corporate,Furniture,45,5,Yes,No,11-05-2012
+O-10384,1013,28.4,Second Class,Consumer,Office Supplies,30,0,Yes,No,12-05-2012
+O-10340,1012,28.42,Standard Class,Corporate,Office Supplies,45,5,Yes,No,13-05-2012
+O-10132,1021,28.37,First Class,Corporate,Office Supplies,45,5,No,No,14-05-2012
+O-10380,1012,28.55,Standard Class,Corporate,Furniture,45,3,Yes,No,15-05-2012
+O-10245,1018,28.3,Standard Class,Corporate,Office Supplies,45,0,No,No,16-05-2012
+O-10161,1024,27.83,Standard Class,Corporate,Office Supplies,45,0,No,No,17-05-2012
+O-10157,1022,27.85,Standard Class,Corporate,Office Supplies,45,0,No,No,18-05-2012
+O-10104,1021,25.72,Standard Class,Corporate,Office Supplies,45,3,No,No,19-05-2012
+O-10281,1012,25.38,Second Class,Corporate,Office Supplies,45,3,Yes,No,20-05-2012
+O-10344,1028,24.46,Standard Class,Consumer,Office Supplies,45,0,No,No,21-05-2012
+O-10554,1026,25.6,Standard Class,Corporate,Office Supplies,45,3,Yes,No,22-05-2012
+O-10400,1025,25.43,Standard Class,Corporate,Office Supplies,45,0,Yes,No,23-05-2012
+O-10476,1029,24.67,Standard Class,Corporate,Office Supplies,45,3,No,No,24-05-2012
+O-10458,1013,25.54,First Class,Consumer,Office Supplies,45,0,Yes,No,25-05-2012
+O-10762,1012,24.15,First Class,Corporate,Technology,45,3,Yes,No,26-05-2012
+O-10617,1010,22.81,Standard Class,Consumer,Office Supplies,45,3,Yes,No,27-05-2012
+O-10504,1026,22.98,Standard Class,Corporate,Office Supplies,45,0,Yes,No,28-05-2012
+O-10737,1007,23.05,Standard Class,Corporate,Office Supplies,45,5,Yes,No,29-05-2012
+O-10770,1024,22.23,Standard Class,Corporate,Technology,45,5,No,No,30-05-2012
+O-10533,1013,19.87,Standard Class,Consumer,Office Supplies,45,5,No,No,31-05-2012
+O-10596,1022,19.37,Second Class,Corporate,Office Supplies,45,0,Yes,No,01-06-2012
+O-10718,1025,18.57,Same Day,Corporate,Office Supplies,45,0,Yes,No,02-06-2012
+O-10835,1025,18.57,Standard Class,Corporate,Office Supplies,45,5,Yes,No,03-06-2012
+O-10873,1024,18.79,Standard Class,Corporate,Office Supplies,45,3,Yes,No,04-06-2012
+O-10728,1007,18.88,Same Day,Corporate,Office Supplies,45,5,Yes,No,05-06-2012
+O-10872,1029,19.34,Standard Class,Corporate,Office Supplies,45,5,Yes,No,06-06-2012
+O-10678,1024,19.11,Standard Class,Corporate,Office Supplies,45,3,No,No,07-06-2012
+O-10842,1012,18.81,Standard Class,Corporate,Office Supplies,45,3,Yes,No,08-06-2012
+O-10884,1000,18.48,Standard Class,Consumer,Office Supplies,45,5,Yes,No,09-06-2012
+O-10946,1013,17.43,Standard Class,Consumer,Office Supplies,45,5,No,No,10-06-2012
+O-11168,1012,17.32,First Class,Corporate,Office Supplies,30,3,Yes,No,11-06-2012
+O-11058,1025,17.93,Second Class,Corporate,Technology,45,3,Yes,No,12-06-2012
+O-10860,1012,18.49,Same Day,Corporate,Office Supplies,45,0,Yes,No,13-06-2012
+O-11073,1014,17.84,Standard Class,Corporate,Office Supplies,45,5,Yes,No,14-06-2012
+O-10917,1021,18.49,Standard Class,Corporate,Technology,45,0,No,No,15-06-2012
+O-11259,1013,18.21,Second Class,Consumer,Office Supplies,30,5,Yes,No,16-06-2012
+O-11077,1025,17.8,Second Class,Corporate,Office Supplies,45,0,Yes,No,17-06-2012
+O-11056,1022,17.45,Standard Class,Corporate,Office Supplies,45,3,Yes,No,18-06-2012
+O-11117,1010,17.69,Standard Class,Consumer,Office Supplies,45,0,Yes,No,19-06-2012
+O-10965,1024,17.36,Second Class,Corporate,Office Supplies,45,0,Yes,No,20-06-2012
+O-11379,1005,17.07,Standard Class,Corporate,Office Supplies,45,5,No,No,21-06-2012
+O-11127,1022,17.11,Standard Class,Corporate,Office Supplies,45,3,Yes,No,22-06-2012
+O-11229,1011,17.02,Standard Class,Corporate,Office Supplies,45,5,Yes,No,23-06-2012
+O-10959,1012,17.57,Standard Class,Corporate,Office Supplies,45,0,Yes,No,24-06-2012
+O-11368,1010,18.56,Standard Class,Consumer,Office Supplies,45,3,Yes,No,25-06-2012
+O-11393,1028,17.86,Standard Class,Consumer,Office Supplies,45,5,No,No,26-06-2012
+O-11341,1013,17.39,First Class,Consumer,Office Supplies,30,0,No,No,27-06-2012
+O-11279,1025,17.8,Standard Class,Corporate,Office Supplies,30,3,No,No,28-06-2012
+O-11214,1007,17.78,First Class,Corporate,Office Supplies,45,3,Yes,No,29-06-2012
+O-11310,1013,17.28,Standard Class,Consumer,Office Supplies,45,5,No,No,30-06-2012
+O-11407,1029,17.46,Standard Class,Corporate,Office Supplies,45,3,No,No,01-07-2012
+O-11228,1026,17.1,First Class,Corporate,Office Supplies,45,5,Yes,No,02-07-2012
+O-11447,1010,18.19,Standard Class,Consumer,Office Supplies,30,0,No,No,03-07-2012
+O-11468,1015,18,Standard Class,Consumer,Office Supplies,45,5,Yes,No,04-07-2012
+O-11515,1025,18.28,Standard Class,Corporate,Office Supplies,45,0,Yes,No,05-07-2012
+O-11288,1012,18.09,Second Class,Corporate,Office Supplies,45,0,Yes,No,06-07-2012
+O-11563,1024,18.1,First Class,Corporate,Office Supplies,45,0,Yes,No,07-07-2012
+O-11637,1012,18.97,Standard Class,Corporate,Office Supplies,45,5,Yes,No,08-07-2012
+O-11528,1011,18.52,Standard Class,Corporate,Office Supplies,45,0,Yes,No,09-07-2012
+O-11292,1025,19.04,Second Class,Corporate,Office Supplies,30,3,No,No,10-07-2012
+O-11736,1016,19.93,First Class,Corporate,Office Supplies,45,0,Yes,No,11-07-2012
+O-11833,1027,20.14,Standard Class,Consumer,Office Supplies,45,5,No,No,12-07-2012
+O-11569,1024,20.72,First Class,Corporate,Office Supplies,45,0,Yes,No,13-07-2012
+O-11533,1012,20.04,Standard Class,Corporate,Office Supplies,45,0,Yes,No,14-07-2012
+O-11640,1025,20.43,Standard Class,Corporate,Office Supplies,45,0,Yes,No,15-07-2012
+O-11663,1024,20.5,Standard Class,Corporate,Office Supplies,45,5,Yes,No,16-07-2012
+O-11719,1024,21.36,Second Class,Corporate,Office Supplies,45,0,Yes,No,17-07-2012
+O-11673,1024,21.07,Same Day,Corporate,Office Supplies,45,3,Yes,No,18-07-2012
+O-11757,1022,21.66,First Class,Corporate,Office Supplies,45,0,Yes,No,19-07-2012
+O-11986,1018,21.87,Second Class,Corporate,Office Supplies,45,3,Yes,No,20-07-2012
+O-11999,1015,22.27,Standard Class,Consumer,Office Supplies,45,0,Yes,No,21-07-2012
+O-11935,1013,21.83,Second Class,Consumer,Office Supplies,45,3,Yes,No,22-07-2012
+O-11884,1021,21.63,Standard Class,Corporate,Office Supplies,45,5,Yes,No,23-07-2012
+O-11829,1012,22.08,Second Class,Corporate,Office Supplies,45,3,No,No,24-07-2012
+O-11878,1025,21.02,Standard Class,Corporate,Office Supplies,45,0,Yes,No,25-07-2012
+O-11782,1021,21.11,Second Class,Corporate,Office Supplies,45,0,Yes,No,26-07-2012
+O-11913,1025,21.2,Second Class,Corporate,Office Supplies,45,5,Yes,No,27-07-2012
+O-12124,1024,21.96,Standard Class,Corporate,Office Supplies,45,5,Yes,No,28-07-2012
+O-12027,1012,22.07,Standard Class,Corporate,Office Supplies,45,0,Yes,No,29-07-2012
+O-11845,1007,23.01,Standard Class,Corporate,Office Supplies,45,0,No,No,30-07-2012
+O-12157,1024,24.02,First Class,Corporate,Office Supplies,45,5,Yes,No,31-07-2012
+O-12104,1003,22.89,Second Class,Corporate,Office Supplies,45,0,Yes,No,01-08-2012
+O-12087,1021,23.27,Second Class,Corporate,Office Supplies,45,0,Yes,No,02-08-2012
+O-12297,1018,24.13,Standard Class,Corporate,Office Supplies,45,3,Yes,No,03-08-2012
+O-12166,1025,24.25,Standard Class,Corporate,Office Supplies,45,5,No,No,04-08-2012
+O-12276,1026,24.61,Standard Class,Corporate,Office Supplies,30,3,Yes,No,05-08-2012
+O-12137,1011,25.01,Second Class,Corporate,Office Supplies,45,5,No,No,06-08-2012
+O-12014,1012,24.85,Standard Class,Corporate,Office Supplies,45,0,No,No,07-08-2012
+O-12556,1025,25.71,Standard Class,Corporate,Furniture,45,5,No,No,08-08-2012
+O-12423,1010,25.85,Standard Class,Consumer,Office Supplies,45,0,No,No,09-08-2012
+O-12440,1010,26.39,Standard Class,Consumer,Office Supplies,45,3,No,No,10-08-2012
+O-12603,1024,26.67,Second Class,Corporate,Office Supplies,45,5,Yes,No,11-08-2012
+O-12592,1024,26.08,Second Class,Corporate,Office Supplies,45,5,Yes,No,12-08-2012
+O-12465,1025,26.44,Standard Class,Corporate,Office Supplies,45,3,Yes,No,13-08-2012
+O-12398,1022,26.21,Standard Class,Corporate,Office Supplies,45,0,Yes,No,14-08-2012
+O-12656,1012,26.88,Standard Class,Corporate,Office Supplies,30,0,No,No,15-08-2012
+O-12108,1021,27.14,First Class,Corporate,Office Supplies,45,0,No,No,16-08-2012
+O-12811,1021,26.61,Standard Class,Corporate,Office Supplies,30,0,Yes,No,17-08-2012
+O-12716,1022,27.1,Standard Class,Corporate,Office Supplies,45,0,Yes,No,18-08-2012
+O-12572,1025,26.8,First Class,Corporate,Office Supplies,45,0,Yes,No,19-08-2012
+O-13027,1014,26.23,Second Class,Corporate,Office Supplies,45,0,Yes,No,20-08-2012
+O-12913,1025,26.56,Standard Class,Corporate,Office Supplies,45,0,Yes,No,21-08-2012
+O-13088,1015,25.46,First Class,Consumer,Office Supplies,45,5,Yes,No,22-08-2012
+O-13121,1013,25.29,Standard Class,Consumer,Office Supplies,30,0,No,No,23-08-2012
+O-13119,1007,25.88,Standard Class,Corporate,Office Supplies,45,0,Yes,No,24-08-2012
+O-13236,1025,26.63,Second Class,Corporate,Furniture,45,5,Yes,No,25-08-2012
+O-13208,1025,26.72,Standard Class,Corporate,Furniture,45,5,No,No,26-08-2012
+O-13019,1024,26.67,Standard Class,Corporate,Office Supplies,45,5,No,No,27-08-2012
+O-12882,1022,26.96,First Class,Corporate,Office Supplies,45,3,No,No,28-08-2012
+O-13226,1007,26.59,Standard Class,Corporate,Office Supplies,45,3,Yes,No,29-08-2012
+O-13157,1024,26.48,Standard Class,Corporate,Office Supplies,45,0,Yes,No,30-08-2012
+O-12737,1012,26.46,Standard Class,Corporate,Office Supplies,45,0,No,No,31-08-2012
+O-12888,1021,27.06,Standard Class,Corporate,Office Supplies,45,3,Yes,No,01-09-2012
+O-13221,1025,26.52,Standard Class,Corporate,Office Supplies,45,3,Yes,No,02-09-2012
+O-13274,1012,25.94,Standard Class,Corporate,Office Supplies,45,3,Yes,No,03-09-2012
+O-13521,1015,26.52,Second Class,Consumer,Office Supplies,45,0,Yes,No,04-09-2012
+O-13638,1010,25.83,First Class,Consumer,Office Supplies,45,3,Yes,No,05-09-2012
+O-13525,1012,24.75,First Class,Corporate,Office Supplies,45,5,Yes,No,06-09-2012
+O-13424,1007,24.62,Standard Class,Corporate,Office Supplies,30,0,No,No,07-09-2012
+O-13595,1007,25.26,Second Class,Corporate,Office Supplies,45,5,No,No,08-09-2012
+O-13491,1026,25.92,Standard Class,Corporate,Office Supplies,45,5,Yes,No,09-09-2012
+O-13472,1026,25.54,Second Class,Corporate,Office Supplies,45,0,Yes,No,10-09-2012
+O-13492,1025,25.84,Same Day,Corporate,Office Supplies,45,5,Yes,No,11-09-2012
+O-13641,1024,25.04,First Class,Corporate,Office Supplies,45,5,No,No,12-09-2012
+O-13505,1012,24.74,Standard Class,Corporate,Office Supplies,45,5,No,No,13-09-2012
+O-13909,1030,24.75,Standard Class,Corporate,Office Supplies,30,0,Yes,No,14-09-2012
+O-13660,1021,25.34,Standard Class,Corporate,Office Supplies,45,3,Yes,No,15-09-2012
+O-13827,1029,24.04,Same Day,Corporate,Office Supplies,45,5,Yes,No,16-09-2012
+O-13923,1030,24.3,Standard Class,Corporate,Office Supplies,45,5,Yes,No,17-09-2012
+O-13711,1012,23.92,First Class,Corporate,Furniture,45,0,Yes,No,18-09-2012
+O-13933,1011,24.95,Standard Class,Corporate,Office Supplies,45,5,Yes,No,19-09-2012
+O-13810,1010,24.03,Second Class,Consumer,Office Supplies,45,0,Yes,No,20-09-2012
+O-13836,1025,24.3,First Class,Corporate,Office Supplies,45,3,Yes,No,21-09-2012
+O-13774,1013,25.02,Standard Class,Consumer,Office Supplies,45,0,No,No,22-09-2012
+O-13795,1022,25.65,Standard Class,Corporate,Office Supplies,45,0,Yes,No,23-09-2012
+O-13737,1024,24.89,Same Day,Corporate,Office Supplies,45,0,Yes,No,24-09-2012
+O-14062,1003,25.23,Second Class,Corporate,Office Supplies,30,0,No,No,25-09-2012
+O-13834,1021,24.65,Second Class,Corporate,Office Supplies,45,3,Yes,No,26-09-2012
+O-13873,1012,24.84,Standard Class,Corporate,Office Supplies,45,0,Yes,No,27-09-2012
+O-13925,1012,24.23,Standard Class,Corporate,Office Supplies,45,3,Yes,No,28-09-2012
+O-13930,1026,24.69,Standard Class,Corporate,Office Supplies,45,5,Yes,No,29-09-2012
+O-13809,1022,24.54,Standard Class,Corporate,Office Supplies,45,3,No,No,30-09-2012
+O-13985,1007,23.59,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-10-2012
+O-14039,1003,23.76,Second Class,Corporate,Office Supplies,45,0,Yes,No,02-10-2012
+O-14014,1024,23.15,Second Class,Corporate,Office Supplies,45,5,Yes,No,03-10-2012
+O-14016,1013,23.75,First Class,Consumer,Office Supplies,45,5,No,No,04-10-2012
+O-14089,1026,22.72,Standard Class,Corporate,Office Supplies,45,5,Yes,No,05-10-2012
+O-14339,1021,23.16,Standard Class,Corporate,Office Supplies,30,0,Yes,No,06-10-2012
+O-14196,1007,22.06,Standard Class,Corporate,Office Supplies,45,5,No,No,07-10-2012
+O-14079,1022,22.44,Standard Class,Corporate,Office Supplies,45,5,No,No,08-10-2012
+O-14213,1018,22.84,First Class,Corporate,Office Supplies,45,5,No,No,09-10-2012
+O-14349,1030,22.71,Standard Class,Corporate,Office Supplies,45,0,Yes,No,10-10-2012
+O-14326,1015,22.38,Standard Class,Consumer,Office Supplies,45,3,No,No,11-10-2012
+O-14465,1021,21.89,Same Day,Corporate,Office Supplies,30,3,Yes,No,12-10-2012
+O-14467,1014,22.95,Standard Class,Corporate,Office Supplies,45,3,No,No,13-10-2012
+O-14558,1025,23.46,Standard Class,Corporate,Office Supplies,45,5,Yes,No,14-10-2012
+O-14390,1025,23.37,Standard Class,Corporate,Furniture,45,0,Yes,No,15-10-2012
+O-14758,1029,24.22,Standard Class,Corporate,Office Supplies,45,5,Yes,No,16-10-2012
+O-14779,1029,24.79,First Class,Corporate,Office Supplies,45,5,Yes,No,17-10-2012
+O-14499,1022,25.25,Second Class,Corporate,Office Supplies,45,5,No,No,18-10-2012
+O-14713,1021,25.61,Second Class,Corporate,Office Supplies,45,5,Yes,No,19-10-2012
+O-14350,1026,25.62,Standard Class,Corporate,Office Supplies,45,0,Yes,No,20-10-2012
+O-14909,1022,25.11,Second Class,Corporate,Office Supplies,14,0,No,No,21-10-2012
+O-14442,1021,25.06,Same Day,Corporate,Office Supplies,45,5,No,No,22-10-2012
+O-14691,1029,24.79,Standard Class,Corporate,Office Supplies,45,3,No,No,23-10-2012
+O-14943,1015,25.12,Second Class,Consumer,Office Supplies,45,0,Yes,No,24-10-2012
+O-15000,1024,24.9,Standard Class,Corporate,Office Supplies,30,0,No,No,25-10-2012
+O-14973,1012,25.26,Standard Class,Corporate,Technology,45,3,No,No,26-10-2012
+O-15120,1005,24.65,Standard Class,Corporate,Office Supplies,45,3,Yes,No,27-10-2012
+O-15165,1010,24.81,Standard Class,Consumer,Technology,45,5,No,No,28-10-2012
+O-14830,1024,24.95,Standard Class,Corporate,Office Supplies,45,0,Yes,No,29-10-2012
+O-15354,1030,24.82,First Class,Corporate,Office Supplies,30,0,Yes,No,30-10-2012
+O-15031,1025,24.22,Same Day,Corporate,Office Supplies,30,0,Yes,No,31-10-2012
+O-14946,1012,23.74,First Class,Corporate,Office Supplies,45,3,Yes,No,01-11-2012
+O-15020,1024,23.85,Same Day,Corporate,Office Supplies,30,3,No,No,02-11-2012
+O-14840,1012,23.03,Standard Class,Corporate,Office Supplies,45,3,No,No,03-11-2012
+O-15404,1025,22.88,Standard Class,Corporate,Office Supplies,45,0,Yes,No,04-11-2012
+O-15441,1026,22.56,Second Class,Corporate,Office Supplies,30,0,Yes,No,05-11-2012
+O-15110,1012,21.67,Standard Class,Corporate,Office Supplies,45,0,Yes,No,06-11-2012
+O-15422,1011,21.66,Standard Class,Corporate,Office Supplies,45,3,Yes,No,07-11-2012
+O-15076,1025,21.81,Standard Class,Corporate,Office Supplies,45,0,Yes,No,08-11-2012
+O-15299,1025,21.28,Standard Class,Corporate,Furniture,45,0,Yes,No,09-11-2012
+O-15178,1025,20.05,First Class,Corporate,Office Supplies,45,5,Yes,No,10-11-2012
+O-15710,1012,19.98,Standard Class,Corporate,Office Supplies,30,0,Yes,No,11-11-2012
+O-15369,1011,18.26,Standard Class,Corporate,Office Supplies,45,5,Yes,No,12-11-2012
+O-15635,1022,19.16,Standard Class,Corporate,Office Supplies,30,0,Yes,No,13-11-2012
+O-15707,1010,20.13,Same Day,Consumer,Office Supplies,45,0,Yes,No,14-11-2012
+O-15681,1012,18.72,Standard Class,Corporate,Technology,45,0,No,No,15-11-2012
+O-15941,1025,18.12,Standard Class,Corporate,Furniture,45,5,No,No,16-11-2012
+O-15718,1013,18.39,First Class,Consumer,Office Supplies,45,3,Yes,No,17-11-2012
+O-15414,1022,18.85,First Class,Corporate,Office Supplies,45,0,Yes,No,18-11-2012
+O-15957,1025,18.32,Standard Class,Corporate,Furniture,45,3,Yes,No,19-11-2012
+O-15531,1022,15.04,Standard Class,Corporate,Office Supplies,45,3,Yes,No,20-11-2012
+O-15525,1025,16.24,Same Day,Corporate,Office Supplies,45,0,Yes,No,21-11-2012
+O-15800,1012,15.59,Standard Class,Corporate,Technology,45,0,No,No,22-11-2012
+O-15752,1025,14.3,First Class,Corporate,Office Supplies,45,0,Yes,No,23-11-2012
+O-16121,1022,13.87,Second Class,Corporate,Office Supplies,45,3,Yes,No,24-11-2012
+O-15648,1024,14.02,Second Class,Corporate,Office Supplies,45,3,No,No,25-11-2012
+O-15997,1024,12.74,Standard Class,Corporate,Office Supplies,30,0,No,No,26-11-2012
+O-16076,1026,12.83,Second Class,Corporate,Office Supplies,45,5,Yes,No,27-11-2012
+O-16120,1026,12.68,Standard Class,Corporate,Office Supplies,45,5,No,No,28-11-2012
+O-16165,1029,13.8,Second Class,Corporate,Office Supplies,45,0,Yes,No,29-11-2012
+O-16239,1010,15.75,Standard Class,Consumer,Office Supplies,30,0,No,No,30-11-2012
+O-16040,1018,14.87,Second Class,Corporate,Office Supplies,45,0,No,No,01-12-2012
+O-16198,1013,13.99,Standard Class,Consumer,Office Supplies,45,5,No,No,02-12-2012
+O-16231,1025,14.56,Standard Class,Corporate,Furniture,45,0,Yes,No,03-12-2012
+O-16465,1013,13.91,Second Class,Consumer,Office Supplies,45,5,Yes,No,04-12-2012
+O-16517,1010,14.06,Standard Class,Consumer,Office Supplies,45,0,Yes,No,05-12-2012
+O-16669,1029,13.07,Second Class,Corporate,Furniture,30,0,No,No,06-12-2012
+O-16949,1015,13.84,Standard Class,Consumer,Office Supplies,45,5,Yes,No,07-12-2012
+O-16657,1022,14.03,Second Class,Corporate,Furniture,45,3,Yes,No,08-12-2012
+O-16598,1024,13.77,Standard Class,Corporate,Office Supplies,45,3,Yes,No,09-12-2012
+O-16576,1026,13.16,Standard Class,Corporate,Office Supplies,45,3,Yes,No,10-12-2012
+O-16807,1024,14.27,Standard Class,Corporate,Office Supplies,30,0,Yes,No,11-12-2012
+O-16658,1012,14.94,First Class,Corporate,Furniture,45,0,Yes,No,12-12-2012
+O-16551,1024,15.86,Second Class,Corporate,Office Supplies,45,3,Yes,No,13-12-2012
+O-16618,1030,15.37,First Class,Corporate,Office Supplies,45,0,No,No,14-12-2012
+O-16804,1028,15.28,Standard Class,Consumer,Office Supplies,45,5,No,No,15-12-2012
+O-16463,1024,15.86,Second Class,Corporate,Office Supplies,45,3,No,No,16-12-2012
+O-16763,1012,14.76,Same Day,Corporate,Office Supplies,45,0,Yes,No,17-12-2012
+O-16476,1012,14.16,Standard Class,Corporate,Office Supplies,45,0,No,No,18-12-2012
+O-17241,1010,14.03,Standard Class,Consumer,Furniture,45,0,Yes,No,19-12-2012
+O-16772,1013,13.7,Standard Class,Consumer,Office Supplies,45,5,No,No,20-12-2012
+O-16780,1010,13.54,Second Class,Consumer,Office Supplies,45,3,No,No,21-12-2012
+O-16690,1025,12.87,Second Class,Corporate,Office Supplies,45,0,Yes,No,22-12-2012
+O-17053,1021,13.78,Second Class,Corporate,Office Supplies,45,5,Yes,No,23-12-2012
+O-17136,1013,12.89,First Class,Consumer,Office Supplies,45,5,No,No,24-12-2012
+O-16993,1026,12.59,Standard Class,Corporate,Office Supplies,45,5,Yes,No,25-12-2012
+O-17232,1029,12.84,Standard Class,Corporate,Office Supplies,45,5,Yes,No,26-12-2012
+O-17088,1024,12.33,Standard Class,Corporate,Office Supplies,45,5,Yes,No,27-12-2012
+O-17221,1025,11.5,Standard Class,Corporate,Furniture,45,0,Yes,No,28-12-2012
+O-17324,1025,11.8,Standard Class,Corporate,Office Supplies,45,5,Yes,No,29-12-2012
+O-17249,1013,13.28,First Class,Consumer,Office Supplies,45,5,No,No,30-12-2012
+O-17080,1010,12.97,First Class,Consumer,Furniture,45,0,No,No,31-12-2012
+O-17353,1007,13.57,Second Class,Corporate,Office Supplies,45,5,Yes,No,01-01-2013
+O-16982,1030,13.24,Second Class,Corporate,Office Supplies,45,0,No,No,02-01-2013
+O-17358,1025,12.7,Standard Class,Corporate,Office Supplies,45,0,Yes,No,03-01-2013
+O-17195,1012,13.21,Second Class,Corporate,Office Supplies,45,0,Yes,No,04-01-2013
+O-17557,1026,13.7,Standard Class,Corporate,Office Supplies,14,0,No,No,05-01-2013
+O-17323,1013,13.06,Standard Class,Consumer,Office Supplies,45,3,No,No,06-01-2013
+O-17689,1025,13.43,First Class,Corporate,Office Supplies,30,3,No,No,07-01-2013
+O-17607,1025,14.25,Standard Class,Corporate,Office Supplies,45,5,Yes,No,08-01-2013
+O-17843,1018,14.29,Second Class,Corporate,Office Supplies,45,3,Yes,No,09-01-2013
+O-17451,1026,14.03,Standard Class,Corporate,Office Supplies,45,3,No,No,10-01-2013
+O-17605,1025,13.57,Standard Class,Corporate,Office Supplies,45,3,Yes,No,11-01-2013
+O-17954,1025,14.04,Standard Class,Corporate,Furniture,45,3,Yes,No,12-01-2013
+O-17859,1014,13.54,Standard Class,Corporate,Office Supplies,45,3,No,No,13-01-2013
+O-17721,1022,13.63,Same Day,Corporate,Office Supplies,45,5,Yes,No,14-01-2013
+O-17723,1007,12.74,Second Class,Corporate,Office Supplies,45,0,No,No,15-01-2013
+O-17720,1024,12.78,Standard Class,Corporate,Office Supplies,45,3,Yes,No,16-01-2013
+O-17989,1015,12.86,Standard Class,Consumer,Office Supplies,45,5,No,No,17-01-2013
+O-18061,1012,12.25,Standard Class,Corporate,Office Supplies,45,3,Yes,No,18-01-2013
+O-18056,1012,12.34,Standard Class,Corporate,Office Supplies,45,3,Yes,No,19-01-2013
+O-18106,1018,12.15,Second Class,Corporate,Office Supplies,45,3,No,No,20-01-2013
+O-18006,1022,12.26,First Class,Corporate,Office Supplies,45,3,Yes,No,21-01-2013
+O-18013,1021,12.37,First Class,Corporate,Office Supplies,45,0,Yes,No,22-01-2013
+O-18037,1012,12.33,Second Class,Corporate,Office Supplies,45,3,Yes,No,23-01-2013
+O-18311,1026,12.19,Standard Class,Corporate,Office Supplies,45,5,Yes,No,24-01-2013
+O-18671,1028,12.96,Standard Class,Consumer,Office Supplies,45,0,Yes,No,25-01-2013
+O-18549,1022,13.51,Second Class,Corporate,Furniture,45,5,No,No,26-01-2013
+O-18744,1025,13.29,Standard Class,Corporate,Office Supplies,45,5,Yes,No,27-01-2013
+O-18221,1022,13,Standard Class,Corporate,Office Supplies,45,3,No,No,28-01-2013
+O-18846,1024,13.24,Second Class,Corporate,Technology,45,0,No,No,29-01-2013
+O-18482,1012,12.94,Standard Class,Corporate,Office Supplies,45,5,Yes,No,30-01-2013
+O-18545,1024,12.67,First Class,Corporate,Office Supplies,45,0,Yes,No,31-01-2013
+O-18544,1012,12.53,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-02-2013
+O-19114,1021,12.19,Standard Class,Corporate,Office Supplies,14,0,Yes,No,02-02-2013
+O-19399,1024,11.91,Standard Class,Corporate,Office Supplies,30,5,Yes,No,03-02-2013
+O-18944,1002,11.76,First Class,Corporate,Office Supplies,45,0,Yes,No,04-02-2013
+O-18851,1025,11.17,Standard Class,Corporate,Technology,45,0,Yes,No,05-02-2013
+O-18844,1012,11.83,Second Class,Corporate,Office Supplies,45,0,Yes,No,06-02-2013
+O-18719,1013,12.62,Second Class,Consumer,Office Supplies,45,0,No,No,07-02-2013
+O-19172,1024,12.62,Standard Class,Corporate,Office Supplies,45,5,Yes,No,08-02-2013
+O-18898,1010,12.81,Standard Class,Consumer,Office Supplies,45,0,Yes,No,09-02-2013
+O-18894,1026,12.96,Standard Class,Corporate,Office Supplies,45,5,Yes,No,10-02-2013
+O-19119,1014,13.46,Standard Class,Corporate,Office Supplies,45,0,Yes,No,11-02-2013
+O-19159,1024,13.29,Second Class,Corporate,Office Supplies,45,5,Yes,No,12-02-2013
+O-19305,1013,12.88,Standard Class,Consumer,Office Supplies,45,0,Yes,No,13-02-2013
+O-19288,1024,13.07,Standard Class,Corporate,Office Supplies,45,0,Yes,No,14-02-2013
+O-19409,1012,13.28,Second Class,Corporate,Furniture,45,5,Yes,No,15-02-2013
+O-19372,1028,13.36,Standard Class,Consumer,Office Supplies,45,0,No,No,16-02-2013
+O-19417,1025,13.78,Second Class,Corporate,Furniture,45,0,Yes,No,17-02-2013
+O-19395,1025,14.25,Second Class,Corporate,Office Supplies,45,5,Yes,No,18-02-2013
+O-19273,1021,14.64,Standard Class,Corporate,Office Supplies,45,0,Yes,No,19-02-2013
+O-19534,1026,13.98,Standard Class,Corporate,Office Supplies,45,5,Yes,No,20-02-2013
+O-19822,1012,13.83,Standard Class,Corporate,Technology,45,0,Yes,No,21-02-2013
+O-19482,1012,14.18,Second Class,Corporate,Office Supplies,45,3,Yes,No,22-02-2013
+O-19775,1012,14.17,Standard Class,Corporate,Office Supplies,45,3,Yes,No,23-02-2013
+O-19735,1025,13.5,First Class,Corporate,Office Supplies,45,5,Yes,No,24-02-2013
+O-19429,1007,13.48,Second Class,Corporate,Office Supplies,45,0,Yes,No,25-02-2013
+O-20102,1003,12.95,Second Class,Corporate,Office Supplies,45,3,Yes,No,26-02-2013
+O-19545,1026,13,Second Class,Corporate,Office Supplies,45,0,Yes,No,27-02-2013
+O-19783,1026,12.42,Standard Class,Corporate,Office Supplies,45,5,No,No,28-02-2013
+O-19480,1025,12.89,Standard Class,Corporate,Office Supplies,45,0,No,No,01-03-2013
+O-19982,1013,13.02,Standard Class,Consumer,Office Supplies,45,5,No,No,02-03-2013
+O-20089,1012,12.74,Standard Class,Corporate,Office Supplies,45,5,Yes,No,03-03-2013
+O-19573,1007,12.76,Standard Class,Corporate,Office Supplies,45,0,Yes,No,04-03-2013
+O-19842,1024,12.56,Standard Class,Corporate,Office Supplies,45,0,Yes,No,05-03-2013
+O-20052,1012,12.62,Same Day,Corporate,Office Supplies,45,0,Yes,No,06-03-2013
+O-19778,1026,13.02,Standard Class,Corporate,Office Supplies,45,0,Yes,No,07-03-2013
+O-19821,1012,12.69,Second Class,Corporate,Furniture,45,5,No,No,08-03-2013
+O-20367,1015,12.19,Second Class,Consumer,Office Supplies,45,0,Yes,No,09-03-2013
+O-20243,1018,11.87,Second Class,Corporate,Office Supplies,45,5,No,No,10-03-2013
+O-20084,1025,12.66,Standard Class,Corporate,Office Supplies,45,3,Yes,No,11-03-2013
+O-20235,1021,13.24,Standard Class,Corporate,Office Supplies,45,5,Yes,No,12-03-2013
+O-20198,1010,13.76,Standard Class,Consumer,Office Supplies,45,0,No,No,13-03-2013
+O-20363,1021,13.7,Standard Class,Corporate,Office Supplies,30,5,Yes,No,14-03-2013
+O-20268,1012,13.63,Standard Class,Corporate,Office Supplies,45,0,Yes,No,15-03-2013
+O-20361,1021,14.24,Standard Class,Corporate,Office Supplies,45,3,Yes,No,16-03-2013
+O-20358,1021,14.5,Standard Class,Corporate,Office Supplies,45,5,Yes,No,17-03-2013
+O-20233,1012,14.52,Second Class,Corporate,Office Supplies,30,0,No,No,18-03-2013
+O-20377,1021,14.51,First Class,Corporate,Office Supplies,45,5,Yes,No,19-03-2013
+O-20336,1021,15.38,Standard Class,Corporate,Office Supplies,30,0,No,No,20-03-2013
+O-20426,1007,15.21,Second Class,Corporate,Office Supplies,45,5,No,No,21-03-2013
+O-20471,1022,15.21,Standard Class,Corporate,Office Supplies,45,5,Yes,No,22-03-2013
+O-20570,1024,15.7,Second Class,Corporate,Office Supplies,45,5,Yes,No,23-03-2013
+O-20286,1024,15.26,Standard Class,Corporate,Office Supplies,45,0,No,No,24-03-2013
+O-20623,1024,14.93,First Class,Corporate,Office Supplies,45,5,Yes,No,25-03-2013
+O-20693,1024,15.02,Standard Class,Corporate,Office Supplies,30,0,Yes,No,26-03-2013
+O-20636,1021,15.53,Standard Class,Corporate,Office Supplies,45,5,Yes,No,27-03-2013
+O-20302,1022,16.1,Standard Class,Corporate,Office Supplies,45,5,No,No,28-03-2013
+O-20711,1025,16.57,First Class,Corporate,Office Supplies,30,3,Yes,No,29-03-2013
+O-20621,1021,16.92,Standard Class,Corporate,Furniture,45,0,Yes,No,30-03-2013
+O-20792,1030,16.43,Same Day,Corporate,Office Supplies,45,5,Yes,No,31-03-2013
+O-20674,1012,16.62,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-04-2013
+O-20842,1025,17.08,Standard Class,Corporate,Office Supplies,30,5,No,No,02-04-2013
+O-20598,1017,17.17,Standard Class,Corporate,Office Supplies,45,0,No,No,03-04-2013
+O-21129,1022,16.9,Standard Class,Corporate,Technology,30,5,Yes,No,04-04-2013
+O-20760,1010,16.81,Second Class,Consumer,Office Supplies,45,0,No,No,05-04-2013
+O-21092,1014,17.35,Standard Class,Corporate,Office Supplies,45,5,Yes,No,06-04-2013
+O-20714,1025,17.63,First Class,Corporate,Office Supplies,45,5,Yes,No,07-04-2013
+O-20999,1029,17.21,Standard Class,Corporate,Office Supplies,30,5,No,No,08-04-2013
+O-20949,1007,17.39,Standard Class,Corporate,Office Supplies,45,5,Yes,No,09-04-2013
+O-20876,1022,17.36,Standard Class,Corporate,Office Supplies,30,0,Yes,No,10-04-2013
+O-20858,1021,17.91,Standard Class,Corporate,Office Supplies,45,3,Yes,No,11-04-2013
+O-20919,1021,17.7,Second Class,Corporate,Office Supplies,45,5,Yes,No,12-04-2013
+O-20869,1022,17.82,Standard Class,Corporate,Office Supplies,45,0,No,No,13-04-2013
+O-21142,1030,17.7,Second Class,Corporate,Office Supplies,45,3,Yes,No,14-04-2013
+O-21096,1014,17.88,Standard Class,Corporate,Furniture,45,0,Yes,No,15-04-2013
+O-20945,1003,17.98,Standard Class,Corporate,Office Supplies,45,3,No,No,16-04-2013
+O-21237,1018,18.18,Standard Class,Corporate,Office Supplies,45,5,Yes,No,17-04-2013
+O-21266,1024,18.87,First Class,Corporate,Furniture,45,3,Yes,No,18-04-2013
+O-20981,1021,18.96,Standard Class,Corporate,Office Supplies,45,0,Yes,No,19-04-2013
+O-20960,1021,18.93,First Class,Corporate,Office Supplies,45,0,Yes,No,20-04-2013
+O-21091,1015,18.44,Second Class,Consumer,Office Supplies,45,5,No,No,21-04-2013
+O-21097,1024,18.46,Standard Class,Corporate,Office Supplies,45,0,Yes,No,22-04-2013
+O-21137,1026,18.51,Second Class,Corporate,Technology,45,5,No,No,23-04-2013
+O-21187,1007,17.77,Standard Class,Corporate,Office Supplies,45,0,Yes,No,24-04-2013
+O-21054,1012,17.07,Second Class,Corporate,Office Supplies,45,3,Yes,No,25-04-2013
+O-21133,1022,17.56,Standard Class,Corporate,Office Supplies,45,0,Yes,No,26-04-2013
+O-21140,1026,17.49,Standard Class,Corporate,Furniture,45,0,No,No,27-04-2013
+O-21192,1026,18.09,Standard Class,Corporate,Furniture,45,3,Yes,No,28-04-2013
+O-21331,1010,18.21,Standard Class,Consumer,Office Supplies,45,0,Yes,No,29-04-2013
+O-21164,1026,17.98,Second Class,Corporate,Office Supplies,45,5,Yes,No,30-04-2013
+O-21477,1025,17.74,Standard Class,Corporate,Furniture,45,5,Yes,No,01-05-2013
+O-21551,1026,17.5,Second Class,Corporate,Office Supplies,45,5,Yes,No,02-05-2013
+O-21545,1026,18.68,Standard Class,Corporate,Office Supplies,30,5,Yes,No,03-05-2013
+O-21383,1000,19.01,Standard Class,Consumer,Office Supplies,45,0,Yes,No,04-05-2013
+O-21678,1005,19.3,Second Class,Corporate,Office Supplies,45,5,No,No,05-05-2013
+O-21507,1026,19.4,Standard Class,Corporate,Office Supplies,30,3,Yes,No,06-05-2013
+O-21413,1012,19.91,Standard Class,Corporate,Office Supplies,45,0,Yes,No,07-05-2013
+O-21552,1026,19.93,Standard Class,Corporate,Office Supplies,45,3,Yes,No,08-05-2013
+O-21747,1013,20.14,Standard Class,Consumer,Office Supplies,45,5,Yes,No,09-05-2013
+O-21421,1021,20.53,Standard Class,Corporate,Office Supplies,45,3,Yes,No,10-05-2013
+O-21558,1011,20.67,Standard Class,Corporate,Office Supplies,45,0,Yes,No,11-05-2013
+O-21876,1007,20.55,Standard Class,Corporate,Office Supplies,30,3,Yes,No,12-05-2013
+O-21473,1025,20.39,Second Class,Corporate,Office Supplies,45,3,Yes,No,13-05-2013
+O-21694,1005,20.04,First Class,Corporate,Office Supplies,45,0,Yes,No,14-05-2013
+O-21984,1011,19.99,Standard Class,Corporate,Technology,45,5,Yes,No,15-05-2013
+O-21871,1022,19.57,Second Class,Corporate,Office Supplies,14,3,No,No,16-05-2013
+O-21639,1011,19.44,Second Class,Corporate,Office Supplies,45,0,Yes,No,17-05-2013
+O-21531,1025,19.48,Standard Class,Corporate,Office Supplies,45,0,No,No,18-05-2013
+O-21924,1011,19.37,Standard Class,Corporate,Office Supplies,45,5,Yes,No,19-05-2013
+O-21883,1025,19.41,Standard Class,Corporate,Office Supplies,45,3,Yes,No,20-05-2013
+O-21887,1012,19.93,Standard Class,Corporate,Office Supplies,45,5,Yes,No,21-05-2013
+O-21970,1013,19.62,Second Class,Consumer,Office Supplies,45,3,Yes,No,22-05-2013
+O-21725,1021,19.14,Standard Class,Corporate,Office Supplies,45,5,Yes,No,23-05-2013
+O-21975,1025,19.46,Second Class,Corporate,Office Supplies,45,5,Yes,No,24-05-2013
+O-22040,1010,19.98,Standard Class,Consumer,Office Supplies,30,0,No,No,25-05-2013
+O-21914,1022,20.35,Second Class,Corporate,Furniture,45,5,No,No,26-05-2013
+O-21979,1013,20.28,Second Class,Consumer,Office Supplies,45,0,No,No,27-05-2013
+O-22160,1010,20.35,Standard Class,Consumer,Office Supplies,30,5,No,No,28-05-2013
+O-22253,1010,20.4,First Class,Consumer,Office Supplies,45,5,Yes,No,29-05-2013
+O-22066,1022,20,Standard Class,Corporate,Office Supplies,45,5,Yes,No,30-05-2013
+O-22220,1021,19.8,Standard Class,Corporate,Office Supplies,30,5,Yes,No,31-05-2013
+O-22131,1011,19.34,Second Class,Corporate,Office Supplies,45,5,Yes,No,01-06-2013
+O-22359,1019,19.6,Standard Class,Corporate,Furniture,45,0,Yes,No,02-06-2013
+O-22317,1012,19.48,Standard Class,Corporate,Office Supplies,45,5,Yes,No,03-06-2013
+O-22126,1022,19.79,Second Class,Corporate,Office Supplies,45,5,Yes,No,04-06-2013
+O-22008,1010,20.33,Second Class,Consumer,Office Supplies,45,0,No,No,05-06-2013
+O-22163,1025,20.32,Second Class,Corporate,Office Supplies,30,0,No,No,06-06-2013
+O-22513,1005,20.98,Second Class,Corporate,Office Supplies,45,3,Yes,No,07-06-2013
+O-22326,1021,21.07,Standard Class,Corporate,Office Supplies,45,5,Yes,No,08-06-2013
+O-22282,1021,21.68,Standard Class,Corporate,Office Supplies,30,5,No,No,09-06-2013
+O-22419,1021,21.84,Second Class,Corporate,Technology,45,0,Yes,No,10-06-2013
+O-22099,1026,21.64,Second Class,Corporate,Office Supplies,45,0,Yes,No,11-06-2013
+O-22305,1029,22.39,Standard Class,Corporate,Office Supplies,45,0,No,No,12-06-2013
+O-22398,1024,22.55,First Class,Corporate,Office Supplies,45,3,Yes,No,13-06-2013
+O-22356,1024,22.86,First Class,Corporate,Technology,45,5,No,No,14-06-2013
+O-22255,1012,22.87,Standard Class,Corporate,Office Supplies,45,0,Yes,No,15-06-2013
+O-22618,1010,22.86,Second Class,Consumer,Office Supplies,45,5,Yes,No,16-06-2013
+O-22444,1026,22.86,Standard Class,Corporate,Office Supplies,45,3,Yes,No,17-06-2013
+O-22560,1025,23.26,Standard Class,Corporate,Furniture,45,3,Yes,No,18-06-2013
+O-22572,1012,23.34,Standard Class,Corporate,Office Supplies,45,5,Yes,No,19-06-2013
+O-22364,1022,23.78,Second Class,Corporate,Office Supplies,45,0,Yes,No,20-06-2013
+O-22587,1026,23.65,Second Class,Corporate,Office Supplies,30,3,No,No,21-06-2013
+O-22443,1024,23.59,Second Class,Corporate,Office Supplies,45,0,No,No,22-06-2013
+O-22449,1025,23.42,Standard Class,Corporate,Office Supplies,45,0,Yes,No,23-06-2013
+O-22511,1021,23.64,Same Day,Corporate,Office Supplies,45,5,Yes,No,24-06-2013
+O-22933,1024,23.53,Standard Class,Corporate,Office Supplies,45,5,Yes,No,25-06-2013
+O-22713,1025,23.26,Same Day,Corporate,Office Supplies,45,3,Yes,No,26-06-2013
+O-22818,1025,23.62,Standard Class,Corporate,Furniture,45,0,Yes,No,27-06-2013
+O-23071,1015,24.06,Second Class,Consumer,Technology,45,5,No,No,28-06-2013
+O-22813,1029,23.83,Second Class,Corporate,Office Supplies,45,0,No,No,29-06-2013
+O-22895,1012,22.8,Standard Class,Corporate,Office Supplies,45,5,Yes,No,30-06-2013
+O-23376,1015,23.43,Second Class,Consumer,Office Supplies,45,5,Yes,No,01-07-2013
+O-23153,1015,23.51,First Class,Consumer,Office Supplies,45,3,Yes,No,02-07-2013
+O-23067,1024,23.76,First Class,Corporate,Office Supplies,45,5,Yes,No,03-07-2013
+O-23001,1029,24.17,Standard Class,Corporate,Office Supplies,45,5,No,No,04-07-2013
+O-22973,1015,24.15,Standard Class,Consumer,Office Supplies,45,0,No,No,05-07-2013
+O-22909,1021,24.2,First Class,Corporate,Office Supplies,45,5,Yes,No,06-07-2013
+O-23304,1025,23.92,Same Day,Corporate,Office Supplies,30,3,Yes,No,07-07-2013
+O-22892,1029,24.21,Second Class,Corporate,Office Supplies,45,0,No,No,08-07-2013
+O-23091,1026,24.29,First Class,Corporate,Office Supplies,45,3,Yes,No,09-07-2013
+O-23322,1012,24.03,Standard Class,Corporate,Furniture,45,0,Yes,No,10-07-2013
+O-23060,1026,23.61,Same Day,Corporate,Furniture,45,0,No,No,11-07-2013
+O-23132,1012,23.6,Standard Class,Corporate,Office Supplies,45,5,No,No,12-07-2013
+O-23279,1012,23.79,Standard Class,Corporate,Office Supplies,30,0,No,No,13-07-2013
+O-23205,1012,24.33,Second Class,Corporate,Office Supplies,45,0,Yes,No,14-07-2013
+O-23367,1010,24.7,Second Class,Consumer,Office Supplies,45,3,Yes,No,15-07-2013
+O-23552,1013,24.45,Second Class,Consumer,Office Supplies,45,0,Yes,No,16-07-2013
+O-23263,1022,24.65,Standard Class,Corporate,Office Supplies,45,3,Yes,No,17-07-2013
+O-23421,1025,24.59,Standard Class,Corporate,Office Supplies,45,5,Yes,No,18-07-2013
+O-23449,1022,24.82,Second Class,Corporate,Office Supplies,45,5,Yes,No,19-07-2013
+O-23667,1012,25.02,Standard Class,Corporate,Office Supplies,45,3,Yes,No,20-07-2013
+O-23659,1005,25.98,Standard Class,Corporate,Office Supplies,45,0,Yes,No,21-07-2013
+O-23476,1010,26.36,Standard Class,Consumer,Office Supplies,45,3,Yes,No,22-07-2013
+O-23644,1029,26.43,First Class,Corporate,Office Supplies,45,0,No,No,23-07-2013
+O-23508,1007,26.29,Standard Class,Corporate,Office Supplies,45,3,No,No,24-07-2013
+O-23381,1025,26.35,Standard Class,Corporate,Office Supplies,45,3,No,No,25-07-2013
+O-23725,1012,26.5,Standard Class,Corporate,Furniture,45,3,Yes,No,26-07-2013
+O-23926,1005,26.26,Standard Class,Corporate,Furniture,45,3,Yes,No,27-07-2013
+O-23625,1024,26.05,First Class,Corporate,Office Supplies,45,3,Yes,No,28-07-2013
+O-23980,1012,26.59,Standard Class,Corporate,Furniture,45,0,Yes,No,29-07-2013
+O-23838,1024,26.48,First Class,Corporate,Office Supplies,45,0,Yes,No,30-07-2013
+O-23785,1012,26.48,Standard Class,Corporate,Office Supplies,30,0,Yes,No,31-07-2013
+O-23714,1012,25.84,First Class,Corporate,Office Supplies,45,0,Yes,No,01-08-2013
+O-24112,1010,26.41,Second Class,Consumer,Office Supplies,45,3,Yes,No,02-08-2013
+O-23983,1012,26.57,Same Day,Corporate,Office Supplies,45,5,Yes,No,03-08-2013
+O-24075,1012,27.14,Second Class,Corporate,Office Supplies,30,0,Yes,No,04-08-2013
+O-24071,1011,27.18,Standard Class,Corporate,Office Supplies,45,5,No,No,05-08-2013
+O-24134,1024,27.04,Standard Class,Corporate,Office Supplies,45,3,Yes,No,06-08-2013
+O-23874,1021,27.21,Second Class,Corporate,Office Supplies,45,5,No,No,07-08-2013
+O-23942,1026,27.26,Standard Class,Corporate,Office Supplies,45,3,Yes,No,08-08-2013
+O-23992,1013,27.15,Standard Class,Consumer,Office Supplies,45,0,No,No,09-08-2013
+O-24362,1012,27.33,Standard Class,Corporate,Office Supplies,45,5,No,No,10-08-2013
+O-24347,1025,27.22,Standard Class,Corporate,Office Supplies,30,0,No,No,11-08-2013
+O-24400,1013,26.86,First Class,Consumer,Office Supplies,45,0,Yes,No,12-08-2013
+O-24408,1026,27.12,Standard Class,Corporate,Office Supplies,45,3,Yes,No,13-08-2013
+O-24387,1029,28.39,Standard Class,Corporate,Office Supplies,45,0,Yes,No,14-08-2013
+O-24687,1024,29.27,Standard Class,Corporate,Furniture,45,0,Yes,No,15-08-2013
+O-23998,1012,29.31,Standard Class,Corporate,Office Supplies,45,3,No,No,16-08-2013
+O-24865,1024,29.13,Standard Class,Corporate,Office Supplies,45,3,Yes,No,17-08-2013
+O-24497,1026,28.93,Second Class,Corporate,Office Supplies,45,3,Yes,No,18-08-2013
+O-24820,1022,28.2,Standard Class,Corporate,Office Supplies,45,3,Yes,No,19-08-2013
+O-24447,1012,27.49,Standard Class,Corporate,Office Supplies,45,5,No,No,20-08-2013
+O-24555,1025,28.05,First Class,Corporate,Office Supplies,45,3,Yes,No,21-08-2013
+O-24770,1025,26.93,Standard Class,Corporate,Office Supplies,45,5,No,No,22-08-2013
+O-24320,1025,27.04,Standard Class,Corporate,Office Supplies,45,3,No,No,23-08-2013
+O-24446,1022,26.96,Standard Class,Corporate,Office Supplies,45,0,Yes,No,24-08-2013
+O-25320,1012,27.26,Second Class,Corporate,Office Supplies,30,5,No,No,25-08-2013
+O-24912,1021,27.72,First Class,Corporate,Office Supplies,45,3,Yes,No,26-08-2013
+O-25091,1010,27.76,Standard Class,Consumer,Office Supplies,30,0,No,No,27-08-2013
+O-24915,1012,28.78,Standard Class,Corporate,Office Supplies,45,5,No,No,28-08-2013
+O-24867,1022,29,First Class,Corporate,Office Supplies,45,5,No,No,29-08-2013
+O-25383,1026,29.04,Second Class,Corporate,Office Supplies,30,0,Yes,No,30-08-2013
+O-25184,1012,28.86,Standard Class,Corporate,Office Supplies,45,0,Yes,No,31-08-2013
+O-25577,1018,29.21,Second Class,Corporate,Office Supplies,45,0,Yes,No,01-09-2013
+O-25794,1029,29.52,Standard Class,Corporate,Office Supplies,45,3,Yes,No,02-09-2013
+O-25575,1012,29.57,First Class,Corporate,Technology,45,0,No,No,03-09-2013
+O-25781,1010,29.42,Standard Class,Consumer,Furniture,45,3,Yes,No,04-09-2013
+O-25649,1007,28.64,Standard Class,Corporate,Office Supplies,45,5,No,No,05-09-2013
+O-25589,1021,28.56,Second Class,Corporate,Office Supplies,45,0,Yes,No,06-09-2013
+O-25547,1010,29.41,Second Class,Consumer,Office Supplies,45,5,Yes,No,07-09-2013
+O-25876,1003,29.21,Standard Class,Corporate,Office Supplies,45,0,Yes,No,08-09-2013
+O-25886,1030,29.17,First Class,Corporate,Office Supplies,45,3,Yes,No,09-09-2013
+O-25453,1010,28.66,First Class,Consumer,Office Supplies,45,0,No,No,10-09-2013
+O-25619,1026,28.56,Standard Class,Corporate,Office Supplies,30,0,No,No,11-09-2013
+O-25682,1013,28.14,Second Class,Consumer,Office Supplies,45,0,Yes,No,12-09-2013
+O-26011,1022,28.03,Second Class,Corporate,Office Supplies,45,5,Yes,No,13-09-2013
+O-26081,1022,28.07,Second Class,Corporate,Office Supplies,45,5,Yes,No,14-09-2013
+O-26275,1029,27.62,Standard Class,Corporate,Furniture,45,5,No,No,15-09-2013
+O-25855,1021,26.99,Second Class,Corporate,Office Supplies,45,3,Yes,No,16-09-2013
+O-25865,1021,27.12,Second Class,Corporate,Office Supplies,30,0,No,No,17-09-2013
+O-26105,1022,28.26,Standard Class,Corporate,Office Supplies,45,5,Yes,No,18-09-2013
+O-26248,1015,28.06,First Class,Consumer,Office Supplies,45,0,Yes,No,19-09-2013
+O-25513,1026,27.81,Standard Class,Corporate,Office Supplies,45,0,No,No,20-09-2013
+O-25933,1025,28.14,Second Class,Corporate,Office Supplies,45,3,Yes,No,21-09-2013
+O-26067,1011,27.74,Standard Class,Corporate,Office Supplies,45,5,Yes,No,22-09-2013
+O-26084,1022,27.86,Standard Class,Corporate,Office Supplies,45,3,Yes,No,23-09-2013
+O-26012,1022,27.41,Second Class,Corporate,Office Supplies,45,0,Yes,No,24-09-2013
+O-26203,1025,27.92,Standard Class,Corporate,Office Supplies,45,0,Yes,No,25-09-2013
+O-26137,1025,28.32,Standard Class,Corporate,Office Supplies,45,5,Yes,No,26-09-2013
+O-26464,1024,28.62,First Class,Corporate,Furniture,45,0,Yes,No,27-09-2013
+O-26183,1021,28.87,Standard Class,Corporate,Office Supplies,45,0,Yes,No,28-09-2013
+O-26010,1022,29.86,Second Class,Corporate,Office Supplies,45,0,Yes,No,29-09-2013
+O-26387,1005,30.23,First Class,Corporate,Office Supplies,45,5,No,No,30-09-2013
+O-26383,1025,29.87,Standard Class,Corporate,Office Supplies,45,3,No,No,01-10-2013
+O-26573,1010,30.23,Same Day,Consumer,Technology,45,0,No,No,02-10-2013
+O-26511,1028,30.1,Standard Class,Consumer,Office Supplies,45,3,No,No,03-10-2013
+O-26359,1022,30.57,Second Class,Corporate,Office Supplies,45,5,Yes,No,04-10-2013
+O-26465,1023,30.63,First Class,Consumer,Office Supplies,45,0,No,No,05-10-2013
+O-26628,1011,30.14,Standard Class,Corporate,Office Supplies,45,0,Yes,No,06-10-2013
+O-26385,1024,30.08,Standard Class,Corporate,Office Supplies,45,3,Yes,No,07-10-2013
+O-26699,1021,30.28,Standard Class,Corporate,Office Supplies,45,0,Yes,No,08-10-2013
+O-26575,1012,30.02,First Class,Corporate,Office Supplies,45,5,Yes,No,09-10-2013
+O-26453,1012,29.67,Standard Class,Corporate,Office Supplies,45,0,Yes,No,10-10-2013
+O-26429,1025,30.09,Standard Class,Corporate,Office Supplies,45,0,No,No,11-10-2013
+O-26605,1026,29.92,First Class,Corporate,Office Supplies,45,0,Yes,No,12-10-2013
+O-26688,1026,29.42,Standard Class,Corporate,Office Supplies,45,5,Yes,No,13-10-2013
+O-26612,1010,30.72,Second Class,Consumer,Office Supplies,45,3,No,No,14-10-2013
+O-26666,1007,30.25,Standard Class,Corporate,Office Supplies,45,3,Yes,No,15-10-2013
+O-26848,1022,29.72,Standard Class,Corporate,Office Supplies,45,0,Yes,No,16-10-2013
+O-26668,1022,28.25,Standard Class,Corporate,Office Supplies,45,0,Yes,No,17-10-2013
+O-26859,1026,29.01,First Class,Corporate,Office Supplies,45,5,Yes,No,18-10-2013
+O-26661,1026,29.42,Standard Class,Corporate,Office Supplies,30,0,No,No,19-10-2013
+O-27359,1024,29.7,Standard Class,Corporate,Office Supplies,45,0,Yes,No,20-10-2013
+O-26899,1022,28.47,First Class,Corporate,Office Supplies,45,0,Yes,No,21-10-2013
+O-27076,1026,27.44,Standard Class,Corporate,Office Supplies,30,0,No,No,22-10-2013
+O-27236,1018,27.82,Standard Class,Corporate,Office Supplies,45,0,No,No,23-10-2013
+O-27488,1022,27.98,Same Day,Corporate,Office Supplies,45,3,Yes,No,24-10-2013
+O-27338,1021,28.46,Standard Class,Corporate,Office Supplies,45,0,Yes,No,25-10-2013
+O-27448,1024,27.44,Standard Class,Corporate,Office Supplies,45,5,No,No,26-10-2013
+O-27187,1012,27.92,Standard Class,Corporate,Office Supplies,45,0,Yes,No,27-10-2013
+O-27516,1010,27.73,Standard Class,Consumer,Furniture,45,3,No,No,28-10-2013
+O-27548,1021,28.03,Second Class,Corporate,Office Supplies,45,5,No,No,29-10-2013
+O-27638,1021,27.87,Standard Class,Corporate,Office Supplies,45,3,Yes,No,30-10-2013
+O-27520,1021,28.38,Second Class,Corporate,Office Supplies,45,5,No,No,31-10-2013
+O-27729,1024,28.63,Standard Class,Corporate,Office Supplies,45,0,Yes,No,01-11-2013
+O-27580,1022,29.06,Second Class,Corporate,Office Supplies,45,0,Yes,No,02-11-2013
+O-27574,1011,28.94,Second Class,Corporate,Office Supplies,45,0,Yes,No,03-11-2013
+O-27747,1025,28.99,Standard Class,Corporate,Office Supplies,45,3,Yes,No,04-11-2013
+O-27686,1013,28.81,Second Class,Consumer,Office Supplies,45,0,Yes,No,05-11-2013
+O-27468,1024,28.63,Standard Class,Corporate,Office Supplies,45,0,No,No,06-11-2013
+O-28004,1025,28.15,First Class,Corporate,Office Supplies,45,0,Yes,No,07-11-2013
+O-27761,1026,28.66,Standard Class,Corporate,Office Supplies,45,0,Yes,No,08-11-2013
+O-28291,1012,28.86,Standard Class,Corporate,Office Supplies,45,3,Yes,No,09-11-2013
+O-27576,1022,29.23,Second Class,Corporate,Office Supplies,45,0,Yes,No,10-11-2013
+O-28173,1021,29.86,Second Class,Corporate,Office Supplies,30,0,Yes,No,11-11-2013
+O-28197,1014,29.84,Standard Class,Corporate,Office Supplies,45,3,No,No,12-11-2013
+O-27988,1022,29.9,Standard Class,Corporate,Office Supplies,45,0,Yes,No,13-11-2013
+O-28221,1021,30.1,First Class,Corporate,Office Supplies,45,0,Yes,No,14-11-2013
+O-28413,1022,31.28,Second Class,Corporate,Office Supplies,45,3,Yes,No,15-11-2013
+O-28398,1018,31.3,Standard Class,Corporate,Office Supplies,45,0,No,No,16-11-2013
+O-28749,1025,31.86,Second Class,Corporate,Office Supplies,45,3,Yes,No,17-11-2013
+O-28615,1010,32.12,Standard Class,Consumer,Office Supplies,30,5,No,No,18-11-2013
+O-28578,1007,32.21,First Class,Corporate,Office Supplies,45,0,Yes,No,19-11-2013
+O-28404,1021,32.37,Second Class,Corporate,Office Supplies,45,0,Yes,No,20-11-2013
+O-28544,1022,31.98,Second Class,Corporate,Office Supplies,45,5,Yes,No,21-11-2013
+O-28939,1012,32.06,Standard Class,Corporate,Furniture,45,0,Yes,No,22-11-2013
+O-28989,1012,32.02,Second Class,Corporate,Office Supplies,45,5,Yes,No,23-11-2013
+O-28809,1029,32.09,Standard Class,Corporate,Office Supplies,45,3,No,No,24-11-2013
+O-29111,1028,31.75,Second Class,Consumer,Office Supplies,45,3,Yes,No,25-11-2013
+O-28757,1018,32.11,Standard Class,Corporate,Office Supplies,45,0,No,No,26-11-2013
+O-29134,1021,32.62,Same Day,Corporate,Office Supplies,45,3,Yes,No,27-11-2013
+O-29331,1026,32.77,Standard Class,Corporate,Furniture,45,0,Yes,No,28-11-2013
+O-28817,1012,32.38,Standard Class,Corporate,Office Supplies,45,0,Yes,No,29-11-2013
+O-29711,1030,32.99,Standard Class,Corporate,Office Supplies,45,0,Yes,No,30-11-2013
+O-29362,1024,33.2,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-12-2013
+O-29121,1007,33.69,Standard Class,Corporate,Office Supplies,45,0,No,No,02-12-2013
+O-28778,1026,33.57,Standard Class,Corporate,Office Supplies,45,0,No,No,03-12-2013
+O-28912,1021,34.07,Standard Class,Corporate,Office Supplies,45,0,Yes,No,04-12-2013
+O-29431,1012,34.22,Standard Class,Corporate,Office Supplies,45,0,Yes,No,05-12-2013
+O-29571,1012,34.37,Second Class,Corporate,Office Supplies,45,3,Yes,No,06-12-2013
+O-29629,1021,34.28,Standard Class,Corporate,Office Supplies,45,5,Yes,No,07-12-2013
+O-29915,1025,34.54,Standard Class,Corporate,Office Supplies,30,0,Yes,No,08-12-2013
+O-29825,1013,34.61,Second Class,Consumer,Office Supplies,45,0,Yes,No,09-12-2013
+O-29610,1012,34.63,Standard Class,Corporate,Office Supplies,45,0,Yes,No,10-12-2013
+O-29761,1022,35.1,Standard Class,Corporate,Office Supplies,45,5,Yes,No,11-12-2013
+O-29906,1029,35.56,Standard Class,Corporate,Office Supplies,45,0,Yes,No,12-12-2013
+O-29983,1012,35.34,Standard Class,Corporate,Furniture,45,0,Yes,No,13-12-2013
+O-29887,1024,35.3,Standard Class,Corporate,Office Supplies,45,3,No,No,14-12-2013
+O-29964,1024,34.94,Standard Class,Corporate,Office Supplies,45,5,Yes,No,15-12-2013
+O-29969,1026,37.03,First Class,Corporate,Office Supplies,45,5,No,No,16-12-2013
+O-30147,1011,38.07,Standard Class,Corporate,Office Supplies,45,0,Yes,No,17-12-2013
+O-30089,1025,38.69,First Class,Corporate,Office Supplies,45,5,Yes,No,18-12-2013
+O-30251,1010,38.5,Standard Class,Consumer,Office Supplies,45,5,Yes,No,19-12-2013
+O-29896,1012,37.43,First Class,Corporate,Office Supplies,45,0,Yes,No,20-12-2013
+O-30102,1012,37.37,First Class,Corporate,Office Supplies,45,3,Yes,No,21-12-2013
+O-30298,1012,38.38,Second Class,Corporate,Furniture,45,3,Yes,No,22-12-2013
+O-29905,1026,37.3,Standard Class,Corporate,Furniture,45,0,No,No,23-12-2013
+O-30350,1025,38.05,Standard Class,Corporate,Office Supplies,45,0,Yes,No,24-12-2013
+O-30204,1011,36.95,Standard Class,Corporate,Office Supplies,45,0,No,No,25-12-2013
+O-30269,1012,36.57,Standard Class,Corporate,Office Supplies,45,5,Yes,No,26-12-2013
+O-30282,1025,35.18,Standard Class,Corporate,Office Supplies,45,0,Yes,No,27-12-2013
+O-30344,1021,33.69,Standard Class,Corporate,Office Supplies,45,5,Yes,No,28-12-2013
+O-30305,1012,36.28,Second Class,Corporate,Office Supplies,45,3,Yes,No,29-12-2013
+O-30285,1012,36.65,Standard Class,Corporate,Office Supplies,45,0,Yes,No,30-12-2013
+O-30278,1012,37.44,Standard Class,Corporate,Office Supplies,45,5,No,No,31-12-2013
+O-30943,1010,36.91,Standard Class,Consumer,Office Supplies,30,0,Yes,No,01-01-2014
+O-30601,1025,36.26,Second Class,Corporate,Office Supplies,45,3,Yes,No,02-01-2014
+O-30613,1024,36.32,First Class,Corporate,Office Supplies,45,3,No,No,03-01-2014
+O-30628,1021,36.05,Second Class,Corporate,Furniture,45,0,Yes,No,04-01-2014
+O-30839,1021,35.48,First Class,Corporate,Office Supplies,45,3,Yes,No,05-01-2014
+O-30446,1022,33.97,Same Day,Corporate,Office Supplies,45,0,Yes,No,06-01-2014
+O-30975,1010,34.62,Standard Class,Consumer,Office Supplies,45,0,Yes,No,07-01-2014
+O-30725,1026,35.25,Standard Class,Corporate,Office Supplies,45,5,Yes,No,08-01-2014
+O-30950,1012,35.03,First Class,Corporate,Furniture,45,5,No,No,09-01-2014
+O-31138,1011,34.87,Standard Class,Corporate,Furniture,45,5,No,No,10-01-2014
+O-30724,1013,36.19,Second Class,Consumer,Office Supplies,45,0,No,No,11-01-2014
+O-30751,1012,36.7,First Class,Corporate,Office Supplies,45,3,No,No,12-01-2014
+O-31047,1025,37.26,Standard Class,Corporate,Office Supplies,45,5,Yes,No,13-01-2014
+O-31099,1026,37.71,Second Class,Corporate,Office Supplies,45,3,Yes,No,14-01-2014
+O-31029,1025,37.59,Standard Class,Corporate,Office Supplies,45,3,Yes,No,15-01-2014
+O-31547,1022,36.57,Second Class,Corporate,Technology,45,3,Yes,No,16-01-2014
+O-31340,1022,35.85,First Class,Corporate,Office Supplies,45,5,No,No,17-01-2014
+O-31104,1022,35.62,Same Day,Corporate,Office Supplies,45,0,Yes,No,18-01-2014
+O-31619,1021,34.74,Same Day,Corporate,Furniture,45,0,Yes,No,19-01-2014
+O-31349,1029,35.79,Standard Class,Corporate,Office Supplies,45,0,Yes,No,20-01-2014
+O-31816,1026,36.22,Standard Class,Corporate,Office Supplies,30,0,Yes,No,21-01-2014
+O-31451,1012,36.33,Second Class,Corporate,Office Supplies,45,0,Yes,No,22-01-2014
+O-31613,1022,37.1,Same Day,Corporate,Office Supplies,30,0,No,No,23-01-2014
+O-31570,1029,38.18,Standard Class,Corporate,Office Supplies,45,0,No,No,24-01-2014
+O-31486,1024,38.84,Same Day,Corporate,Office Supplies,45,0,Yes,No,25-01-2014
+O-32246,1015,39.15,Standard Class,Consumer,Office Supplies,45,0,Yes,No,26-01-2014
+O-31480,1012,38.6,Second Class,Corporate,Office Supplies,45,0,No,No,27-01-2014
+O-31762,1025,39.12,Standard Class,Corporate,Office Supplies,45,3,Yes,No,28-01-2014
+O-31803,1012,38.71,Standard Class,Corporate,Office Supplies,45,3,Yes,No,29-01-2014
+O-31872,1022,38.43,Second Class,Corporate,Furniture,45,0,No,No,30-01-2014
+O-32210,1025,38.1,Standard Class,Corporate,Office Supplies,45,3,Yes,No,31-01-2014
+O-32419,1025,38.33,Standard Class,Corporate,Furniture,45,3,Yes,No,01-02-2014
+O-31692,1026,36.6,Standard Class,Corporate,Office Supplies,45,5,No,No,02-02-2014
+O-32314,1003,35.93,Same Day,Corporate,Office Supplies,45,0,Yes,No,03-02-2014
+O-32617,1012,35.5,Second Class,Corporate,Furniture,45,0,Yes,No,04-02-2014
+O-31801,1026,35.28,Standard Class,Corporate,Office Supplies,45,0,No,No,05-02-2014
+O-32459,1012,35.52,Standard Class,Corporate,Office Supplies,45,0,Yes,No,06-02-2014
+O-32064,1026,36.95,Second Class,Corporate,Furniture,45,0,No,No,07-02-2014
+O-32132,1026,36.87,Same Day,Corporate,Office Supplies,45,3,Yes,No,08-02-2014
+O-32723,1013,37.09,Standard Class,Consumer,Office Supplies,45,0,Yes,No,09-02-2014
+O-32606,1025,36.76,Standard Class,Corporate,Office Supplies,30,5,Yes,No,10-02-2014
+O-32192,1025,35.97,Standard Class,Corporate,Office Supplies,45,0,No,No,11-02-2014
+O-31995,1025,36.1,Standard Class,Corporate,Office Supplies,45,0,No,No,12-02-2014
+O-32451,1022,35.92,Standard Class,Corporate,Office Supplies,45,3,Yes,No,13-02-2014
+O-32648,1025,35.7,Second Class,Corporate,Office Supplies,45,0,Yes,No,14-02-2014
+O-32841,1010,35.08,First Class,Consumer,Office Supplies,45,3,Yes,No,15-02-2014
+O-32593,1012,35.98,Standard Class,Corporate,Office Supplies,45,3,Yes,No,16-02-2014
+O-32871,1021,36.32,Standard Class,Corporate,Office Supplies,45,3,Yes,No,17-02-2014
+O-32714,1024,37,First Class,Corporate,Office Supplies,45,0,No,No,18-02-2014
+O-32798,1012,37.13,Standard Class,Corporate,Office Supplies,45,3,No,No,19-02-2014
+O-33251,1007,37.04,Standard Class,Corporate,Furniture,45,3,No,No,20-02-2014
+O-32993,1021,37.73,Standard Class,Corporate,Office Supplies,45,3,No,No,21-02-2014
+O-33469,1018,37.28,Standard Class,Corporate,Office Supplies,45,3,Yes,No,22-02-2014
+O-33028,1011,36.87,Standard Class,Corporate,Office Supplies,45,0,Yes,No,23-02-2014
+O-32977,1021,36.75,Standard Class,Corporate,Office Supplies,45,3,No,No,24-02-2014
+O-33095,1012,37.41,Standard Class,Corporate,Office Supplies,45,0,Yes,No,25-02-2014
+O-33073,1021,37.42,Standard Class,Corporate,Office Supplies,45,0,Yes,No,26-02-2014
+O-33232,1026,37.57,Standard Class,Corporate,Office Supplies,45,0,Yes,No,27-02-2014
+O-33482,1021,37.39,Standard Class,Corporate,Office Supplies,45,3,Yes,No,28-02-2014
+O-33407,1026,37.16,Standard Class,Corporate,Office Supplies,45,5,No,No,01-03-2014
+O-33990,1022,37.39,Standard Class,Corporate,Office Supplies,45,5,Yes,No,02-03-2014
+O-33562,1013,37.06,Second Class,Consumer,Office Supplies,45,3,No,No,03-03-2014
+O-33671,1018,35.74,Standard Class,Corporate,Office Supplies,45,5,No,No,04-03-2014
+O-34006,1003,35.97,Second Class,Corporate,Office Supplies,45,5,Yes,No,05-03-2014
+O-33844,1025,35.59,Standard Class,Corporate,Office Supplies,45,0,Yes,No,06-03-2014
+O-34043,1007,35.38,Standard Class,Corporate,Office Supplies,45,5,Yes,No,07-03-2014
+O-34114,1007,36,Standard Class,Corporate,Office Supplies,30,0,Yes,No,08-03-2014
+O-33728,1025,36.15,Standard Class,Corporate,Office Supplies,45,0,Yes,No,09-03-2014
+O-33995,1026,35.7,Standard Class,Corporate,Furniture,45,0,Yes,No,10-03-2014
+O-33950,1011,35.66,Standard Class,Corporate,Office Supplies,45,5,No,No,11-03-2014
+O-34159,1024,35.11,Second Class,Corporate,Office Supplies,45,5,Yes,No,12-03-2014
+O-34266,1013,34.28,Second Class,Consumer,Technology,45,3,Yes,No,13-03-2014
+O-34072,1022,34.7,Standard Class,Corporate,Office Supplies,45,3,Yes,No,14-03-2014
+O-34012,1022,34.33,Standard Class,Corporate,Office Supplies,45,5,Yes,No,15-03-2014
+O-34162,1024,34.52,Second Class,Corporate,Office Supplies,45,3,Yes,No,16-03-2014
+O-34202,1024,34.64,Standard Class,Corporate,Office Supplies,45,0,Yes,No,17-03-2014
+O-34247,1012,34.73,Standard Class,Corporate,Office Supplies,45,5,Yes,No,18-03-2014
+O-34251,1012,35.76,First Class,Corporate,Office Supplies,45,3,Yes,No,19-03-2014
+O-34110,1024,36.02,Standard Class,Corporate,Office Supplies,45,0,Yes,No,20-03-2014
+O-34454,1026,36.97,Standard Class,Corporate,Office Supplies,14,0,No,No,21-03-2014
+O-34450,1030,36.83,Standard Class,Corporate,Office Supplies,45,3,No,No,22-03-2014
+O-34306,1011,37.56,Standard Class,Corporate,Office Supplies,45,5,No,No,23-03-2014
+O-34598,1025,37.58,First Class,Corporate,Office Supplies,30,5,No,No,24-03-2014
+O-34346,1021,37.63,First Class,Corporate,Office Supplies,45,3,No,No,25-03-2014
+O-34317,1026,38.15,Second Class,Corporate,Office Supplies,45,5,Yes,No,26-03-2014
+O-34579,1021,38.29,Same Day,Corporate,Office Supplies,45,3,Yes,No,27-03-2014
+O-34562,1022,38.6,Same Day,Corporate,Office Supplies,45,0,Yes,No,28-03-2014
+O-34672,1014,39.51,Standard Class,Corporate,Office Supplies,45,0,Yes,No,29-03-2014
+O-34849,1013,39.34,Standard Class,Consumer,Office Supplies,30,3,Yes,No,30-03-2014
+O-34834,1029,40.46,Second Class,Corporate,Office Supplies,45,5,Yes,No,31-03-2014
+O-34582,1022,40.54,Same Day,Corporate,Office Supplies,45,5,Yes,No,01-04-2014
+O-34777,1011,41.11,First Class,Corporate,Technology,45,3,No,No,02-04-2014
+O-34619,1018,41.27,Second Class,Corporate,Office Supplies,45,5,No,No,03-04-2014
+O-34746,1024,41.76,Standard Class,Corporate,Office Supplies,45,3,Yes,No,04-04-2014
+O-34723,1024,41.6,Standard Class,Corporate,Office Supplies,45,3,No,No,05-04-2014
+O-34899,1027,40.98,First Class,Consumer,Office Supplies,45,5,No,No,06-04-2014
+O-34796,1026,41.05,Standard Class,Corporate,Technology,45,5,No,No,07-04-2014
+O-34827,1024,40.54,Standard Class,Corporate,Office Supplies,45,3,Yes,No,08-04-2014
+O-34685,1013,40.36,Standard Class,Consumer,Office Supplies,45,0,No,No,09-04-2014
+O-34949,1012,39.81,Standard Class,Corporate,Office Supplies,45,5,Yes,No,10-04-2014
+O-34848,1011,41.28,Second Class,Corporate,Office Supplies,45,0,Yes,No,11-04-2014
+O-34558,1026,41.31,First Class,Corporate,Office Supplies,45,3,Yes,No,12-04-2014
+O-34866,1024,41.32,Standard Class,Corporate,Office Supplies,45,5,No,No,13-04-2014
+O-35035,1024,42.01,First Class,Corporate,Office Supplies,45,0,Yes,No,14-04-2014
+O-34717,1022,42.19,Standard Class,Corporate,Office Supplies,45,3,No,No,15-04-2014
+O-35122,1015,42.65,Standard Class,Consumer,Office Supplies,45,3,Yes,No,16-04-2014
+O-35063,1026,42.88,Standard Class,Corporate,Office Supplies,45,5,Yes,No,17-04-2014
+O-35134,1022,43.19,Standard Class,Corporate,Office Supplies,45,5,Yes,No,18-04-2014
+O-35045,1022,44.96,Standard Class,Corporate,Office Supplies,45,3,Yes,No,19-04-2014
+O-35039,1018,45.43,Standard Class,Corporate,Office Supplies,45,0,No,No,20-04-2014
+O-35250,1003,44.21,Standard Class,Corporate,Office Supplies,45,0,Yes,No,21-04-2014
+O-35406,1011,44.36,Second Class,Corporate,Office Supplies,45,0,Yes,No,22-04-2014
+O-35382,1003,44.22,First Class,Corporate,Office Supplies,45,0,Yes,No,23-04-2014
+O-35304,1026,43.92,Standard Class,Corporate,Office Supplies,45,5,Yes,No,24-04-2014
+O-35562,1029,44.12,Same Day,Corporate,Office Supplies,45,0,Yes,No,25-04-2014
+O-35531,1018,44.01,First Class,Corporate,Office Supplies,45,0,Yes,No,26-04-2014
+O-35255,1022,43.98,Standard Class,Corporate,Office Supplies,45,5,Yes,No,27-04-2014
+O-35575,1025,43.61,Standard Class,Corporate,Office Supplies,30,0,Yes,No,28-04-2014
+O-35632,1010,43,Standard Class,Consumer,Office Supplies,30,0,No,No,29-04-2014
+O-35341,1022,43.45,Standard Class,Corporate,Office Supplies,45,0,Yes,No,30-04-2014
+O-35431,1025,44.19,First Class,Corporate,Office Supplies,45,0,Yes,No,01-05-2014
+O-35393,1022,44.69,Standard Class,Corporate,Office Supplies,45,3,Yes,No,02-05-2014
+O-35447,1022,45.47,Second Class,Corporate,Furniture,45,0,Yes,No,03-05-2014
+O-35611,1025,45.3,First Class,Corporate,Office Supplies,45,3,Yes,No,04-05-2014
+O-35306,1025,45.52,Standard Class,Corporate,Office Supplies,45,3,Yes,No,05-05-2014
+O-35765,1029,45.15,Standard Class,Corporate,Furniture,45,5,No,No,06-05-2014
+O-35579,1024,45.43,Standard Class,Corporate,Office Supplies,45,0,Yes,No,07-05-2014
+O-35547,1018,45.24,First Class,Corporate,Office Supplies,45,0,No,No,08-05-2014
+O-36091,1022,44,First Class,Corporate,Office Supplies,30,5,Yes,No,09-05-2014
+O-35537,1021,43.86,Standard Class,Corporate,Office Supplies,45,0,Yes,No,10-05-2014
+O-36067,1003,43.08,Standard Class,Corporate,Office Supplies,45,3,Yes,No,11-05-2014
+O-35889,1024,42.93,Standard Class,Corporate,Technology,45,5,No,No,12-05-2014
+O-35724,1025,44.06,First Class,Corporate,Furniture,45,0,No,No,13-05-2014
+O-36036,1029,43.82,Second Class,Corporate,Office Supplies,45,0,Yes,No,14-05-2014
+O-35979,1013,44.77,First Class,Consumer,Office Supplies,45,5,Yes,No,15-05-2014
+O-36065,1018,44.1,First Class,Corporate,Office Supplies,45,5,No,No,16-05-2014
+O-35581,1025,44.97,Standard Class,Corporate,Office Supplies,45,5,No,No,17-05-2014
+O-36064,1018,45,First Class,Corporate,Office Supplies,45,3,Yes,No,18-05-2014
+O-35984,1012,45.27,Standard Class,Corporate,Office Supplies,30,0,No,No,19-05-2014
+O-35899,1025,44.45,Standard Class,Corporate,Furniture,45,0,No,No,20-05-2014
+O-36071,1012,45.2,First Class,Corporate,Office Supplies,30,5,No,No,21-05-2014
+O-35714,1025,45.45,Standard Class,Corporate,Office Supplies,45,0,No,No,22-05-2014
+O-36371,1022,45.35,Standard Class,Corporate,Technology,45,0,Yes,No,23-05-2014
+O-36394,1024,45.74,Second Class,Corporate,Office Supplies,45,5,Yes,No,24-05-2014
+O-36251,1012,45.46,Second Class,Corporate,Office Supplies,30,0,Yes,No,25-05-2014
+O-36558,1012,45.86,Standard Class,Corporate,Office Supplies,45,5,Yes,No,26-05-2014
+O-36729,1024,45.68,Standard Class,Corporate,Office Supplies,45,5,Yes,No,27-05-2014
+O-36362,1024,45.79,Standard Class,Corporate,Office Supplies,45,3,Yes,No,28-05-2014
+O-36672,1018,45.95,Standard Class,Corporate,Office Supplies,45,5,Yes,No,29-05-2014
+O-36410,1013,45.76,First Class,Consumer,Furniture,45,0,No,No,30-05-2014
+O-36453,1024,45.77,Second Class,Corporate,Office Supplies,45,0,Yes,No,31-05-2014
+O-36585,1011,45.89,Standard Class,Corporate,Office Supplies,45,0,No,No,01-06-2014
+O-36638,1021,45.8,Standard Class,Corporate,Office Supplies,45,0,Yes,No,02-06-2014
+O-36398,1012,46.03,Standard Class,Corporate,Office Supplies,45,3,Yes,No,03-06-2014
+O-36788,1010,46.32,Second Class,Consumer,Office Supplies,45,0,Yes,No,04-06-2014
+O-36652,1024,46.45,Second Class,Corporate,Office Supplies,45,3,Yes,No,05-06-2014
+O-36907,1025,46.23,Second Class,Corporate,Office Supplies,30,0,Yes,No,06-06-2014
+O-36732,1025,46.38,Standard Class,Corporate,Office Supplies,45,0,Yes,No,07-06-2014
+O-36670,1012,46.5,Second Class,Corporate,Office Supplies,45,0,Yes,No,08-06-2014
+O-36716,1010,46.47,Standard Class,Consumer,Office Supplies,45,3,No,No,09-06-2014
+O-36875,1024,46.24,Second Class,Corporate,Office Supplies,45,5,Yes,No,10-06-2014
+O-36963,1016,46.08,Standard Class,Corporate,Office Supplies,45,0,Yes,No,11-06-2014
+O-37044,1022,47.08,Second Class,Corporate,Office Supplies,30,0,No,No,12-06-2014
+O-36596,1022,47.33,Standard Class,Corporate,Office Supplies,45,0,Yes,No,13-06-2014
+O-37079,1010,47.71,First Class,Consumer,Office Supplies,45,0,Yes,No,14-06-2014
+O-36885,1010,47.68,First Class,Consumer,Office Supplies,45,0,Yes,No,15-06-2014
+O-36837,1021,48.02,Standard Class,Corporate,Office Supplies,45,0,No,No,16-06-2014
+O-36908,1024,48.92,First Class,Corporate,Office Supplies,45,0,No,No,17-06-2014
+O-37072,1014,48.81,First Class,Corporate,Office Supplies,45,5,No,No,18-06-2014
+O-37356,1024,49.2,Standard Class,Corporate,Office Supplies,45,5,Yes,No,19-06-2014
+O-37189,1010,49.38,Second Class,Consumer,Office Supplies,45,0,Yes,No,20-06-2014
+O-37392,1021,49.78,Standard Class,Corporate,Office Supplies,30,0,Yes,No,21-06-2014
+O-37608,1025,48.66,Standard Class,Corporate,Office Supplies,30,5,Yes,No,22-06-2014
+O-37171,1025,48.41,Same Day,Corporate,Office Supplies,45,5,Yes,No,23-06-2014
+O-37125,1024,47.53,Second Class,Corporate,Technology,45,5,No,No,24-06-2014
+O-37520,1025,46.67,Standard Class,Corporate,Office Supplies,30,0,Yes,No,25-06-2014
+O-37618,1026,48.21,Second Class,Corporate,Office Supplies,30,3,No,No,26-06-2014
+O-37137,1021,48.77,Standard Class,Corporate,Office Supplies,45,3,No,No,27-06-2014
+O-37129,1021,49.12,First Class,Corporate,Office Supplies,45,0,Yes,No,28-06-2014
+O-37359,1012,49.03,Standard Class,Corporate,Office Supplies,45,3,Yes,No,29-06-2014
+O-37983,1018,48.01,Second Class,Corporate,Furniture,45,0,Yes,No,30-06-2014
+O-37670,1024,48.47,Standard Class,Corporate,Furniture,45,0,Yes,No,01-07-2014
+O-37365,1012,49.29,Standard Class,Corporate,Office Supplies,45,0,No,No,02-07-2014
+O-37317,1010,49.19,Standard Class,Consumer,Office Supplies,45,0,No,No,03-07-2014
+O-37465,1026,49.06,Standard Class,Corporate,Office Supplies,45,5,No,No,04-07-2014
+O-37845,1012,49.5,First Class,Corporate,Office Supplies,45,5,Yes,No,05-07-2014
+O-37860,1013,50.27,Standard Class,Consumer,Office Supplies,45,0,Yes,No,06-07-2014
+O-37965,1012,50.74,Same Day,Corporate,Office Supplies,45,5,Yes,No,07-07-2014
+O-37772,1025,51.17,Second Class,Corporate,Office Supplies,45,0,Yes,No,08-07-2014
+O-37815,1024,50.65,Standard Class,Corporate,Office Supplies,45,0,No,No,09-07-2014
+O-38072,1026,50.98,Standard Class,Corporate,Office Supplies,14,0,No,No,10-07-2014
+O-37697,1024,51.31,Standard Class,Corporate,Office Supplies,45,3,No,No,11-07-2014
+O-37941,1012,51.41,Standard Class,Corporate,Furniture,45,0,Yes,No,12-07-2014
+O-37824,1013,51.88,Standard Class,Consumer,Office Supplies,45,0,Yes,No,13-07-2014
+O-37972,1012,51.19,Standard Class,Corporate,Office Supplies,45,0,Yes,No,14-07-2014
+O-37706,1022,50.08,Standard Class,Corporate,Office Supplies,45,5,No,No,15-07-2014
+O-38245,1012,48.37,First Class,Corporate,Office Supplies,45,0,Yes,No,16-07-2014
+O-37873,1025,48.95,Second Class,Corporate,Furniture,45,0,No,No,17-07-2014
+O-38268,1024,48.98,First Class,Corporate,Office Supplies,45,0,Yes,No,18-07-2014
+O-38529,1010,49.74,First Class,Consumer,Office Supplies,45,5,Yes,No,19-07-2014
+O-38402,1025,50.46,Second Class,Corporate,Office Supplies,45,3,Yes,No,20-07-2014
+O-38249,1025,49.9,Second Class,Corporate,Office Supplies,45,3,No,No,21-07-2014
+O-38610,1024,50.3,Standard Class,Corporate,Office Supplies,30,5,No,No,22-07-2014
+O-38473,1024,51.37,Second Class,Corporate,Office Supplies,45,3,Yes,No,23-07-2014
+O-38841,1010,51.43,First Class,Consumer,Office Supplies,45,0,Yes,No,24-07-2014
+O-38886,1012,50.77,Second Class,Corporate,Office Supplies,30,3,Yes,No,25-07-2014
+O-38300,1025,50.82,Standard Class,Corporate,Office Supplies,45,0,Yes,No,26-07-2014
+O-38724,1013,50.35,Standard Class,Consumer,Furniture,45,0,No,No,27-07-2014
+O-38641,1024,49.52,Standard Class,Corporate,Furniture,45,0,Yes,No,28-07-2014
+O-38682,1022,50.28,Second Class,Corporate,Technology,45,3,No,No,29-07-2014
+O-39068,1024,50.51,Standard Class,Corporate,Office Supplies,30,3,Yes,No,30-07-2014
+O-38309,1022,49.35,Standard Class,Corporate,Office Supplies,45,0,No,No,31-07-2014
+O-38834,1026,47.14,Standard Class,Corporate,Office Supplies,45,3,Yes,No,01-08-2014
+O-39002,1013,47.81,First Class,Consumer,Office Supplies,30,0,No,No,02-08-2014
+O-39169,1012,47.24,Second Class,Corporate,Technology,45,3,Yes,No,03-08-2014
+O-38703,1025,48.47,Standard Class,Corporate,Office Supplies,45,0,Yes,No,04-08-2014
+O-38913,1026,48.74,Standard Class,Corporate,Office Supplies,45,3,Yes,No,05-08-2014
+O-39133,1014,48.46,Second Class,Corporate,Office Supplies,45,0,Yes,No,06-08-2014
+O-38824,1012,49.28,Standard Class,Corporate,Office Supplies,45,3,Yes,No,07-08-2014
+O-39181,1013,50.22,Standard Class,Consumer,Office Supplies,45,0,Yes,No,08-08-2014
+O-39478,1029,50.06,Standard Class,Corporate,Furniture,45,0,Yes,No,09-08-2014
+O-38985,1012,50.14,First Class,Corporate,Office Supplies,45,0,Yes,No,10-08-2014
+O-39112,1000,49.8,First Class,Consumer,Office Supplies,45,0,No,No,11-08-2014
+O-39730,1021,49.79,Second Class,Corporate,Office Supplies,45,5,Yes,No,12-08-2014
+O-39122,1024,49.22,Standard Class,Corporate,Office Supplies,45,3,No,No,13-08-2014
+O-39151,1025,48.74,Second Class,Corporate,Office Supplies,45,0,Yes,No,14-08-2014
+O-39686,1010,48.41,Second Class,Consumer,Office Supplies,45,5,No,No,15-08-2014
+O-39512,1029,48.29,Second Class,Corporate,Office Supplies,45,0,Yes,No,16-08-2014
+O-39529,1011,48.3,Second Class,Corporate,Office Supplies,45,3,No,No,17-08-2014
+O-39709,1022,47.87,Standard Class,Corporate,Office Supplies,45,5,Yes,No,18-08-2014
+O-39934,1025,47.26,First Class,Corporate,Office Supplies,45,5,Yes,No,19-08-2014
+O-40010,1026,47.49,Second Class,Corporate,Office Supplies,45,0,Yes,No,20-08-2014
+O-39802,1012,48.02,Second Class,Corporate,Office Supplies,45,5,Yes,No,21-08-2014
+O-39473,1021,47.49,Second Class,Corporate,Office Supplies,45,5,No,No,22-08-2014
+O-39772,1025,46.78,First Class,Corporate,Office Supplies,45,0,Yes,No,23-08-2014
+O-39732,1021,47.41,Second Class,Corporate,Office Supplies,45,0,Yes,No,24-08-2014
+O-39660,1024,48.27,Standard Class,Corporate,Office Supplies,45,0,No,No,25-08-2014
+O-40220,1024,48.92,Standard Class,Corporate,Office Supplies,30,3,No,No,26-08-2014
+O-40213,1018,50.1,Second Class,Corporate,Office Supplies,45,3,No,No,27-08-2014
+O-39844,1011,50.43,Second Class,Corporate,Office Supplies,45,3,No,No,28-08-2014
+O-40378,1013,50.06,First Class,Consumer,Office Supplies,45,0,Yes,No,29-08-2014
+O-40390,1022,50.02,Standard Class,Corporate,Office Supplies,45,3,Yes,No,30-08-2014
+O-40288,1026,49.54,Standard Class,Corporate,Office Supplies,45,0,Yes,No,31-08-2014
+O-40568,1024,50.02,Second Class,Corporate,Office Supplies,45,0,Yes,No,01-09-2014
+O-40566,1003,49.47,Standard Class,Corporate,Office Supplies,45,0,No,No,02-09-2014
+O-40292,1025,49.74,First Class,Corporate,Office Supplies,45,3,Yes,No,03-09-2014
+O-40728,1012,49.94,First Class,Corporate,Office Supplies,45,5,Yes,No,04-09-2014
+O-40253,1021,49.54,Same Day,Corporate,Office Supplies,45,0,No,No,05-09-2014
+O-40878,1005,49.52,Standard Class,Corporate,Office Supplies,45,0,No,No,06-09-2014
+O-40734,1013,49.66,Standard Class,Consumer,Office Supplies,45,0,Yes,No,07-09-2014
+O-40969,1007,49.92,Standard Class,Corporate,Office Supplies,45,0,Yes,No,08-09-2014
+O-41001,1024,49.6,Standard Class,Corporate,Technology,45,0,No,No,09-09-2014
+O-40952,1022,49.51,First Class,Corporate,Office Supplies,45,0,Yes,No,10-09-2014
+O-40961,1026,48.64,Standard Class,Corporate,Furniture,45,3,Yes,No,11-09-2014
+O-40906,1025,47.61,Standard Class,Corporate,Office Supplies,45,0,No,No,12-09-2014
+O-41270,1019,48.02,Second Class,Corporate,Office Supplies,45,0,Yes,No,13-09-2014
+O-41432,1012,48.55,Standard Class,Corporate,Office Supplies,30,0,Yes,No,14-09-2014
+O-41393,1027,48.65,Standard Class,Consumer,Office Supplies,45,0,Yes,No,15-09-2014
+O-41174,1025,47.89,Standard Class,Corporate,Office Supplies,30,0,Yes,No,16-09-2014
+O-41215,1018,47.77,First Class,Corporate,Office Supplies,45,0,Yes,No,17-09-2014
+O-41390,1011,47.46,Standard Class,Corporate,Office Supplies,45,0,Yes,No,18-09-2014
+O-41164,1026,48.11,First Class,Corporate,Office Supplies,30,0,No,No,19-09-2014
+O-41441,1025,47.86,Standard Class,Corporate,Office Supplies,30,0,Yes,No,20-09-2014
+O-41578,1013,48.2,Standard Class,Consumer,Office Supplies,45,3,Yes,No,21-09-2014
+O-41287,1025,49.69,Standard Class,Corporate,Office Supplies,45,5,Yes,No,22-09-2014
+O-41669,1010,49.36,First Class,Consumer,Office Supplies,45,5,Yes,No,23-09-2014
+O-41412,1010,49.44,First Class,Consumer,Office Supplies,45,3,No,No,24-09-2014
+O-41541,1021,49.06,Standard Class,Corporate,Office Supplies,45,5,Yes,No,25-09-2014
+O-41167,1012,48.29,Second Class,Corporate,Office Supplies,45,0,No,No,26-09-2014
+O-41496,1024,47.43,First Class,Corporate,Office Supplies,45,0,Yes,No,27-09-2014
+O-41506,1026,47.46,Standard Class,Corporate,Office Supplies,45,3,Yes,No,28-09-2014
+O-41674,1013,47.36,First Class,Consumer,Office Supplies,45,3,Yes,No,29-09-2014
+O-41519,1024,46.56,Second Class,Corporate,Office Supplies,45,3,Yes,No,30-09-2014
+O-41855,1026,46.66,Second Class,Corporate,Office Supplies,45,5,Yes,No,01-10-2014
+O-41980,1018,47.49,Second Class,Corporate,Office Supplies,45,5,Yes,No,02-10-2014
+O-41781,1017,46.68,Standard Class,Corporate,Office Supplies,45,0,Yes,No,03-10-2014
+O-41548,1012,46.45,Standard Class,Corporate,Office Supplies,45,0,Yes,No,04-10-2014
+O-41779,1022,45.75,Standard Class,Corporate,Office Supplies,45,5,Yes,No,05-10-2014
+O-41475,1022,45.05,Standard Class,Corporate,Office Supplies,45,0,Yes,No,06-10-2014
+O-42076,1026,46.47,Standard Class,Corporate,Office Supplies,45,5,Yes,No,07-10-2014
+O-41874,1022,46.09,Second Class,Corporate,Office Supplies,45,0,Yes,No,08-10-2014
+O-42109,1024,47.32,Standard Class,Corporate,Office Supplies,45,3,Yes,No,09-10-2014
+O-42015,1025,46.62,Second Class,Corporate,Office Supplies,45,3,Yes,No,10-10-2014
+O-42181,1007,47.43,First Class,Corporate,Office Supplies,45,0,Yes,No,11-10-2014
+O-41905,1025,47.89,Standard Class,Corporate,Office Supplies,45,3,No,No,12-10-2014
+O-41768,1026,47.72,Standard Class,Corporate,Office Supplies,45,0,No,No,13-10-2014
+O-42294,1026,47.95,Standard Class,Corporate,Office Supplies,45,0,Yes,No,14-10-2014
+O-42221,1022,49.04,Same Day,Corporate,Office Supplies,45,5,No,No,15-10-2014
+O-42511,1013,49.92,Second Class,Consumer,Office Supplies,45,0,Yes,No,16-10-2014
+O-42729,1026,50.25,First Class,Corporate,Office Supplies,45,5,Yes,No,17-10-2014
+O-42730,1011,51.03,Same Day,Corporate,Office Supplies,45,0,Yes,No,18-10-2014
+O-41790,1012,51.39,Standard Class,Corporate,Office Supplies,45,0,No,No,19-10-2014
+O-42310,1012,50.57,Standard Class,Corporate,Office Supplies,45,3,Yes,No,20-10-2014
+O-42397,1026,50.54,Standard Class,Corporate,Office Supplies,45,3,Yes,No,21-10-2014
+O-42808,1029,51.15,Second Class,Corporate,Office Supplies,45,0,Yes,No,22-10-2014
+O-42420,1025,51.11,Standard Class,Corporate,Office Supplies,45,0,Yes,No,23-10-2014
+O-43035,1013,52.13,Standard Class,Consumer,Furniture,45,5,No,No,24-10-2014
+O-42924,1022,53.4,Standard Class,Corporate,Office Supplies,45,5,Yes,No,25-10-2014
+O-43090,1029,53.84,Standard Class,Corporate,Office Supplies,45,3,No,No,26-10-2014
+O-43017,1025,55.27,Standard Class,Corporate,Office Supplies,45,5,Yes,No,27-10-2014
+O-43041,1024,55.33,Standard Class,Corporate,Office Supplies,30,0,No,No,28-10-2014
+O-43140,1026,56.19,Same Day,Corporate,Office Supplies,45,5,No,No,29-10-2014
+O-42707,1026,56.93,First Class,Corporate,Office Supplies,45,3,No,No,30-10-2014
+O-43309,1007,57.63,First Class,Corporate,Office Supplies,45,0,Yes,No,31-10-2014
+O-43502,1007,56.08,Standard Class,Corporate,Office Supplies,45,3,Yes,No,01-11-2014
+O-42898,1026,55.97,Standard Class,Corporate,Office Supplies,45,0,Yes,No,02-11-2014
+O-43662,1024,55.78,Standard Class,Corporate,Furniture,45,0,Yes,No,03-11-2014
+O-42912,1007,56.68,Standard Class,Corporate,Office Supplies,45,0,No,No,04-11-2014
+O-43341,1026,55.46,Second Class,Corporate,Office Supplies,45,0,Yes,No,05-11-2014
+O-43874,1012,56.08,Standard Class,Corporate,Office Supplies,30,0,Yes,No,06-11-2014
+O-43681,1026,53.91,Standard Class,Corporate,Office Supplies,45,5,Yes,No,07-11-2014
+O-43639,1010,53.37,Second Class,Consumer,Office Supplies,45,5,No,No,08-11-2014
+O-43689,1012,50.46,Standard Class,Corporate,Office Supplies,45,0,Yes,No,09-11-2014
+O-43466,1021,53.43,Standard Class,Corporate,Office Supplies,45,0,Yes,No,10-11-2014
+O-44048,1026,51.96,Second Class,Corporate,Technology,45,0,Yes,No,11-11-2014
+O-43836,1025,53.39,Standard Class,Corporate,Office Supplies,45,0,Yes,No,12-11-2014
+O-43312,1025,53.86,Standard Class,Corporate,Office Supplies,45,0,No,No,13-11-2014
+O-44042,1012,54.77,First Class,Corporate,Office Supplies,45,3,Yes,No,14-11-2014
+O-43467,1022,54.35,Standard Class,Corporate,Office Supplies,45,5,No,No,15-11-2014
+O-44723,1012,54.35,Standard Class,Corporate,Office Supplies,30,5,Yes,No,16-11-2014
+O-44393,1025,52.29,Standard Class,Corporate,Office Supplies,45,0,Yes,No,17-11-2014
+O-44143,1025,50.86,Standard Class,Corporate,Office Supplies,45,5,Yes,No,18-11-2014
+O-43955,1012,50.92,Standard Class,Corporate,Office Supplies,45,0,No,No,19-11-2014
+O-44564,1013,53.37,Standard Class,Consumer,Office Supplies,45,0,Yes,No,20-11-2014
+O-43544,1026,53.74,Standard Class,Corporate,Office Supplies,45,0,No,No,21-11-2014
+O-44677,1025,53.39,Standard Class,Corporate,Office Supplies,45,0,Yes,No,22-11-2014
+O-44483,1003,54.8,Second Class,Corporate,Office Supplies,45,0,Yes,No,23-11-2014
+O-44849,1010,55.71,Same Day,Consumer,Office Supplies,45,3,Yes,No,24-11-2014
+O-44746,1022,55.71,Standard Class,Corporate,Office Supplies,45,3,Yes,No,25-11-2014
+O-44730,1010,54.98,Standard Class,Consumer,Office Supplies,45,3,No,No,26-11-2014
+O-44720,1025,54.43,Standard Class,Corporate,Office Supplies,45,3,Yes,No,27-11-2014
+O-45356,1013,53.44,Standard Class,Consumer,Office Supplies,45,5,Yes,No,28-11-2014
+O-45042,1012,54.25,First Class,Corporate,Office Supplies,45,5,Yes,No,29-11-2014
+O-45118,1013,54.85,Standard Class,Consumer,Office Supplies,45,0,Yes,No,30-11-2014
+O-44976,1025,54.88,Standard Class,Corporate,Office Supplies,45,5,Yes,No,01-12-2014
+O-44840,1025,53.93,First Class,Corporate,Office Supplies,45,0,Yes,No,02-12-2014
+O-45473,1012,54.28,Standard Class,Corporate,Office Supplies,45,3,Yes,No,03-12-2014
+O-45343,1010,54.95,Standard Class,Consumer,Office Supplies,45,5,No,No,04-12-2014
+O-45059,1012,55.61,Standard Class,Corporate,Office Supplies,45,0,Yes,No,05-12-2014
+O-45489,1012,56.14,Standard Class,Corporate,Technology,45,0,No,No,06-12-2014
+O-45134,1012,57.21,Second Class,Corporate,Office Supplies,45,0,No,No,07-12-2014
+O-45025,1025,58.8,Standard Class,Corporate,Office Supplies,45,0,No,No,08-12-2014
+O-45738,1021,59.06,Second Class,Corporate,Office Supplies,30,0,No,No,09-12-2014
+O-45762,1012,58.88,Second Class,Corporate,Office Supplies,45,3,Yes,No,10-12-2014
+O-45009,1017,57.4,Standard Class,Corporate,Office Supplies,45,0,No,No,11-12-2014
+O-45494,1012,57.76,Second Class,Corporate,Office Supplies,45,3,Yes,No,12-12-2014
+O-45941,1012,57.6,Standard Class,Corporate,Office Supplies,45,0,Yes,No,13-12-2014
+O-46075,1029,57.04,Second Class,Corporate,Office Supplies,45,0,Yes,No,14-12-2014
+O-46184,1011,56.72,Second Class,Corporate,Office Supplies,30,0,No,No,15-12-2014
+O-45656,1012,55.8,Standard Class,Corporate,Technology,45,0,No,No,16-12-2014
+O-46212,1012,54.47,Standard Class,Corporate,Office Supplies,30,0,Yes,No,17-12-2014
+O-46456,1010,53.51,Same Day,Consumer,Office Supplies,45,3,Yes,No,18-12-2014
+O-46224,1012,53.21,Standard Class,Corporate,Office Supplies,45,3,Yes,No,19-12-2014
+O-46215,1024,54.04,Standard Class,Corporate,Furniture,45,0,Yes,No,20-12-2014
+O-46236,1012,53.91,Standard Class,Corporate,Office Supplies,30,0,No,No,21-12-2014
+O-46165,1026,52.83,First Class,Corporate,Office Supplies,45,3,Yes,No,22-12-2014
+O-46393,1013,55.54,Second Class,Consumer,Office Supplies,45,5,No,No,23-12-2014
+O-46803,1022,57.18,Second Class,Corporate,Office Supplies,30,5,Yes,No,24-12-2014
+O-46911,1024,57.46,Second Class,Corporate,Furniture,45,5,Yes,No,25-12-2014
+O-46239,1025,58.35,Standard Class,Corporate,Office Supplies,45,3,No,No,26-12-2014
+O-46539,1025,60.29,Standard Class,Corporate,Furniture,45,3,Yes,No,27-12-2014
+O-46263,1013,60,Standard Class,Consumer,Office Supplies,45,0,No,No,28-12-2014
+O-46921,1016,60.32,First Class,Corporate,Office Supplies,45,5,No,No,29-12-2014
+O-46957,1024,56.95,Standard Class,Corporate,Office Supplies,45,3,Yes,No,30-12-2014
+O-46359,1017,56.47,First Class,Corporate,Office Supplies,45,0,No,No,31-12-2014
