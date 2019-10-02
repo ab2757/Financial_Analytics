@@ -1,0 +1,2506 @@
+Product,Sub-product,State,Rev_Million
+Consumer Loan,Vehicle loan,VA,76
+Bank account or service,Checking account,CA,35
+Bank account or service,Checking account,NY,42
+Bank account or service,Checking account,GA,21
+Mortgage,Conventional fixed mortgage,CT,16
+Bank account or service,Checking account,TX,32
+Debt collection,"Other (i.e. phone, health club, etc.)",VA,30
+Debt collection,I do not know,FL,32
+Credit card,,OH,79
+Mortgage,Other mortgage,NV,42
+Mortgage,Other mortgage,NC,43
+Mortgage,Other mortgage,CA,12
+Debt collection,Credit card,PA,23
+Mortgage,Conventional fixed mortgage,NY,39
+Mortgage,Conventional fixed mortgage,FL,23
+Mortgage,Conventional fixed mortgage,NJ,16
+Credit card,,WA,67
+Credit reporting,,CA,44
+Mortgage,Conventional adjustable mortgage (ARM),HI,35
+Mortgage,Other mortgage,FL,12
+Mortgage,Other mortgage,NY,21
+Mortgage,Conventional adjustable mortgage (ARM),IL,18
+Bank account or service,Other bank product/service,CA,11
+Student loan,Non-federal student loan,OH,37
+Debt collection,"Other (i.e. phone, health club, etc.)",FL,23
+Mortgage,Conventional adjustable mortgage (ARM),FL,14
+Consumer Loan,Vehicle loan,CA,70
+Mortgage,Other mortgage,MI,21
+Bank account or service,Checking account,NJ,31
+Credit card,,TX,73
+Mortgage,FHA mortgage,GA,39
+Bank account or service,(CD) Certificate of deposit,TX,16
+Mortgage,Conventional adjustable mortgage (ARM),MA,17
+Student loan,Non-federal student loan,FL,25
+Debt collection,I do not know,KY,38
+Mortgage,Conventional fixed mortgage,TN,20
+Credit reporting,,MO,12
+Mortgage,Conventional fixed mortgage,MN,42
+Credit card,,FL,77
+Bank account or service,Checking account,TN,44
+Student loan,Non-federal student loan,MA,38
+Mortgage,Conventional fixed mortgage,CA,10
+Credit card,,WI,82
+Debt collection,Credit card,WY,19
+Mortgage,Conventional fixed mortgage,TX,42
+Mortgage,Conventional fixed mortgage,VA,22
+Bank account or service,Other bank product/service,NY,42
+Credit reporting,,CT,22
+Bank account or service,Checking account,CT,19
+Mortgage,Home equity loan or line of credit,VT,15
+Consumer Loan,Vehicle lease,MI,60
+Consumer Loan,Vehicle lease,NY,61
+Credit card,,NV,67
+Mortgage,Conventional adjustable mortgage (ARM),CA,10
+Credit reporting,,CO,41
+Bank account or service,Checking account,FL,14
+Bank account or service,Savings account,NY,33
+Mortgage,Home equity loan or line of credit,AZ,44
+Credit reporting,,MA,44
+Credit card,,DE,54
+Mortgage,Conventional adjustable mortgage (ARM),OH,23
+Credit reporting,,NY,19
+Debt collection,Credit card,NY,23
+Mortgage,Conventional fixed mortgage,IN,14
+Debt collection,I do not know,CO,19
+Credit card,,NJ,66
+Debt collection,Federal student loan,NY,42
+Debt collection,Credit card,CA,13
+Debt collection,"Other (i.e. phone, health club, etc.)",IL,11
+Credit reporting,,DE,27
+Credit card,,CA,75
+Mortgage,Conventional adjustable mortgage (ARM),CO,36
+Debt collection,Mortgage,NY,43
+Credit card,,SC,56
+Credit reporting,,GA,34
+Credit reporting,,MN,19
+Credit reporting,,IA,28
+Credit reporting,,OH,29
+Credit reporting,,IL,10
+Debt collection,"Other (i.e. phone, health club, etc.)",NY,19
+Mortgage,Other mortgage,AL,34
+Credit reporting,,NJ,18
+Mortgage,Other mortgage,WI,34
+Credit card,,MA,85
+Debt collection,I do not know,NV,15
+Credit card,,NY,76
+Mortgage,Other mortgage,TX,31
+Credit card,,OR,82
+Mortgage,Other mortgage,GA,22
+Mortgage,Conventional adjustable mortgage (ARM),VA,38
+Credit reporting,,MI,39
+Student loan,Non-federal student loan,MD,29
+Mortgage,Home equity loan or line of credit,NY,36
+Mortgage,Conventional fixed mortgage,GA,23
+Bank account or service,Checking account,IL,18
+Credit reporting,,OR,14
+Mortgage,Conventional fixed mortgage,OK,32
+Mortgage,Reverse mortgage,FL,34
+Mortgage,Other mortgage,MO,28
+Mortgage,Other mortgage,SC,11
+Debt collection,"Other (i.e. phone, health club, etc.)",TX,10
+Credit card,,MT,71
+Credit reporting,,AL,12
+Mortgage,Other mortgage,NH,13
+Debt collection,I do not know,NY,40
+Mortgage,FHA mortgage,PA,32
+Credit reporting,,TX,45
+Debt collection,Auto,IL,29
+Consumer Loan,Vehicle loan,IL,60
+Mortgage,Other mortgage,MD,16
+Credit card,,CO,67
+Consumer Loan,Vehicle loan,AL,73
+Bank account or service,Savings account,CA,37
+Credit card,,MO,63
+Bank account or service,Other bank product/service,NC,33
+Credit card,,PA,80
+Bank account or service,Savings account,FL,39
+Debt collection,Credit card,KS,20
+Credit reporting,,FL,43
+Debt collection,I do not know,CA,10
+Bank account or service,Checking account,MI,15
+Credit card,,ME,83
+Credit card,,HI,59
+Debt collection,Mortgage,NV,30
+Bank account or service,Checking account,MA,28
+Mortgage,Other mortgage,CO,39
+Bank account or service,Checking account,,44
+Mortgage,Conventional fixed mortgage,MD,11
+Credit card,,MI,55
+Credit card,,IL,64
+Mortgage,Other mortgage,OH,27
+Mortgage,FHA mortgage,FL,26
+Bank account or service,Other bank product/service,FL,40
+Student loan,Non-federal student loan,WA,44
+Bank account or service,Checking account,AZ,18
+Student loan,Non-federal student loan,NV,29
+Credit card,,ID,63
+Credit reporting,,WA,32
+Credit card,,VT,82
+Bank account or service,Savings account,NJ,38
+Mortgage,Conventional adjustable mortgage (ARM),NV,12
+Credit card,,RI,73
+Credit card,,PR,57
+Debt collection,Credit card,TX,18
+Debt collection,"Other (i.e. phone, health club, etc.)",OR,17
+Consumer Loan,Vehicle loan,NY,57
+Student loan,Non-federal student loan,CA,26
+Mortgage,Other mortgage,NM,26
+Debt collection,I do not know,MI,40
+Mortgage,Other mortgage,KS,30
+Consumer Loan,Installment loan,GA,63
+Debt collection,Medical,CA,11
+Credit reporting,,MD,31
+Mortgage,FHA mortgage,NY,42
+Bank account or service,Checking account,NV,22
+Mortgage,FHA mortgage,TX,30
+Mortgage,FHA mortgage,MO,44
+Mortgage,Conventional fixed mortgage,OH,36
+Mortgage,Other mortgage,IL,15
+Debt collection,Mortgage,GA,14
+Mortgage,Other mortgage,VA,39
+Credit reporting,,PA,43
+Credit reporting,,SC,30
+Debt collection,"Other (i.e. phone, health club, etc.)",CA,27
+Credit card,,AZ,59
+Student loan,Non-federal student loan,CO,39
+Mortgage,Home equity loan or line of credit,CA,30
+Bank account or service,Savings account,WA,32
+Debt collection,Non-federal student loan,KS,15
+Bank account or service,Checking account,VA,11
+Mortgage,FHA mortgage,WA,25
+Mortgage,VA mortgage,NV,36
+Debt collection,Credit card,OK,21
+Mortgage,Conventional fixed mortgage,MA,45
+Mortgage,VA mortgage,NY,32
+Mortgage,Other mortgage,NJ,36
+Mortgage,Conventional fixed mortgage,IL,44
+Bank account or service,Checking account,MD,16
+Bank account or service,Checking account,CO,12
+Mortgage,Other mortgage,MN,28
+Credit card,,LA,55
+Mortgage,Conventional fixed mortgage,CO,25
+Mortgage,Conventional fixed mortgage,PA,11
+Money transfers,Domestic (US) money transfer,CA,29
+Debt collection,"Other (i.e. phone, health club, etc.)",LA,29
+Mortgage,Conventional adjustable mortgage (ARM),NC,14
+Bank account or service,Other bank product/service,GA,42
+Mortgage,Conventional adjustable mortgage (ARM),NJ,36
+Mortgage,Conventional fixed mortgage,WA,14
+Mortgage,Other mortgage,DC,19
+Student loan,Non-federal student loan,IL,25
+Mortgage,Conventional adjustable mortgage (ARM),WA,34
+Mortgage,FHA mortgage,ID,11
+Bank account or service,Checking account,WA,43
+Mortgage,Other mortgage,WA,18
+Mortgage,Other mortgage,UT,27
+Mortgage,FHA mortgage,IL,43
+Credit card,,VA,58
+Money transfers,Domestic (US) money transfer,KS,31
+Credit card,,MD,53
+Bank account or service,Other bank product/service,VA,31
+Mortgage,Other mortgage,PA,28
+Bank account or service,Other bank product/service,IL,27
+Credit card,,NH,78
+Bank account or service,Savings account,TN,30
+Consumer Loan,Installment loan,SC,67
+Mortgage,Conventional fixed mortgage,AZ,23
+Mortgage,Other mortgage,MS,10
+Mortgage,Other mortgage,MA,42
+Credit reporting,,VA,44
+Debt collection,Credit card,IL,29
+Credit card,,AR,77
+Mortgage,Conventional fixed mortgage,MI,19
+Bank account or service,Savings account,ME,43
+Student loan,Non-federal student loan,NJ,37
+Mortgage,Conventional fixed mortgage,NC,28
+Debt collection,"Other (i.e. phone, health club, etc.)",NJ,41
+Bank account or service,(CD) Certificate of deposit,PA,18
+Mortgage,Other mortgage,KY,43
+Mortgage,Conventional adjustable mortgage (ARM),PA,35
+Money transfers,Domestic (US) money transfer,MD,34
+Mortgage,FHA mortgage,MD,21
+Credit card,,CT,54
+Debt collection,Mortgage,WI,27
+Debt collection,Credit card,MN,24
+Credit reporting,,NE,26
+Mortgage,VA mortgage,NC,41
+Mortgage,FHA mortgage,NJ,19
+Mortgage,VA mortgage,SC,28
+Credit reporting,,PR,26
+Credit reporting,,LA,27
+Bank account or service,Savings account,AZ,31
+Debt collection,I do not know,IL,21
+Debt collection,Mortgage,FL,14
+Debt collection,"Other (i.e. phone, health club, etc.)",OH,25
+Debt collection,Medical,PA,45
+Mortgage,Conventional fixed mortgage,DE,39
+Bank account or service,Checking account,DE,41
+Mortgage,Conventional adjustable mortgage (ARM),MD,29
+Mortgage,Conventional fixed mortgage,KY,31
+Bank account or service,Other bank product/service,OH,30
+Mortgage,Conventional adjustable mortgage (ARM),AZ,10
+Debt collection,"Other (i.e. phone, health club, etc.)",PA,27
+Debt collection,Auto,MO,24
+Mortgage,Conventional adjustable mortgage (ARM),TN,19
+Debt collection,Credit card,LA,18
+Debt collection,"Other (i.e. phone, health club, etc.)",KS,35
+Mortgage,FHA mortgage,MA,15
+Debt collection,Credit card,NH,35
+Debt collection,I do not know,MA,31
+Debt collection,Mortgage,CA,28
+Mortgage,Conventional adjustable mortgage (ARM),MN,12
+Bank account or service,Checking account,PA,10
+Debt collection,Credit card,AZ,15
+Mortgage,Conventional fixed mortgage,SC,35
+Student loan,Non-federal student loan,PA,39
+Debt collection,"Other (i.e. phone, health club, etc.)",GA,20
+Debt collection,Medical,FL,15
+Student loan,Non-federal student loan,LA,14
+Mortgage,Conventional fixed mortgage,KS,31
+Mortgage,Other mortgage,AZ,34
+Credit card,,NC,71
+Mortgage,FHA mortgage,RI,44
+Student loan,Non-federal student loan,NY,31
+Mortgage,FHA mortgage,OR,44
+Credit card,,WV,60
+Student loan,Non-federal student loan,SC,40
+Debt collection,I do not know,TX,29
+Debt collection,Auto,NY,41
+Mortgage,FHA mortgage,TN,31
+Debt collection,I do not know,AL,11
+Credit reporting,,TN,18
+Mortgage,Conventional fixed mortgage,RI,34
+Credit card,,MN,59
+Debt collection,Mortgage,MI,41
+Bank account or service,(CD) Certificate of deposit,AZ,45
+Mortgage,Home equity loan or line of credit,FL,25
+Debt collection,"Other (i.e. phone, health club, etc.)",MO,27
+Consumer Loan,Vehicle loan,TX,77
+Bank account or service,(CD) Certificate of deposit,WI,16
+Mortgage,Conventional fixed mortgage,LA,45
+Mortgage,Conventional fixed mortgage,WI,28
+Bank account or service,Other bank product/service,MI,26
+Debt collection,I do not know,,29
+Mortgage,FHA mortgage,NC,17
+Mortgage,Conventional adjustable mortgage (ARM),NY,34
+Bank account or service,Checking account,MO,42
+Debt collection,"Other (i.e. phone, health club, etc.)",MD,27
+Credit card,,TN,62
+Mortgage,Home equity loan or line of credit,PA,17
+Credit reporting,,KS,35
+Mortgage,Conventional fixed mortgage,MO,44
+Mortgage,Reverse mortgage,MO,16
+Student loan,Non-federal student loan,DE,29
+Debt collection,Auto,VA,31
+Debt collection,Auto,ID,40
+Mortgage,Other mortgage,OR,33
+Debt collection,Mortgage,CO,10
+Credit reporting,,,10
+Bank account or service,(CD) Certificate of deposit,MA,32
+Bank account or service,Checking account,OH,20
+Debt collection,Mortgage,SC,19
+Debt collection,I do not know,TN,26
+Bank account or service,(CD) Certificate of deposit,NY,24
+Debt collection,Auto,TN,22
+Consumer Loan,Installment loan,NE,57
+Debt collection,Credit card,NE,41
+Mortgage,Home equity loan or line of credit,GA,21
+Mortgage,FHA mortgage,AL,14
+Student loan,Non-federal student loan,AR,22
+Bank account or service,Checking account,NC,25
+Credit card,,AL,84
+Credit card,,NE,51
+Debt collection,Credit card,MO,25
+Bank account or service,Savings account,OH,41
+Mortgage,FHA mortgage,MN,44
+Mortgage,Home equity loan or line of credit,MI,28
+Mortgage,FHA mortgage,CO,14
+Debt collection,Non-federal student loan,MO,24
+Credit card,,DC,60
+Credit reporting,,IN,40
+Mortgage,Conventional adjustable mortgage (ARM),NH,32
+Bank account or service,Checking account,MN,40
+Bank account or service,(CD) Certificate of deposit,OH,29
+Credit reporting,,NC,12
+Bank account or service,(CD) Certificate of deposit,CA,24
+Debt collection,I do not know,WI,45
+Debt collection,"Other (i.e. phone, health club, etc.)",AL,17
+Credit card,,KS,66
+Mortgage,Conventional adjustable mortgage (ARM),AE,14
+Mortgage,Conventional fixed mortgage,UT,15
+Mortgage,Reverse mortgage,AZ,34
+Mortgage,Conventional fixed mortgage,NM,13
+Student loan,Non-federal student loan,NH,28
+Debt collection,"Other (i.e. phone, health club, etc.)",WY,42
+Mortgage,FHA mortgage,VA,26
+Mortgage,Conventional adjustable mortgage (ARM),GA,45
+Debt collection,"Other (i.e. phone, health club, etc.)",WA,31
+Mortgage,Conventional fixed mortgage,HI,31
+Credit reporting,,NV,42
+Debt collection,Credit card,FL,30
+Money transfers,International money transfer,,12
+Mortgage,VA mortgage,FL,34
+Debt collection,Auto,NV,15
+Student loan,Non-federal student loan,DC,22
+Mortgage,Other mortgage,CT,36
+Mortgage,Other mortgage,,35
+Debt collection,"Other (i.e. phone, health club, etc.)",NM,17
+Mortgage,Other mortgage,DE,18
+Money transfers,Domestic (US) money transfer,SC,25
+Money transfers,Domestic (US) money transfer,DE,38
+Mortgage,Other mortgage,ID,34
+Bank account or service,Other bank product/service,NJ,18
+Debt collection,I do not know,RI,43
+Student loan,Non-federal student loan,GA,45
+Mortgage,VA mortgage,MD,24
+Mortgage,Other mortgage,IN,10
+Debt collection,Non-federal student loan,NJ,29
+Bank account or service,Savings account,CT,18
+Credit reporting,,AZ,10
+Debt collection,Credit card,NJ,23
+Mortgage,Conventional fixed mortgage,,35
+Debt collection,I do not know,OR,45
+Mortgage,Other mortgage,LA,26
+Debt collection,Federal student loan,VA,14
+Bank account or service,Other bank product/service,MN,25
+Debt collection,"Other (i.e. phone, health club, etc.)",NC,39
+Bank account or service,Checking account,NE,21
+Bank account or service,Savings account,WI,43
+Bank account or service,Checking account,RI,36
+Bank account or service,(CD) Certificate of deposit,IL,41
+Debt collection,Credit card,GA,35
+Debt collection,Credit card,IA,40
+Consumer Loan,Vehicle loan,MD,65
+Consumer Loan,Installment loan,FL,75
+Bank account or service,Other bank product/service,AL,19
+Mortgage,Home equity loan or line of credit,MT,20
+Mortgage,VA mortgage,AL,42
+Mortgage,FHA mortgage,OH,34
+Credit reporting,,NH,28
+Credit reporting,,AK,35
+Mortgage,FHA mortgage,AZ,35
+Mortgage,FHA mortgage,HI,11
+Debt collection,I do not know,MD,17
+Mortgage,Reverse mortgage,TX,23
+Debt collection,Medical,NY,40
+Debt collection,Medical,WA,42
+Mortgage,Conventional adjustable mortgage (ARM),MI,22
+Money transfers,Domestic (US) money transfer,NY,20
+Debt collection,I do not know,GA,23
+Bank account or service,Checking account,NH,23
+Debt collection,"Other (i.e. phone, health club, etc.)",MS,31
+Credit reporting,,ME,19
+Debt collection,Federal student loan,,23
+Mortgage,Conventional fixed mortgage,AL,22
+Mortgage,Conventional fixed mortgage,NH,14
+Mortgage,Conventional adjustable mortgage (ARM),IN,16
+Consumer Loan,Personal line of credit,NC,51
+Mortgage,Home equity loan or line of credit,OK,27
+Bank account or service,Checking account,LA,33
+Consumer Loan,Installment loan,OH,72
+Credit card,,GA,74
+Bank account or service,Checking account,WI,42
+Debt collection,Credit card,OH,32
+Bank account or service,Checking account,AL,41
+Mortgage,VA mortgage,KY,21
+Consumer Loan,Vehicle loan,FL,84
+Debt collection,"Other (i.e. phone, health club, etc.)",CO,17
+Credit reporting,,HI,32
+Debt collection,I do not know,DE,25
+Debt collection,Non-federal student loan,CT,41
+Consumer Loan,Vehicle loan,DE,80
+Credit card,,IN,51
+Credit card,,OK,68
+Debt collection,Non-federal student loan,TX,20
+Debt collection,Mortgage,AZ,14
+Debt collection,"Other (i.e. phone, health club, etc.)",NV,43
+Mortgage,Conventional adjustable mortgage (ARM),WI,11
+Mortgage,FHA mortgage,MI,22
+Mortgage,FHA mortgage,OK,26
+Consumer Loan,Vehicle loan,NC,83
+Mortgage,Conventional adjustable mortgage (ARM),CT,38
+Consumer Loan,Vehicle loan,AZ,74
+Debt collection,I do not know,AR,29
+Consumer Loan,Personal line of credit,CA,62
+Mortgage,VA mortgage,WA,20
+Consumer Loan,Personal line of credit,OR,59
+Debt collection,Mortgage,IN,12
+Debt collection,Non-federal student loan,CA,41
+Consumer Loan,Vehicle loan,NJ,51
+Mortgage,FHA mortgage,UT,24
+Debt collection,I do not know,WA,33
+Debt collection,I do not know,DC,26
+Consumer Loan,Vehicle lease,AZ,52
+Mortgage,VA mortgage,GA,35
+Debt collection,"Other (i.e. phone, health club, etc.)",UT,41
+Mortgage,Reverse mortgage,GA,27
+Mortgage,FHA mortgage,SC,21
+Debt collection,I do not know,VA,16
+Debt collection,Credit card,WI,34
+Debt collection,Non-federal student loan,FL,40
+Consumer Loan,Vehicle loan,,84
+Student loan,Non-federal student loan,NC,23
+Debt collection,Non-federal student loan,,28
+Credit card,,IA,50
+Student loan,Non-federal student loan,MN,22
+Money transfers,Domestic (US) money transfer,TX,39
+Debt collection,"Other (i.e. phone, health club, etc.)",IA,18
+Consumer Loan,Vehicle loan,GA,80
+Debt collection,Credit card,MD,25
+Consumer Loan,Vehicle lease,CO,66
+Debt collection,Auto,NC,27
+Mortgage,FHA mortgage,CA,33
+Money transfers,Domestic (US) money transfer,FL,27
+Mortgage,Reverse mortgage,MD,23
+Credit reporting,,DC,36
+Debt collection,Medical,KY,40
+Mortgage,Conventional adjustable mortgage (ARM),DC,24
+Mortgage,Other mortgage,IA,30
+Debt collection,Non-federal student loan,MN,41
+Consumer Loan,Vehicle loan,WV,62
+Debt collection,"Other (i.e. phone, health club, etc.)",AZ,20
+Debt collection,Auto,FL,24
+Debt collection,Credit card,MA,19
+Mortgage,Home equity loan or line of credit,AR,42
+Mortgage,Second mortgage,TX,38
+Bank account or service,Savings account,NC,39
+Student loan,Non-federal student loan,UT,36
+Bank account or service,Checking account,SC,37
+Consumer Loan,Vehicle loan,MS,59
+Bank account or service,(CD) Certificate of deposit,NH,25
+Mortgage,FHA mortgage,PR,42
+Consumer Loan,Vehicle loan,PA,54
+Mortgage,Conventional fixed mortgage,ME,36
+Student loan,Non-federal student loan,TX,34
+Mortgage,FHA mortgage,WI,24
+Debt collection,Medical,GA,39
+Debt collection,Credit card,PR,15
+Debt collection,Medical,UT,13
+Debt collection,"Other (i.e. phone, health club, etc.)",IN,26
+Student loan,Non-federal student loan,OK,10
+Student loan,Non-federal student loan,VA,41
+Student loan,Non-federal student loan,CT,18
+Bank account or service,Savings account,NM,43
+Mortgage,Home equity loan or line of credit,NC,17
+Mortgage,Home equity loan or line of credit,MN,12
+Debt collection,"Other (i.e. phone, health club, etc.)",SC,13
+Mortgage,VA mortgage,AZ,14
+Mortgage,Conventional fixed mortgage,ID,21
+Student loan,Non-federal student loan,IA,21
+Mortgage,VA mortgage,NE,14
+Credit reporting,,OK,12
+Money transfers,Domestic (US) money transfer,AZ,32
+Debt collection,Medical,MO,25
+Debt collection,"Other (i.e. phone, health club, etc.)",MA,32
+Debt collection,I do not know,OK,43
+Debt collection,Credit card,IN,42
+Mortgage,Conventional fixed mortgage,AR,43
+Bank account or service,Savings account,OR,38
+Debt collection,Auto,WA,35
+Mortgage,Home equity loan or line of credit,TX,37
+Mortgage,Other mortgage,HI,13
+Debt collection,"Other (i.e. phone, health club, etc.)",MI,43
+Debt collection,Credit card,ID,23
+Bank account or service,Savings account,SD,12
+Debt collection,"Other (i.e. phone, health club, etc.)",,39
+Debt collection,Credit card,AK,43
+Mortgage,Home equity loan or line of credit,NJ,42
+Mortgage,Conventional fixed mortgage,OR,18
+Debt collection,Mortgage,ME,14
+Credit card,,UT,56
+Student loan,Non-federal student loan,MI,22
+Bank account or service,Other bank product/service,TX,12
+Consumer Loan,Vehicle loan,IN,79
+Debt collection,Medical,WI,37
+Mortgage,Second mortgage,FL,19
+Credit card,,KY,53
+Mortgage,Home equity loan or line of credit,CO,42
+Mortgage,Conventional fixed mortgage,NV,29
+Student loan,Non-federal student loan,ME,13
+Debt collection,Auto,GA,19
+Consumer Loan,Installment loan,MD,79
+Debt collection,Federal student loan,OH,32
+Debt collection,I do not know,MN,40
+Mortgage,Home equity loan or line of credit,MA,11
+Mortgage,FHA mortgage,LA,21
+Mortgage,Conventional adjustable mortgage (ARM),OR,42
+Bank account or service,Savings account,TX,27
+Consumer Loan,Vehicle loan,KY,64
+Debt collection,Mortgage,PA,14
+Bank account or service,Other bank product/service,MA,21
+Consumer Loan,Installment loan,NY,58
+Credit reporting,,ID,19
+Student loan,Non-federal student loan,MO,45
+Debt collection,"Other (i.e. phone, health club, etc.)",MN,21
+Mortgage,Conventional adjustable mortgage (ARM),LA,16
+Consumer Loan,Vehicle loan,NV,63
+Mortgage,Conventional adjustable mortgage (ARM),KS,14
+Mortgage,Other mortgage,TN,23
+Bank account or service,Checking account,IN,35
+Mortgage,VA mortgage,AE,37
+Mortgage,Home equity loan or line of credit,MD,16
+Student loan,Non-federal student loan,ID,43
+Debt collection,I do not know,PA,15
+Bank account or service,Savings account,IL,10
+Bank account or service,Other bank product/service,NV,45
+Bank account or service,Savings account,MD,11
+Bank account or service,Cashing a check without an account,AK,11
+Mortgage,FHA mortgage,NH,33
+Mortgage,FHA mortgage,CT,22
+Bank account or service,Cashing a check without an account,CA,18
+Money transfers,Domestic (US) money transfer,GA,40
+Bank account or service,Cashing a check without an account,PA,36
+Bank account or service,Savings account,RI,20
+Consumer Loan,Vehicle loan,MI,73
+Debt collection,I do not know,NM,15
+Debt collection,Credit card,VA,24
+Mortgage,FHA mortgage,MS,18
+Consumer Loan,Vehicle lease,FL,54
+Debt collection,Medical,CO,11
+Bank account or service,Checking account,UT,16
+Debt collection,Credit card,CO,17
+Debt collection,"Other (i.e. phone, health club, etc.)",AR,42
+Consumer Loan,Installment loan,TX,83
+Mortgage,VA mortgage,OK,33
+Credit card,,MS,59
+Debt collection,I do not know,IN,42
+Consumer Loan,Personal line of credit,MD,66
+Money transfers,Domestic (US) money transfer,VA,44
+Debt collection,Medical,DC,26
+Debt collection,Credit card,MS,14
+Credit reporting,,RI,11
+Debt collection,I do not know,CT,10
+Mortgage,VA mortgage,CA,18
+Debt collection,I do not know,LA,14
+Debt collection,Medical,IL,17
+Debt collection,Medical,NC,20
+Debt collection,Federal student loan,PA,14
+Credit reporting,,UT,30
+Bank account or service,Other bank product/service,MD,40
+Mortgage,Home equity loan or line of credit,TN,25
+Mortgage,Home equity loan or line of credit,AL,23
+Money transfers,International money transfer,CA,40
+Consumer Loan,Vehicle loan,MA,51
+Bank account or service,Savings account,MI,14
+Mortgage,Home equity loan or line of credit,VA,27
+Mortgage,VA mortgage,VA,21
+Mortgage,Reverse mortgage,NY,26
+Debt collection,Medical,ND,38
+Debt collection,I do not know,OH,10
+Bank account or service,Other bank product/service,WY,20
+Credit reporting,,WV,34
+Debt collection,"Other (i.e. phone, health club, etc.)",TN,42
+Consumer Loan,Vehicle lease,IL,72
+Mortgage,Reverse mortgage,VA,45
+Mortgage,Other mortgage,OK,22
+Mortgage,Reverse mortgage,DC,38
+Student loan,Non-federal student loan,VT,19
+Debt collection,Medical,TX,14
+Debt collection,"Other (i.e. phone, health club, etc.)",OK,31
+Debt collection,I do not know,NJ,44
+Debt collection,Medical,KS,45
+Debt collection,Medical,OK,28
+Debt collection,"Other (i.e. phone, health club, etc.)",MT,20
+Debt collection,I do not know,AZ,40
+Mortgage,Conventional fixed mortgage,MS,20
+Student loan,Non-federal student loan,IN,26
+Mortgage,Home equity loan or line of credit,,12
+Mortgage,Second mortgage,AL,30
+Bank account or service,Checking account,OK,10
+Debt collection,"Other (i.e. phone, health club, etc.)",KY,33
+Mortgage,Conventional adjustable mortgage (ARM),TX,42
+Debt collection,"Other (i.e. phone, health club, etc.)",MH,33
+Debt collection,Federal student loan,WA,24
+Mortgage,Second mortgage,MI,34
+Mortgage,VA mortgage,TX,31
+Debt collection,Federal student loan,CA,17
+Debt collection,I do not know,MO,33
+Student loan,Non-federal student loan,OR,22
+Consumer Loan,Personal line of credit,MN,66
+Mortgage,Conventional adjustable mortgage (ARM),UT,28
+Debt collection,Medical,MD,22
+Debt collection,Non-federal student loan,OH,19
+Debt collection,Auto,TX,20
+Consumer Loan,Installment loan,CA,76
+Credit reporting,,MS,15
+Debt collection,Non-federal student loan,GA,38
+Credit reporting,,WY,45
+Mortgage,Conventional fixed mortgage,IA,20
+Debt collection,I do not know,ME,12
+Bank account or service,Other bank product/service,PA,25
+Bank account or service,Other bank product/service,MO,23
+Debt collection,Federal student loan,NJ,40
+Consumer Loan,Vehicle loan,OH,73
+Bank account or service,Checking account,OR,18
+Debt collection,Auto,CA,13
+Mortgage,VA mortgage,OR,39
+Bank account or service,Other bank product/service,IN,13
+Money transfers,Domestic (US) money transfer,PA,24
+Bank account or service,(CD) Certificate of deposit,TN,39
+Mortgage,Conventional adjustable mortgage (ARM),AL,27
+Mortgage,Conventional adjustable mortgage (ARM),ME,28
+Consumer Loan,Vehicle loan,WA,55
+Bank account or service,Checking account,ID,20
+Bank account or service,Savings account,LA,44
+Debt collection,Non-federal student loan,MI,18
+Mortgage,VA mortgage,PA,12
+Debt collection,Medical,NJ,41
+Bank account or service,Checking account,DC,37
+Mortgage,Home equity loan or line of credit,IL,12
+Bank account or service,Savings account,PA,19
+Consumer Loan,Installment loan,WA,77
+Mortgage,Other mortgage,MT,16
+Consumer Loan,Vehicle loan,IA,67
+Mortgage,Conventional fixed mortgage,NE,25
+Bank account or service,Checking account,KS,35
+Debt collection,"Other (i.e. phone, health club, etc.)",DE,13
+Mortgage,VA mortgage,IN,37
+Money transfers,International money transfer,FL,25
+Debt collection,Medical,VA,24
+Debt collection,"Other (i.e. phone, health club, etc.)",DC,36
+Debt collection,Medical,OH,39
+Mortgage,Conventional adjustable mortgage (ARM),MT,20
+Mortgage,Home equity loan or line of credit,OH,15
+Debt collection,Non-federal student loan,IN,28
+Student loan,Non-federal student loan,TN,15
+Bank account or service,Other bank product/service,CO,30
+Debt collection,Medical,NV,37
+Mortgage,Home equity loan or line of credit,WI,20
+Bank account or service,Checking account,KY,37
+Credit card,,,79
+Bank account or service,Savings account,MA,29
+Consumer Loan,Vehicle loan,KS,51
+Mortgage,Other mortgage,PR,26
+Debt collection,Non-federal student loan,MA,17
+Consumer Loan,Vehicle lease,CA,53
+Bank account or service,Other bank product/service,KY,23
+Debt collection,Federal student loan,NE,13
+Debt collection,Federal student loan,CO,34
+Consumer Loan,Vehicle loan,SC,69
+Mortgage,Reverse mortgage,WA,44
+Consumer Loan,Installment loan,NJ,50
+Mortgage,Home equity loan or line of credit,WA,39
+Mortgage,FHA mortgage,IN,34
+Debt collection,Credit card,OR,38
+Debt collection,I do not know,SC,19
+Mortgage,Second mortgage,CA,22
+Bank account or service,(CD) Certificate of deposit,NC,18
+Money transfers,International money transfer,NV,17
+Mortgage,FHA mortgage,NV,15
+Mortgage,Home equity loan or line of credit,IA,17
+Debt collection,Non-federal student loan,NY,24
+Consumer Loan,Vehicle loan,TN,65
+Consumer Loan,Vehicle lease,IN,63
+Debt collection,Non-federal student loan,PA,39
+Debt collection,Auto,OH,11
+Bank account or service,Savings account,AL,17
+Debt collection,I do not know,MS,13
+Mortgage,Other mortgage,VT,29
+Debt collection,Medical,MS,25
+Debt collection,Mortgage,WY,40
+Debt collection,Medical,MA,36
+Bank account or service,Other bank product/service,,40
+Mortgage,FHA mortgage,AR,13
+Debt collection,Credit card,CT,34
+Debt collection,Credit card,TN,10
+Debt collection,I do not know,ND,13
+Debt collection,Non-federal student loan,AR,38
+Debt collection,I do not know,NC,36
+Debt collection,"Other (i.e. phone, health club, etc.)",AE,17
+Debt collection,Auto,UT,28
+Consumer Loan,Vehicle loan,AR,66
+Mortgage,Second mortgage,NY,40
+Debt collection,"Other (i.e. phone, health club, etc.)",HI,18
+Debt collection,Credit card,UT,39
+Debt collection,Medical,LA,25
+Debt collection,I do not know,PR,22
+Debt collection,Credit card,KY,10
+Debt collection,Credit card,MI,21
+Bank account or service,Cashing a check without an account,FL,27
+Money transfers,Domestic (US) money transfer,OR,22
+Debt collection,Auto,MA,34
+Bank account or service,Checking account,PR,29
+Consumer Loan,Personal line of credit,NY,83
+Credit reporting,,AR,14
+Debt collection,Non-federal student loan,IL,33
+Credit card,,AP,81
+Credit card,,NM,51
+Mortgage,Conventional fixed mortgage,AK,27
+Mortgage,Conventional adjustable mortgage (ARM),OK,16
+Mortgage,FHA mortgage,DE,42
+Credit reporting,,KY,20
+Money transfers,International money transfer,VA,36
+Mortgage,Other mortgage,ME,25
+Debt collection,"Other (i.e. phone, health club, etc.)",WI,28
+Mortgage,Conventional adjustable mortgage (ARM),NE,37
+Mortgage,Second mortgage,GA,28
+Mortgage,Home equity loan or line of credit,NV,29
+Money transfers,International money transfer,TN,37
+Debt collection,Credit card,ND,33
+Mortgage,Home equity loan or line of credit,SC,22
+Debt collection,Mortgage,IL,19
+Money transfers,Domestic (US) money transfer,OH,11
+Debt collection,Non-federal student loan,CO,45
+Bank account or service,(CD) Certificate of deposit,NJ,39
+Bank account or service,Other bank product/service,ME,39
+Debt collection,Auto,PA,33
+Debt collection,Medical,DE,31
+Debt collection,"Other (i.e. phone, health club, etc.)",VT,41
+Mortgage,Other mortgage,NE,21
+Bank account or service,Savings account,GA,21
+Credit reporting,,WI,33
+Debt collection,Non-federal student loan,AZ,31
+Debt collection,Medical,OR,15
+Bank account or service,Savings account,VA,25
+Bank account or service,Cashing a check without an account,NC,15
+Bank account or service,(CD) Certificate of deposit,DE,18
+Consumer Loan,Vehicle lease,MD,59
+Bank account or service,Checking account,AR,25
+Debt collection,Credit card,DE,44
+Debt collection,Mortgage,MO,31
+Mortgage,Conventional fixed mortgage,WV,19
+Credit card,,AK,76
+Mortgage,Other mortgage,AR,31
+Debt collection,I do not know,HI,10
+Debt collection,I do not know,KS,45
+Student loan,Non-federal student loan,AZ,19
+Student loan,Non-federal student loan,NM,45
+Bank account or service,Checking account,NM,41
+Debt collection,Medical,SC,16
+Debt collection,Non-federal student loan,DC,27
+Debt collection,Non-federal student loan,NV,29
+Debt collection,Mortgage,VA,44
+Money transfers,International money transfer,TX,27
+Debt collection,Federal student loan,GA,12
+Debt collection,Medical,ID,43
+Debt collection,Credit card,AL,12
+Consumer Loan,Installment loan,IL,70
+Consumer Loan,Installment loan,LA,55
+Mortgage,Other mortgage,RI,23
+Student loan,Non-federal student loan,WY,12
+Bank account or service,Checking account,VT,43
+Bank account or service,Checking account,MT,41
+Student loan,Non-federal student loan,KY,44
+Mortgage,Conventional adjustable mortgage (ARM),AK,33
+Debt collection,Medical,IN,20
+Mortgage,Conventional adjustable mortgage (ARM),SC,21
+Mortgage,Other mortgage,WV,18
+Mortgage,Conventional adjustable mortgage (ARM),MO,18
+Mortgage,VA mortgage,LA,37
+Debt collection,Auto,IA,40
+Bank account or service,(CD) Certificate of deposit,SC,14
+Consumer Loan,Vehicle loan,MO,57
+Debt collection,Medical,MI,45
+Money transfers,International money transfer,MD,30
+Bank account or service,Other bank product/service,SC,12
+Debt collection,Auto,MS,20
+Mortgage,Home equity loan or line of credit,MO,19
+Debt collection,Mortgage,WA,30
+Debt collection,Mortgage,TX,15
+Mortgage,Other mortgage,AE,37
+Bank account or service,Cashing a check without an account,CT,18
+Bank account or service,Savings account,CO,41
+Mortgage,FHA mortgage,NE,38
+Money transfers,International money transfer,MO,22
+Mortgage,Reverse mortgage,IL,38
+Consumer Loan,Installment loan,PA,73
+Debt collection,Medical,NM,36
+Consumer Loan,Installment loan,MS,80
+Debt collection,Federal student loan,TX,38
+Consumer Loan,Personal line of credit,RI,52
+Debt collection,Credit card,DC,41
+Debt collection,Credit card,MT,21
+Mortgage,VA mortgage,CO,27
+Mortgage,Other mortgage,ND,39
+Debt collection,I do not know,MT,12
+Consumer Loan,Vehicle loan,CT,81
+Debt collection,"Other (i.e. phone, health club, etc.)",WV,39
+Bank account or service,Other bank product/service,RI,22
+Debt collection,"Other (i.e. phone, health club, etc.)",FM,23
+Mortgage,VA mortgage,MO,37
+Bank account or service,Other bank product/service,AZ,24
+Consumer Loan,Vehicle lease,CT,78
+Debt collection,"Other (i.e. phone, health club, etc.)",ID,15
+Debt collection,Credit card,VT,17
+Consumer Loan,Installment loan,TN,60
+Debt collection,Federal student loan,KY,43
+Mortgage,Conventional fixed mortgage,VT,40
+Debt collection,Auto,AZ,16
+Debt collection,Federal student loan,UT,40
+Bank account or service,(CD) Certificate of deposit,AL,12
+Consumer Loan,Personal line of credit,NM,53
+Consumer Loan,Vehicle loan,CO,71
+Debt collection,Medical,AL,16
+Bank account or service,(CD) Certificate of deposit,VA,43
+Mortgage,Second mortgage,VA,13
+Debt collection,"Other (i.e. phone, health club, etc.)",CT,45
+Money transfers,International money transfer,CO,15
+Bank account or service,Checking account,MS,17
+Money transfers,Domestic (US) money transfer,IA,28
+Mortgage,Home equity loan or line of credit,RI,39
+Debt collection,Credit card,HI,35
+Debt collection,Credit card,WA,30
+Mortgage,Reverse mortgage,CA,23
+Debt collection,Mortgage,OH,12
+Student loan,Non-federal student loan,,44
+Debt collection,Federal student loan,MO,36
+Money transfers,International money transfer,NJ,43
+Payday loan,Payday loan,PA,27
+Credit reporting,,VT,27
+Debt collection,Federal student loan,MN,29
+Bank account or service,(CD) Certificate of deposit,GA,38
+Student loan,Non-federal student loan,NE,39
+Money transfers,Domestic (US) money transfer,WI,43
+Bank account or service,Other bank product/service,WI,13
+Bank account or service,(CD) Certificate of deposit,KS,28
+Consumer Loan,Vehicle loan,NH,59
+Mortgage,Second mortgage,NC,31
+Mortgage,Conventional adjustable mortgage (ARM),ID,30
+Debt collection,Credit card,,25
+Consumer Loan,Installment loan,WI,75
+Consumer Loan,Personal line of credit,FL,51
+Payday loan,Payday loan,FL,23
+Credit reporting,,NM,32
+Debt collection,Auto,CO,10
+Debt collection,Payday loan,CA,28
+Payday loan,Payday loan,TX,45
+Debt collection,Payday loan,NC,21
+Mortgage,Home equity loan or line of credit,OR,44
+Debt collection,Federal student loan,NV,17
+Debt collection,Payday loan,FL,12
+Mortgage,Home equity loan or line of credit,DC,18
+Credit card,,SD,55
+Payday loan,Payday loan,IA,26
+Debt collection,"Other (i.e. phone, health club, etc.)",NH,12
+Mortgage,Second mortgage,OH,19
+Bank account or service,Savings account,,30
+Debt collection,Federal student loan,ID,12
+Bank account or service,Savings account,MS,14
+Payday loan,Payday loan,AZ,11
+Bank account or service,Other bank product/service,DC,38
+Debt collection,Mortgage,DC,25
+Bank account or service,Other bank product/service,WA,29
+Mortgage,Home equity loan or line of credit,IN,21
+Mortgage,Conventional fixed mortgage,ND,18
+Debt collection,Mortgage,MA,11
+Debt collection,I do not know,WV,32
+Mortgage,Conventional fixed mortgage,DC,24
+Bank account or service,(CD) Certificate of deposit,NV,15
+Money transfers,International money transfer,NM,28
+Debt collection,Non-federal student loan,WA,28
+Bank account or service,(CD) Certificate of deposit,IN,10
+Debt collection,Medical,TN,22
+Consumer Loan,Vehicle loan,OR,81
+Debt collection,Credit card,NV,20
+Consumer Loan,Vehicle lease,GA,69
+Debt collection,Credit card,AR,38
+Debt collection,Payday loan,OH,20
+Debt collection,Non-federal student loan,NC,27
+Consumer Loan,Installment loan,NC,79
+Debt collection,Mortgage,OK,35
+Mortgage,Conventional fixed mortgage,MT,31
+Consumer Loan,Vehicle lease,IA,84
+Money transfers,International money transfer,AZ,43
+Student loan,Non-federal student loan,WI,18
+Debt collection,Auto,AL,21
+Debt collection,Auto,MI,12
+Payday loan,Payday loan,MD,44
+Bank account or service,Savings account,SC,31
+Consumer Loan,Vehicle lease,NC,76
+Debt collection,Mortgage,NM,41
+Mortgage,Second mortgage,LA,23
+Consumer Loan,Personal line of credit,NJ,75
+Debt collection,Federal student loan,AZ,21
+Debt collection,Payday loan,IN,40
+Debt collection,Medical,CT,35
+Consumer Loan,Installment loan,MI,56
+Debt collection,Mortgage,ID,31
+Consumer Loan,Vehicle lease,NJ,58
+Payday loan,Payday loan,OH,26
+Credit reporting,,MT,23
+Money transfers,Domestic (US) money transfer,,37
+Bank account or service,(CD) Certificate of deposit,WA,10
+Consumer Loan,Personal line of credit,TX,70
+Money transfers,International money transfer,NY,43
+Debt collection,Non-federal student loan,OR,30
+Student loan,Non-federal student loan,KS,43
+Debt collection,Payday loan,MS,12
+Debt collection,Payday loan,NM,24
+Payday loan,Payday loan,WI,43
+Money transfers,International money transfer,OR,17
+Mortgage,Conventional adjustable mortgage (ARM),AR,27
+Consumer Loan,Vehicle loan,MN,79
+Consumer Loan,Vehicle loan,MT,61
+Debt collection,Credit card,SD,25
+Mortgage,Conventional adjustable mortgage (ARM),MS,41
+Mortgage,Reverse mortgage,MA,29
+Mortgage,Other mortgage,AK,43
+Bank account or service,Checking account,ME,10
+Debt collection,Mortgage,KS,10
+Payday loan,Payday loan,DE,37
+Debt collection,Non-federal student loan,TN,15
+Payday loan,Payday loan,OR,21
+Debt collection,Federal student loan,IA,17
+Bank account or service,Checking account,IA,42
+Bank account or service,Savings account,NH,27
+Debt collection,Mortgage,MN,28
+Mortgage,Conventional adjustable mortgage (ARM),DE,24
+Money transfers,Domestic (US) money transfer,NJ,44
+Debt collection,"Other (i.e. phone, health club, etc.)",SD,44
+Student loan,Non-federal student loan,AK,45
+Mortgage,Conventional fixed mortgage,MH,36
+Payday loan,Payday loan,TN,18
+Debt collection,Auto,,18
+Debt collection,Payday loan,TX,28
+Mortgage,FHA mortgage,IA,13
+Debt collection,Auto,MT,26
+Debt collection,Credit card,SC,24
+Debt collection,Mortgage,LA,45
+Mortgage,FHA mortgage,,10
+Student loan,Non-federal student loan,MS,41
+Bank account or service,Other bank product/service,OR,21
+Consumer Loan,Installment loan,OK,74
+Debt collection,Medical,NH,17
+Money transfers,International money transfer,UT,22
+Consumer Loan,Vehicle lease,OH,66
+Money transfers,International money transfer,NC,32
+Mortgage,VA mortgage,AK,23
+Debt collection,Credit card,RI,15
+Debt collection,I do not know,IA,11
+Debt collection,Payday loan,ME,45
+Mortgage,Reverse mortgage,CT,34
+Consumer Loan,Personal line of credit,GA,51
+Debt collection,Mortgage,NJ,11
+Debt collection,Mortgage,OR,16
+Debt collection,Auto,MD,30
+Debt collection,Credit card,NC,37
+Student loan,Non-federal student loan,AL,24
+Payday loan,Payday loan,MI,35
+Debt collection,Medical,AZ,22
+Payday loan,Payday loan,NY,36
+Debt collection,I do not know,UT,32
+Payday loan,Payday loan,MO,10
+Mortgage,VA mortgage,UT,13
+Debt collection,Payday loan,,16
+Bank account or service,(CD) Certificate of deposit,MD,26
+Debt collection,Payday loan,OK,32
+Mortgage,Conventional adjustable mortgage (ARM),KY,15
+Debt collection,Federal student loan,FL,12
+Debt collection,Non-federal student loan,MD,28
+Debt collection,Payday loan,MI,41
+Credit reporting,,SD,18
+Debt collection,Non-federal student loan,MS,29
+Debt collection,Payday loan,AL,38
+Debt collection,Mortgage,DE,24
+Mortgage,VA mortgage,WI,12
+Debt collection,Payday loan,NJ,20
+Debt collection,Payday loan,LA,30
+Debt collection,Payday loan,TN,23
+Debt collection,Payday loan,WI,12
+Debt collection,"Other (i.e. phone, health club, etc.)",AP,32
+Debt collection,Payday loan,DC,14
+Mortgage,Other mortgage,SD,23
+Debt collection,Credit card,WV,43
+Consumer Loan,Vehicle loan,OK,69
+Debt collection,I do not know,AK,13
+Mortgage,FHA mortgage,KY,39
+Debt collection,Federal student loan,IN,43
+Payday loan,Payday loan,AL,29
+Mortgage,Home equity loan or line of credit,ME,37
+Mortgage,Reverse mortgage,PA,44
+Payday loan,Payday loan,CA,29
+Debt collection,Non-federal student loan,WV,27
+Consumer Loan,Vehicle lease,KY,62
+Debt collection,Federal student loan,AR,15
+Payday loan,Payday loan,LA,24
+Debt collection,Payday loan,ID,39
+Debt collection,Federal student loan,OR,31
+Bank account or service,Checking account,AK,35
+Bank account or service,(CD) Certificate of deposit,,11
+Debt collection,Mortgage,MD,35
+Consumer Loan,Installment loan,HI,59
+Credit card,,VI,74
+Money transfers,International money transfer,MI,43
+Consumer Loan,Personal line of credit,VA,54
+Debt collection,Medical,NE,20
+Debt collection,Federal student loan,IL,16
+Payday loan,Payday loan,MA,29
+Debt collection,Payday loan,AZ,16
+Bank account or service,Other bank product/service,UT,29
+Consumer Loan,Vehicle lease,DC,81
+Bank account or service,(CD) Certificate of deposit,FL,35
+Mortgage,VA mortgage,TN,41
+Bank account or service,Cashing a check without an account,NY,31
+Debt collection,Non-federal student loan,VA,40
+Money transfers,International money transfer,RI,32
+Bank account or service,Other bank product/service,KS,43
+Bank account or service,Other bank product/service,TN,13
+Consumer Loan,Personal line of credit,PA,51
+Debt collection,Federal student loan,WI,23
+Debt collection,Payday loan,OR,42
+Consumer Loan,Vehicle loan,DC,83
+Debt collection,Medical,ME,39
+Mortgage,Home equity loan or line of credit,UT,38
+Debt collection,Auto,ND,20
+Debt collection,Payday loan,NY,14
+Mortgage,FHA mortgage,DC,24
+Debt collection,Federal student loan,NC,14
+Debt collection,Payday loan,SD,17
+Consumer Loan,Personal line of credit,IL,74
+Consumer Loan,Installment loan,OR,51
+Debt collection,Credit card,NM,40
+Consumer Loan,Installment loan,ME,67
+Debt collection,Payday loan,HI,11
+Money transfers,Domestic (US) money transfer,IL,28
+Debt collection,"Other (i.e. phone, health club, etc.)",AK,45
+Payday loan,Payday loan,IL,45
+Mortgage,Conventional fixed mortgage,WY,31
+Mortgage,VA mortgage,WV,23
+Debt collection,Payday loan,WA,23
+Debt collection,I do not know,SD,11
+Bank account or service,(CD) Certificate of deposit,MS,33
+Debt collection,Non-federal student loan,ID,23
+Bank account or service,Other bank product/service,LA,26
+Mortgage,VA mortgage,KS,18
+Money transfers,Domestic (US) money transfer,NC,42
+Payday loan,Payday loan,SC,18
+Money transfers,International money transfer,GA,26
+Debt collection,Federal student loan,CT,37
+Debt collection,Payday loan,WV,44
+Debt collection,Auto,OK,15
+Debt collection,"Other (i.e. phone, health club, etc.)",RI,17
+Payday loan,Payday loan,VA,40
+Payday loan,Payday loan,RI,19
+Debt collection,"Other (i.e. phone, health club, etc.)",ME,40
+Mortgage,Second mortgage,WA,25
+Consumer Loan,Vehicle lease,MA,59
+Debt collection,Non-federal student loan,RI,41
+Debt collection,Payday loan,SC,22
+Student loan,Non-federal student loan,SD,33
+Debt collection,I do not know,VT,28
+Debt collection,Federal student loan,DC,37
+Money transfers,International money transfer,OH,32
+Consumer Loan,Installment loan,NV,53
+Consumer Loan,Personal line of credit,LA,57
+Mortgage,Reverse mortgage,CO,31
+Payday loan,Payday loan,OK,20
+Money transfers,International money transfer,MS,21
+Bank account or service,Cashing a check without an account,MN,28
+Mortgage,Conventional adjustable mortgage (ARM),VI,38
+Bank account or service,(CD) Certificate of deposit,UT,31
+Consumer Loan,Installment loan,VA,71
+Mortgage,Reverse mortgage,OR,22
+Debt collection,Payday loan,PA,29
+Debt collection,Medical,,32
+Mortgage,Reverse mortgage,AL,16
+Bank account or service,Checking account,HI,17
+Debt collection,"Other (i.e. phone, health club, etc.)",NE,23
+Debt collection,Medical,MT,36
+Debt collection,Payday loan,VA,38
+Consumer Loan,Vehicle lease,WA,66
+Payday loan,Payday loan,,19
+Debt collection,Auto,AR,28
+Debt collection,Federal student loan,MI,35
+Payday loan,Payday loan,NC,35
+Money transfers,International money transfer,NH,22
+Debt collection,"Other (i.e. phone, health club, etc.)",VI,45
+Debt collection,Payday loan,NV,10
+Debt collection,Federal student loan,MA,45
+Debt collection,Auto,IN,10
+Consumer Loan,Personal line of credit,PR,75
+Money transfers,Domestic (US) money transfer,HI,24
+Bank account or service,Checking account,SD,13
+Mortgage,Second mortgage,AZ,28
+Payday loan,Payday loan,NJ,18
+Debt collection,Federal student loan,KS,37
+Money transfers,Domestic (US) money transfer,NV,41
+Student loan,Non-federal student loan,WV,10
+Debt collection,Mortgage,NC,34
+Debt collection,Mortgage,MT,32
+Consumer Loan,Installment loan,AR,50
+Mortgage,Reverse mortgage,NJ,28
+Payday loan,Payday loan,WA,37
+Money transfers,Domestic (US) money transfer,AL,28
+Consumer Loan,Vehicle loan,RI,81
+Debt collection,Federal student loan,NM,15
+Bank account or service,Cashing a check without an account,VA,12
+Money transfers,International money transfer,MN,44
+Consumer Loan,Installment loan,MO,58
+Payday loan,Payday loan,NV,22
+Debt collection,I do not know,ID,24
+Debt collection,"Other (i.e. phone, health club, etc.)",GU,32
+Debt collection,Auto,KY,32
+Debt collection,Payday loan,MO,30
+Debt collection,Non-federal student loan,SC,15
+Consumer Loan,Personal line of credit,KY,68
+Debt collection,Auto,NJ,22
+Debt collection,Payday loan,MN,45
+Consumer Loan,Personal line of credit,OH,70
+Bank account or service,(CD) Certificate of deposit,OR,26
+Money transfers,International money transfer,MA,43
+Debt collection,Medical,AR,41
+Mortgage,Second mortgage,CO,44
+Debt collection,Payday loan,IL,25
+Mortgage,Home equity loan or line of credit,CT,41
+Debt collection,Payday loan,MD,37
+Debt collection,Mortgage,HI,41
+Mortgage,Conventional fixed mortgage,SD,28
+Bank account or service,(CD) Certificate of deposit,KY,26
+Debt collection,Mortgage,NH,17
+Debt collection,"Other (i.e. phone, health club, etc.)",PR,40
+Debt collection,I do not know,NE,41
+Debt collection,Payday loan,IA,30
+Debt collection,Non-federal student loan,KY,41
+Consumer Loan,Installment loan,IN,82
+Money transfers,International money transfer,LA,33
+Payday loan,Payday loan,MN,18
+Mortgage,FHA mortgage,NM,20
+Debt collection,Federal student loan,LA,13
+Mortgage,FHA mortgage,VT,24
+Debt collection,Payday loan,GA,45
+Money transfers,Domestic (US) money transfer,MO,31
+Mortgage,Second mortgage,IL,23
+Bank account or service,Savings account,MO,41
+Bank account or service,Other bank product/service,HI,31
+Mortgage,Second mortgage,MD,20
+Mortgage,Reverse mortgage,LA,11
+Debt collection,Non-federal student loan,LA,38
+Debt collection,Federal student loan,PR,23
+Money transfers,Domestic (US) money transfer,MI,37
+Debt collection,Payday loan,ND,37
+Bank account or service,(CD) Certificate of deposit,PR,17
+Debt collection,Non-federal student loan,AK,37
+Mortgage,Reverse mortgage,OH,14
+Debt collection,Payday loan,KY,41
+Debt collection,Payday loan,KS,11
+Payday loan,Payday loan,NM,36
+Bank account or service,Checking account,WV,42
+Credit reporting,,FM,35
+Mortgage,VA mortgage,NM,23
+Mortgage,VA mortgage,MI,17
+Consumer Loan,Personal line of credit,CT,68
+Money transfers,International money transfer,IL,16
+Payday loan,Payday loan,AR,34
+Debt collection,Medical,HI,12
+Debt collection,Medical,MN,30
+Debt collection,Federal student loan,MD,40
+Bank account or service,(CD) Certificate of deposit,RI,38
+Bank account or service,Checking account,AE,14
+Mortgage,VA mortgage,CT,44
+Payday loan,Payday loan,WY,13
+Money transfers,International money transfer,DC,38
+Mortgage,Conventional adjustable mortgage (ARM),RI,39
+Payday loan,Payday loan,CO,26
+Bank account or service,Savings account,MN,40
+Debt collection,Mortgage,AL,36
+Mortgage,Conventional fixed mortgage,PR,33
+Mortgage,Other mortgage,VI,38
+Bank account or service,Cashing a check without an account,NJ,21
+Debt collection,Payday loan,CO,36
+Credit reporting,,AE,24
+Credit reporting,,ND,35
+Bank account or service,(CD) Certificate of deposit,LA,36
+Debt collection,Non-federal student loan,OK,30
+Mortgage,VA mortgage,IL,42
+Mortgage,FHA mortgage,KS,23
+Consumer Loan,Personal line of credit,TN,55
+Debt collection,Auto,DE,42
+Debt collection,Non-federal student loan,UT,45
+Debt collection,Federal student loan,TN,16
+Mortgage,Second mortgage,NE,19
+Debt collection,Federal student loan,WY,19
+Mortgage,Conventional fixed mortgage,GU,22
+Mortgage,Home equity loan or line of credit,NH,15
+Mortgage,FHA mortgage,AK,31
+Debt collection,Auto,MN,37
+Money transfers,International money transfer,PA,43
+Consumer Loan,Vehicle lease,PA,85
+Money transfers,Domestic (US) money transfer,MN,21
+Mortgage,Second mortgage,KS,20
+Debt collection,Non-federal student loan,ME,45
+Mortgage,Home equity loan or line of credit,DE,24
+Mortgage,Conventional adjustable mortgage (ARM),VT,36
+Debt collection,I do not know,NH,41
+Mortgage,Reverse mortgage,OK,24
+Consumer Loan,Installment loan,NH,54
+Mortgage,FHA mortgage,ND,24
+Debt collection,Auto,NM,31
+Money transfers,Domestic (US) money transfer,WA,41
+Consumer Loan,Personal line of credit,AR,65
+Debt collection,Credit card,ME,30
+Consumer Loan,Personal line of credit,MA,67
+Bank account or service,Other bank product/service,NH,42
+Consumer Loan,Installment loan,KY,78
+Debt collection,Mortgage,CT,32
+Mortgage,Conventional fixed mortgage,AE,23
+Consumer Loan,Vehicle loan,HI,58
+Debt collection,Payday loan,MT,31
+Debt collection,Medical,IA,15
+Consumer Loan,Personal line of credit,AK,83
+Bank account or service,Savings account,VI,43
+Bank account or service,Cashing a check without an account,MI,23
+Bank account or service,Other bank product/service,CT,25
+Payday loan,Payday loan,ID,16
+Debt collection,Auto,SC,33
+Bank account or service,Other bank product/service,MT,38
+Consumer Loan,Installment loan,DC,66
+Mortgage,VA mortgage,OH,22
+Bank account or service,(CD) Certificate of deposit,MN,37
+Debt collection,Auto,LA,33
+Debt collection,Federal student loan,ME,20
+Consumer Loan,Installment loan,KS,70
+Bank account or service,Other bank product/service,IA,34
+Consumer Loan,Vehicle lease,SC,58
+Money transfers,International money transfer,WA,41
+Consumer Loan,Personal line of credit,IN,53
+Bank account or service,(CD) Certificate of deposit,MO,44
+Consumer Loan,Vehicle loan,WI,84
+Mortgage,VA mortgage,AR,32
+Money transfers,International money transfer,DE,11
+Consumer Loan,Personal line of credit,DC,59
+Debt collection,I do not know,WY,42
+Bank account or service,Other bank product/service,AR,25
+Debt collection,Mortgage,TN,23
+Bank account or service,Other bank product/service,OK,34
+Bank account or service,Savings account,KS,28
+Mortgage,VA mortgage,MN,40
+Consumer Loan,Vehicle loan,LA,52
+Payday loan,Payday loan,ND,33
+Consumer Loan,Vehicle lease,TX,69
+Debt collection,Payday loan,NH,34
+Bank account or service,Savings account,DE,20
+Bank account or service,Other bank product/service,VT,44
+Bank account or service,Other bank product/service,DE,22
+Consumer Loan,Personal line of credit,AL,78
+Payday loan,Payday loan,NE,45
+Mortgage,Conventional adjustable mortgage (ARM),,32
+Mortgage,FHA mortgage,ME,25
+Mortgage,Home equity loan or line of credit,AE,20
+Debt collection,Mortgage,KY,44
+Consumer Loan,Vehicle loan,UT,65
+Bank account or service,Savings account,UT,39
+Mortgage,Conventional adjustable mortgage (ARM),WV,22
+Mortgage,Second mortgage,WY,35
+Debt collection,Non-federal student loan,NM,33
+Consumer Loan,Personal line of credit,AZ,80
+Student loan,Non-federal student loan,ND,11
+Consumer Loan,Vehicle lease,HI,63
+Bank account or service,Savings account,KY,25
+Consumer Loan,Installment loan,IA,50
+Debt collection,Auto,CT,23
+Bank account or service,Other bank product/service,SD,36
+Debt collection,Payday loan,RI,25
+Mortgage,FHA mortgage,WV,39
+Consumer Loan,Personal line of credit,IA,55
+Consumer Loan,Vehicle loan,NM,69
+Mortgage,Reverse mortgage,ND,16
+Debt collection,Payday loan,DE,36
+Payday loan,Payday loan,DC,43
+Payday loan,Payday loan,KS,25
+Consumer Loan,Installment loan,CO,74
+Debt collection,Payday loan,AR,30
+Mortgage,Reverse mortgage,NC,29
+Debt collection,Payday loan,UT,32
+Debt collection,Mortgage,,18
+Bank account or service,Cashing a check without an account,SC,12
+Payday loan,Payday loan,UT,29
+Debt collection,Mortgage,IA,19
+Debt collection,Medical,AK,20
+Debt collection,Medical,WV,38
+Bank account or service,Checking account,ND,10
+Mortgage,FHA mortgage,AE,26
+Debt collection,Auto,SD,26
+Debt collection,Auto,OR,21
+Mortgage,Other mortgage,GU,22
+Debt collection,Payday loan,VT,27
+Debt collection,Medical,WY,23
+Money transfers,Domestic (US) money transfer,OK,44
+Consumer Loan,Vehicle loan,SD,74
+Consumer Loan,Personal line of credit,,76
+Mortgage,Reverse mortgage,WV,11
+Payday loan,Payday loan,SD,28
+Mortgage,Home equity loan or line of credit,LA,28
+Mortgage,VA mortgage,NH,25
+Debt collection,Mortgage,RI,21
+Debt collection,Auto,RI,34
+Consumer Loan,Vehicle lease,ID,72
+Debt collection,Medical,PR,13
+Mortgage,FHA mortgage,MT,26
+Money transfers,Domestic (US) money transfer,MA,15
+Mortgage,VA mortgage,IA,26
+Mortgage,Second mortgage,PA,43
+Bank account or service,Other bank product/service,AK,25
+Mortgage,Conventional adjustable mortgage (ARM),NM,32
+Credit card,,ND,80
+Money transfers,Domestic (US) money transfer,DC,21
+Consumer Loan,Personal line of credit,WI,68
+Mortgage,VA mortgage,ME,34
+Debt collection,Auto,DC,10
+Bank account or service,Cashing a check without an account,ME,42
+Debt collection,Non-federal student loan,VT,24
+Bank account or service,Cashing a check without an account,AR,28
+Mortgage,VA mortgage,MA,43
+Student loan,Non-federal student loan,MT,41
+Debt collection,Credit card,AE,20
+Bank account or service,(CD) Certificate of deposit,NE,39
+Money transfers,Domestic (US) money transfer,WV,13
+Student loan,Non-federal student loan,GU,16
+Consumer Loan,Personal line of credit,WA,57
+Debt collection,"Other (i.e. phone, health club, etc.)",ND,38
+Money transfers,Domestic (US) money transfer,NM,16
+Debt collection,Medical,RI,11
+Payday loan,Payday loan,GA,37
+Money transfers,Domestic (US) money transfer,TN,39
+Mortgage,Home equity loan or line of credit,SD,45
+Money transfers,Domestic (US) money transfer,MT,18
+Debt collection,Federal student loan,SC,34
+Mortgage,Conventional adjustable mortgage (ARM),WY,13
+Consumer Loan,Installment loan,NM,69
+Bank account or service,Checking account,GU,27
+Mortgage,Other mortgage,WY,42
+Debt collection,Non-federal student loan,WI,12
+Mortgage,VA mortgage,NJ,33
+Money transfers,International money transfer,OK,44
+Debt collection,Mortgage,PR,31
+Debt collection,Non-federal student loan,AL,43
+Bank account or service,Other bank product/service,MS,30
+Money transfers,International money transfer,WI,17
+Credit reporting,,VI,39
+Money transfers,Domestic (US) money transfer,CT,32
+Mortgage,Other mortgage,AP,28
+Mortgage,Conventional adjustable mortgage (ARM),IA,19
+Mortgage,Second mortgage,MS,42
+Mortgage,Second mortgage,NH,21
+Debt collection,Payday loan,MA,18
+Debt collection,Non-federal student loan,SD,20
+Other financial service,Check cashing,NJ,23
+Debt collection,Credit card,VI,32
+Payday loan,Payday loan,CT,27
+Money transfers,International money transfer,HI,29
+Debt collection,Non-federal student loan,IA,38
+Mortgage,Second mortgage,MO,38
+Prepaid card,Mobile wallet,NJ,79
+Prepaid card,Government benefit payment card,MI,81
+Consumer Loan,Vehicle lease,VA,60
+Mortgage,Reverse mortgage,VT,38
+Prepaid card,Gift or merchant card,HI,71
+Bank account or service,(CD) Certificate of deposit,MI,32
+Mortgage,Reverse mortgage,NM,24
+Debt collection,Non-federal student loan,AE,22
+Payday loan,Payday loan,MT,37
+Mortgage,VA mortgage,MS,38
+Prepaid card,General purpose card,VA,60
+Debt collection,Mortgage,UT,43
+Debt collection,Federal student loan,OK,33
+Prepaid card,Mobile wallet,VA,51
+Consumer Loan,Title loan,NC,71
+Prepaid card,Mobile wallet,TX,68
+Bank account or service,(CD) Certificate of deposit,CO,12
+Other financial service,Foreign currency exchange,NY,38
+Debt collection,Auto,WI,20
+Mortgage,Reverse mortgage,KS,27
+Bank account or service,Savings account,WV,39
+Student loan,Non-federal student loan,HI,25
+Prepaid card,General purpose card,IA,76
+Consumer Loan,Installment loan,MA,50
+Payday loan,Payday loan,KY,22
+Bank account or service,(CD) Certificate of deposit,OK,10
+Consumer Loan,Installment loan,SD,83
+Consumer Loan,Vehicle loan,GU,66
+Bank account or service,(CD) Certificate of deposit,AR,45
+Consumer Loan,Title loan,OH,84
+Other financial service,Refund anticipation check,DC,23
+Credit reporting,,GU,39
+Debt collection,Mortgage,AR,15
+Other financial service,Debt settlement,CA,25
+Prepaid card,Payroll card,MA,73
+Prepaid card,General purpose card,CT,73
+Debt collection,Payday loan,CT,17
+Prepaid card,Gift or merchant card,CA,68
+Other financial service,Check cashing,TX,28
+Prepaid card,Gift or merchant card,FL,71
+Prepaid card,Gift or merchant card,VA,50
+Consumer Loan,Installment loan,DE,52
+Prepaid card,Payroll card,NC,58
+Debt collection,Federal student loan,RI,16
+Credit reporting,,AP,28
+Bank account or service,Cashing a check without an account,MS,11
+Consumer Loan,Vehicle loan,ME,71
+Prepaid card,General purpose card,NY,78
+Consumer Loan,Vehicle lease,MN,78
+Consumer Loan,Title loan,GA,54
+Mortgage,VA mortgage,PR,15
+Consumer Loan,Title loan,TX,66
+Consumer Loan,Installment loan,MN,68
+Prepaid card,Other special purpose card,GA,74
+Prepaid card,General purpose card,NC,68
+Prepaid card,Government benefit payment card,ND,80
+Bank account or service,Savings account,PR,31
+Bank account or service,Savings account,ID,33
+Prepaid card,ID prepaid card,FL,70
+Consumer Loan,Installment loan,UT,55
+Mortgage,Home equity loan or line of credit,WV,16
+Mortgage,Home equity loan or line of credit,HI,31
+Mortgage,Home equity loan or line of credit,KS,12
+Other financial service,Refund anticipation check,ME,28
+Credit reporting,,MH,16
+Debt collection,Credit card,AP,32
+Debt collection,Federal student loan,AL,19
+Other financial service,Check cashing,CA,38
+Consumer Loan,Vehicle loan,VT,66
+Prepaid card,Other special purpose card,CA,70
+Prepaid card,Gift or merchant card,GA,76
+Bank account or service,Checking account,VI,27
+Consumer Loan,Title loan,FL,84
+Consumer Loan,Installment loan,VT,52
+Prepaid card,Mobile wallet,CA,61
+Other financial service,Credit repair,NJ,17
+Mortgage,Reverse mortgage,SC,40
+Payday loan,Payday loan,MS,22
+Prepaid card,Mobile wallet,AZ,77
+Prepaid card,General purpose card,CA,64
+Prepaid card,Government benefit payment card,NM,82
+Consumer Loan,Vehicle lease,RI,70
+Other financial service,Debt settlement,TX,31
+Prepaid card,Government benefit payment card,FL,64
+Mortgage,Reverse mortgage,,24
+Prepaid card,General purpose card,MA,73
+Prepaid card,ID prepaid card,MI,80
+Consumer Loan,Installment loan,AL,68
+Credit card,,WY,80
+Mortgage,Home equity loan or line of credit,NM,38
+Consumer Loan,Installment loan,CT,85
+Consumer Loan,Installment loan,AZ,73
+Mortgage,Reverse mortgage,WI,28
+Prepaid card,ID prepaid card,CO,82
+Other financial service,Check cashing,FL,37
+Money transfers,Domestic (US) money transfer,NE,15
+Prepaid card,Other special purpose card,IL,83
+Mortgage,VA mortgage,,35
+Mortgage,Conventional adjustable mortgage (ARM),ND,15
+Other financial service,Foreign currency exchange,OH,39
+Mortgage,Home equity loan or line of credit,KY,45
+Bank account or service,(CD) Certificate of deposit,HI,41
+Consumer Loan,Pawn loan,CO,84
+Other financial service,Check cashing,AL,39
+Other financial service,Credit repair,TX,10
+Prepaid card,ID prepaid card,MA,71
+Consumer Loan,Title loan,WI,59
+Bank account or service,Cashing a check without an account,MA,32
+Other financial service,Check cashing,,38
+Debt collection,Mortgage,MS,24
+Prepaid card,General purpose card,TN,52
+Prepaid card,General purpose card,FL,58
+Bank account or service,Other bank product/service,NE,29
+Other financial service,Debt settlement,NY,14
+Prepaid card,General purpose card,NJ,55
+Consumer Loan,Personal line of credit,OK,67
+Debt collection,Mortgage,VT,33
+Prepaid card,Government benefit payment card,NJ,67
+Consumer Loan,Title loan,IL,75
+Consumer Loan,Installment loan,ID,76
+Money transfers,International money transfer,PR,31
+Other financial service,Check cashing,NY,14
+Consumer Loan,Vehicle loan,ID,66
+Prepaid card,Other special purpose card,MA,74
+Prepaid card,Government benefit payment card,KY,70
+Bank account or service,(CD) Certificate of deposit,CT,20
+Consumer Loan,Vehicle lease,AL,59
+Consumer Loan,Installment loan,RI,54
+Mortgage,Reverse mortgage,NV,25
+Consumer Loan,Pawn loan,NC,72
+Bank account or service,Savings account,NV,24
+Other financial service,Credit repair,IN,13
+Money transfers,International money transfer,IN,42
+Other financial service,Credit repair,MA,40
+Prepaid card,Other special purpose card,CO,60
+Prepaid card,General purpose card,OK,58
+Prepaid card,Government benefit payment card,IL,71
+Mortgage,Conventional fixed mortgage,FM,15
+Prepaid card,Government benefit payment card,IA,52
+Mortgage,Conventional fixed mortgage,AP,26
+Prepaid card,Mobile wallet,OH,63
+Debt collection,Auto,WV,36
+Mortgage,Other mortgage,MP,40
+Debt collection,Federal student loan,DE,19
+Other financial service,Check cashing,MS,33
+Consumer Loan,Vehicle lease,TN,67
+Student loan,Non-federal student loan,RI,41
+Debt collection,Auto,NH,32
+Mortgage,Reverse mortgage,KY,30
+Prepaid card,Government benefit payment card,OH,61
+Other financial service,Foreign currency exchange,CA,43
+Consumer Loan,Installment loan,,65
+Bank account or service,Cashing a check without an account,PR,21
+Bank account or service,Cashing a check without an account,,44
+Mortgage,Reverse mortgage,MI,14
+Bank account or service,Other bank product/service,NM,36
+Prepaid card,General purpose card,NV,58
+Consumer Loan,Vehicle lease,UT,63
+Prepaid card,General purpose card,MI,65
+Consumer Loan,Pawn loan,FL,84
+Bank account or service,Other bank product/service,WV,25
+Prepaid card,Gift or merchant card,TX,74
+Debt collection,Medical,SD,27
+Consumer Loan,Title loan,AZ,75
+Consumer Loan,Installment loan,WY,74
+Prepaid card,Electronic Benefit Transfer / EBT card,FL,52
+Consumer Loan,Title loan,CO,59
+Consumer Loan,Vehicle lease,WI,52
+Consumer Loan,Title loan,TN,57
+Prepaid card,General purpose card,PA,77
+Consumer Loan,Title loan,PA,55
+Consumer Loan,Title loan,CA,77
+Money transfers,Domestic (US) money transfer,MS,42
+Prepaid card,General purpose card,TX,65
+Consumer Loan,Personal line of credit,SC,66
+Prepaid card,Government benefit payment card,CA,78
+Other financial service,Debt settlement,IA,44
+Consumer Loan,Pawn loan,PR,84
+Prepaid card,ID prepaid card,TX,53
+Prepaid card,Mobile wallet,AR,53
+Prepaid card,General purpose card,OR,58
+Consumer Loan,Title loan,MD,82
+Payday loan,Payday loan,IN,20
+Prepaid card,Other special purpose card,OR,73
+Prepaid card,ID prepaid card,GA,74
+Prepaid card,Mobile wallet,NY,57
+Consumer Loan,Vehicle lease,LA,55
+Debt collection,Federal student loan,WV,27
+Prepaid card,Government benefit payment card,GA,54
+Prepaid card,Other special purpose card,FL,83
+Prepaid card,General purpose card,GA,78
+Consumer Loan,Pawn loan,CA,77
+Consumer Loan,Personal line of credit,MO,81
+Bank account or service,Other bank product/service,VI,38
+Prepaid card,Government benefit payment card,TX,77
+Consumer Loan,Vehicle loan,PR,82
+Prepaid card,Gift or merchant card,CO,64
+Prepaid card,ID prepaid card,OH,51
+Consumer Loan,Title loan,MA,71
+Mortgage,VA mortgage,ND,29
+Other financial service,Check cashing,WA,23
+Mortgage,Reverse mortgage,DE,10
+Debt collection,Payday loan,NE,40
+Money transfers,International money transfer,IA,36
+Bank account or service,(CD) Certificate of deposit,WV,19
+Money transfers,International money transfer,NE,40
+Prepaid card,Government benefit payment card,NY,72
+Prepaid card,Other special purpose card,AE,71
+Credit card,,AE,69
+Bank account or service,Checking account,WY,43
+Prepaid card,Gift or merchant card,NY,80
+Mortgage,VA mortgage,VT,23
+Debt collection,Auto,KS,37
+Prepaid card,ID prepaid card,NV,50
+Prepaid card,General purpose card,IL,82
+Prepaid card,General purpose card,MO,56
+Consumer Loan,Title loan,SC,73
+Prepaid card,ID prepaid card,PA,74
+Other financial service,Check cashing,VA,43
+Money transfers,International money transfer,AR,20
+Other financial service,Money order,NY,21
+Prepaid card,General purpose card,OH,80
+Prepaid card,Mobile wallet,OR,84
+Payday loan,Payday loan,HI,13
+Money transfers,Domestic (US) money transfer,LA,34
+Prepaid card,Transit card,AL,72
+Bank account or service,(CD) Certificate of deposit,DC,11
+Prepaid card,General purpose card,AZ,59
+Mortgage,Reverse mortgage,ID,29
+Consumer Loan,Pawn loan,VA,77
+Consumer Loan,Vehicle loan,NE,85
+Consumer Loan,Title loan,VA,72
+Payday loan,Payday loan,ME,37
+Consumer Loan,Pawn loan,PA,81
+Consumer Loan,Installment loan,MT,68
+Consumer Loan,Installment loan,ND,68
+Consumer Loan,Title loan,AL,67
+Prepaid card,General purpose card,WI,74
+Consumer Loan,Personal line of credit,DE,56
+Prepaid card,Mobile wallet,MN,81
+Prepaid card,General purpose card,WA,65
+Other financial service,Debt settlement,WA,38
+Consumer Loan,Pawn loan,NY,75
+Mortgage,FHA mortgage,WY,10
+Money transfers,International money transfer,AL,17
+Consumer Loan,Vehicle lease,NM,50
+Bank account or service,Savings account,IN,22
+Other financial service,Foreign currency exchange,WA,22
+Other financial service,Check cashing,IL,29
+Mortgage,Home equity loan or line of credit,VI,36
+Payday loan,Payday loan,PR,35
+Prepaid card,ID prepaid card,VA,83
+Other financial service,Money order,IL,40
+Consumer Loan,Vehicle lease,OR,68
+Debt collection,Auto,PR,23
+Prepaid card,Gift or merchant card,WA,70
+Debt collection,Auto,AE,37
+Other financial service,Check cashing,MO,12
+Money transfers,International money transfer,MT,38
+Other financial service,Check cashing,OH,15
+Consumer Loan,Pawn loan,NJ,50
+Other financial service,Check cashing,GA,14
+Other financial service,Debt settlement,DC,43
+Bank account or service,Cashing a check without an account,NV,43
+Consumer Loan,Personal line of credit,NE,60
+Prepaid card,Mobile wallet,WA,73
+Prepaid card,General purpose card,SD,61
+Debt collection,Auto,NE,37
+Prepaid card,ID prepaid card,CA,73
+Other financial service,Money order,UT,28
+Prepaid card,Mobile wallet,PA,85
+Prepaid card,Gift or merchant card,MD,76
+Other financial service,Foreign currency exchange,WI,28
+Bank account or service,(CD) Certificate of deposit,ME,31
+Prepaid card,Government benefit payment card,CT,65
+Prepaid card,Payroll card,CA,74
+Mortgage,Conventional fixed mortgage,VI,23
+Mortgage,Reverse mortgage,UT,33
+Prepaid card,Mobile wallet,,73
+Student loan,Non-federal student loan,VI,29
+Prepaid card,Other special purpose card,TN,67
+Consumer Loan,Title loan,UT,61
+Consumer Loan,Vehicle loan,VI,62
+Debt collection,Mortgage,NE,10
+Prepaid card,Mobile wallet,TN,57
+Consumer Loan,Vehicle lease,MO,59
+Consumer Loan,Personal line of credit,MI,54
+Other financial service,Credit repair,NC,25
+Prepaid card,Transit card,PA,50
+Other financial service,Refund anticipation check,CO,10
+Consumer Loan,Vehicle lease,PR,79
+Prepaid card,Government benefit payment card,MO,59
+Bank account or service,Cashing a check without an account,AZ,42
+Mortgage,Reverse mortgage,IN,12
+Bank account or service,Cashing a check without an account,CO,22
+Prepaid card,Mobile wallet,FL,58
+Prepaid card,Other special purpose card,OH,57
+Debt collection,Federal student loan,NH,42
+Prepaid card,Mobile wallet,MI,68
+Other financial service,Check cashing,SC,13
+Prepaid card,General purpose card,MD,59
+Prepaid card,Other special purpose card,TX,69
+Other financial service,Money order,GA,36
+Consumer Loan,Vehicle lease,MS,80
+Bank account or service,Cashing a check without an account,GA,23
+Mortgage,Reverse mortgage,RI,33
+Prepaid card,Government benefit payment card,OR,55
+Bank account or service,Cashing a check without an account,KY,40
+Other financial service,Money order,OR,40
+Mortgage,Home equity loan or line of credit,MS,19
+Prepaid card,Payroll card,,68
+Debt collection,Mortgage,WV,33
+Prepaid card,Gift or merchant card,NC,53
+Bank account or service,Other bank product/service,AE,26
+Mortgage,Reverse mortgage,NH,39
+Money transfers,Domestic (US) money transfer,KY,38
+Prepaid card,General purpose card,KS,77
+Other financial service,Check cashing,AZ,24
+Prepaid card,Gift or merchant card,KY,68
+Prepaid card,Other special purpose card,WA,61
+Consumer Loan,Installment loan,AK,56
+Prepaid card,Mobile wallet,CO,70
+Mortgage,Home equity loan or line of credit,ID,18
+Consumer Loan,Vehicle lease,NV,58
+Prepaid card,General purpose card,MN,54
+Prepaid card,Payroll card,NV,78
+Consumer Loan,Title loan,MO,85
+Bank account or service,Other bank product/service,PR,44
+Prepaid card,Mobile wallet,NV,61
+Money transfers,Domestic (US) money transfer,CO,35
+Other financial service,Debt settlement,PA,20
+Consumer Loan,Vehicle loan,WY,78
+Debt collection,I do not know,FM,45
+Money transfers,International money transfer,SC,10
+Prepaid card,Other special purpose card,SC,71
+Debt collection,Payday loan,WY,16
+Other financial service,Foreign currency exchange,,20
+Other financial service,Credit repair,FL,24
+Consumer Loan,Personal line of credit,CO,67
+Consumer Loan,Vehicle loan,AE,62
+Prepaid card,General purpose card,ID,74
+Bank account or service,Cashing a check without an account,LA,43
+Prepaid card,General purpose card,AK,57
+Mortgage,VA mortgage,WY,17
+Other financial service,Money order,OH,11
+Prepaid card,Government benefit payment card,WV,60
+Other financial service,Debt settlement,MN,34
+Other financial service,Money order,MS,41
+Debt collection,Non-federal student loan,NH,33
+Consumer Loan,Personal line of credit,MS,77
+Other financial service,Check cashing,DC,23
+Other financial service,Debt settlement,IL,14
+Bank account or service,(CD) Certificate of deposit,ND,42
+Prepaid card,Mobile wallet,GA,78
+Prepaid card,General purpose card,CO,50
+Consumer Loan,Vehicle loan,ND,80
+Other financial service,Check cashing,KS,17
+Student loan,Non-federal student loan,AE,13
+Prepaid card,Gift or merchant card,MA,74
+Prepaid card,Mobile wallet,NC,54
+Prepaid card,Transit card,MO,73
+Prepaid card,Transit card,LA,50
+Prepaid card,Gift or merchant card,AZ,67
+Bank account or service,Savings account,DC,35
+Money transfers,International money transfer,WV,30
+Mortgage,Conventional adjustable mortgage (ARM),SD,22
+Consumer Loan,Pawn loan,IL,65
+Debt collection,Non-federal student loan,WY,18
+Money transfers,International money transfer,SD,36
+Debt collection,Auto,HI,28
+Other financial service,Check cashing,NC,31
+Prepaid card,General purpose card,MT,51
+Other financial service,Debt settlement,MA,45
+Consumer Loan,Title loan,WA,64
+Mortgage,VA mortgage,SD,10
+Other financial service,Money order,CA,31
+Money transfers,International money transfer,KY,18
+Consumer Loan,Pawn loan,AZ,69
+Debt collection,Non-federal student loan,HI,39
+Money transfers,Domestic (US) money transfer,IN,13
+Prepaid card,ID prepaid card,NY,70
+Mortgage,Reverse mortgage,TN,17
+Bank account or service,Cashing a check without an account,MD,28
+Mortgage,VA mortgage,DC,40
+Debt collection,Medical,VT,37
+Other financial service,Credit repair,MD,21
+Student loan,Non-federal student loan,PR,31
+Bank account or service,Cashing a check without an account,TX,44
+Consumer Loan,Installment loan,AE,56
+Mortgage,VA mortgage,DE,34
+Prepaid card,Other special purpose card,MI,58
+Debt collection,Non-federal student loan,NE,37
+Prepaid card,Gift or merchant card,IL,75
+Other financial service,Credit repair,ME,33
+Consumer Loan,Title loan,,81
+Mortgage,Reverse mortgage,MN,18
+Prepaid card,General purpose card,LA,50
+Consumer Loan,Installment loan,GU,77
+Mortgage,Home equity loan or line of credit,ND,23
+Consumer Loan,Installment loan,PR,71
+Prepaid card,General purpose card,SC,54
+Prepaid card,Government benefit payment card,MN,61
+Prepaid card,Other special purpose card,PA,69
+Bank account or service,Cashing a check without an account,TN,44
+Prepaid card,General purpose card,AL,62
+Prepaid card,Payroll card,IL,66
+Other financial service,Check cashing,MA,39
+Prepaid card,Gift or merchant card,CT,62
+Prepaid card,Payroll card,SC,79
+Mortgage,Reverse mortgage,PR,27
+Prepaid card,Payroll card,MI,68
+Prepaid card,Payroll card,OH,64
+Consumer Loan,Title loan,ID,52
+Prepaid card,Government benefit payment card,LA,60
+Prepaid card,Gift or merchant card,DC,61
+Prepaid card,General purpose card,IN,70
+Prepaid card,Payroll card,OK,83
+Prepaid card,Payroll card,TX,63
+Prepaid card,General purpose card,DE,63
+Prepaid card,Payroll card,GA,53
+Other financial service,Money order,NC,13
+Money transfers,Domestic (US) money transfer,SD,43
+Prepaid card,Payroll card,FL,68
+Mortgage,Reverse mortgage,NE,30
+Prepaid card,Mobile wallet,WI,74
+Prepaid card,ID prepaid card,NJ,54
+Prepaid card,Transit card,GA,64
+Other financial service,Check cashing,MI,23
+Prepaid card,Government benefit payment card,NC,63
+Prepaid card,ID prepaid card,IL,63
+Prepaid card,General purpose card,,78
+Prepaid card,Payroll card,NJ,70
+Prepaid card,Transit card,NY,71
+Prepaid card,Payroll card,MN,65
+Prepaid card,Payroll card,TN,85
+Prepaid card,Transit card,IA,72
+Prepaid card,Payroll card,NY,77
+Prepaid card,General purpose card,KY,71
+Prepaid card,Mobile wallet,CT,77
+Prepaid card,Payroll card,VA,74
+Prepaid card,General purpose card,NE,72
+Prepaid card,Other special purpose card,CT,67
+Prepaid card,Other special purpose card,AL,62
+Prepaid card,Payroll card,CT,82
+Prepaid card,ID prepaid card,KS,76
+Prepaid card,Payroll card,HI,69
+Prepaid card,Payroll card,MS,63
+Prepaid card,Payroll card,MO,76
+Consumer Loan,Pawn loan,TN,78
+Prepaid card,ID prepaid card,CT,62
+Prepaid card,Payroll card,NH,82
+Prepaid card,ID prepaid card,SC,63
+Prepaid card,Payroll card,AR,79
+Prepaid card,Payroll card,LA,56
+Bank account or service,Cashing a check without an account,AL,21
+Prepaid card,Payroll card,AL,55
+Consumer Loan,Title loan,NJ,59
+Prepaid card,ID prepaid card,NC,70
+Prepaid card,Government benefit payment card,AR,81
+Prepaid card,ID prepaid card,MD,77
+Prepaid card,Transit card,NJ,56
+Money transfers,International money transfer,KS,12
+Consumer Loan,Vehicle loan,FM,64
+Payday loan,Payday loan,AK,41
+Prepaid card,Payroll card,AZ,67
+Other financial service,Debt settlement,NJ,37
+Other financial service,Debt settlement,,11
+Mortgage,FHA mortgage,VI,23
+Prepaid card,Mobile wallet,MO,57
+Other financial service,Check cashing,WI,38
+Money transfers,Domestic (US) money transfer,AR,30
+Prepaid card,Payroll card,PA,68
+Mortgage,FHA mortgage,AP,26
+Prepaid card,Payroll card,MD,79
+Prepaid card,Government benefit payment card,PA,52
+Money transfers,Domestic (US) money transfer,UT,14
+Prepaid card,Gift or merchant card,NM,60
+Prepaid card,Mobile wallet,PR,74
+Debt collection,"Other (i.e. phone, health club, etc.)",AS,30
+Mortgage,Reverse mortgage,HI,28
+Bank account or service,Savings account,MH,45
+Prepaid card,Gift or merchant card,WI,58
+Consumer Loan,Vehicle lease,WY,72
+Prepaid card,Gift or merchant card,AL,71
+Prepaid card,ID prepaid card,IN,54
+Other financial service,Debt settlement,NE,17
+Other financial service,Debt settlement,LA,16
+Prepaid card,Government benefit payment card,DE,79
+Bank account or service,Cashing a check without an account,OH,33
+Mortgage,FHA mortgage,SD,28
+Consumer Loan,Vehicle lease,OK,71
+Debt collection,I do not know,AP,43
+Other financial service,Debt settlement,MI,34
+Prepaid card,ID prepaid card,MO,83
+Credit card,,FM,81
+Consumer Loan,Title loan,DE,78
+Prepaid card,Other special purpose card,RI,62
+Other financial service,Debt settlement,MO,30
+Prepaid card,Electronic Benefit Transfer / EBT card,TN,65
+Other financial service,Check cashing,CO,11
+Prepaid card,General purpose card,AR,61
+Other financial service,Debt settlement,NH,11
+Prepaid card,Gift or merchant card,TN,74
+Bank account or service,(CD) Certificate of deposit,VT,30
+Money transfers,Domestic (US) money transfer,VI,20
+Prepaid card,Mobile wallet,NH,74
+Prepaid card,Other special purpose card,UT,67
+Other financial service,Foreign currency exchange,PA,18
+Other financial service,Debt settlement,MD,41
+Bank account or service,Cashing a check without an account,MO,14
+Bank account or service,Other bank product/service,ID,25
+Other financial service,Refund anticipation check,VA,11
+Prepaid card,Mobile wallet,UT,51
+Prepaid card,Payroll card,KS,68
+Consumer Loan,Personal line of credit,VI,51
+Consumer Loan,Title loan,NY,74
+Consumer Loan,Title loan,IN,79
+Other financial service,Refund anticipation check,RI,10
+Prepaid card,Other special purpose card,NY,67
+Credit card,,GU,70
+Prepaid card,Mobile wallet,MD,84
+Debt collection,Federal student loan,SD,24
+Other financial service,Refund anticipation check,PA,11
+Prepaid card,ID prepaid card,NH,65
+Other financial service,Money order,MD,35
+Prepaid card,Gift or merchant card,PA,50
+Other financial service,Money order,MI,30
+Bank account or service,Savings account,AR,10
+Other financial service,Foreign currency exchange,KS,11
+Prepaid card,Gift or merchant card,MN,52
+Other financial service,Debt settlement,FL,35
+Prepaid card,Other special purpose card,LA,76
+Bank account or service,Other bank product/service,MH,25
+Mortgage,Reverse mortgage,ME,31
+Money transfers,International money transfer,CT,22
+Prepaid card,Other special purpose card,VA,76
+Prepaid card,Gift or merchant card,NJ,51
+Mortgage,VA mortgage,HI,43
+Mortgage,VA mortgage,AP,41
+Bank account or service,Savings account,AK,11
+Bank account or service,Cashing a check without an account,NH,29
+Consumer Loan,Personal line of credit,KS,77
+Mortgage,Reverse mortgage,AR,45
+Bank account or service,Cashing a check without an account,IN,37
+Mortgage,Second mortgage,MA,40
+Mortgage,Conventional adjustable mortgage (ARM),PR,39
+Mortgage,VA mortgage,RI,28
+Other financial service,Debt settlement,CO,44
+Bank account or service,Other bank product/service,ND,16
+Bank account or service,Savings account,OK,44
+Money transfers,Domestic (US) money transfer,RI,31
+Mortgage,Second mortgage,NJ,39
+Mortgage,Conventional fixed mortgage,PW,11
+Consumer Loan,Personal line of credit,AE,58
+Consumer Loan,Personal line of credit,VT,64
+Mortgage,Second mortgage,IN,31
+Consumer Loan,Vehicle loan,AK,82
+Bank account or service,Cashing a check without an account,IL,44
+Mortgage,Second mortgage,CT,14
+Consumer Loan,Personal line of credit,UT,80
+Mortgage,Second mortgage,NM,35
+Mortgage,FHA mortgage,AS,22
+Mortgage,Second mortgage,VT,31
+Bank account or service,Cashing a check without an account,OK,34
+Mortgage,Second mortgage,HI,18
+Mortgage,Second mortgage,,21
+Bank account or service,Cashing a check without an account,RI,32
+Mortgage,Home equity loan or line of credit,NE,43
+Mortgage,Second mortgage,MN,11
+Mortgage,Second mortgage,OR,31
+Mortgage,Second mortgage,UT,18
+Mortgage,Conventional adjustable mortgage (ARM),MH,41
+Mortgage,FHA mortgage,GU,44
+Mortgage,Second mortgage,DC,32
+Mortgage,Second mortgage,SC,24
+Bank account or service,Other bank product/service,AP,24
+Mortgage,Second mortgage,KY,39
+Consumer Loan,Personal line of credit,ID,83
+Consumer Loan,Vehicle lease,DE,53
+Credit reporting,,AS,33
+Consumer Loan,Personal line of credit,HI,69
+Bank account or service,(CD) Certificate of deposit,AK,26
+Mortgage,VA mortgage,ID,45
+Mortgage,Reverse mortgage,MS,36
+Mortgage,Second mortgage,IA,14
+Bank account or service,Cashing a check without an account,NM,21
+Mortgage,Second mortgage,NV,34
+Mortgage,Reverse mortgage,MT,44
+Bank account or service,Savings account,NE,43
+Consumer Loan,Vehicle lease,VT,66
+Bank account or service,(CD) Certificate of deposit,GU,41
+Consumer Loan,Vehicle lease,AP,71
+Consumer Loan,Vehicle lease,AR,60
+Mortgage,Other mortgage,AA,22
+Bank account or service,Cashing a check without an account,NE,33
+Credit card,,MH,74
+Mortgage,Second mortgage,WI,42
+Mortgage,Other mortgage,FM,22
+Mortgage,Second mortgage,TN,23
+Money transfers,International money transfer,AK,12
+Debt collection,I do not know,VI,12
+Debt collection,Federal student loan,MT,24
+Mortgage,Second mortgage,DE,16
+Student loan,Non-federal student loan,AP,10
+Consumer Loan,Personal line of credit,WV,63
+Bank account or service,Cashing a check without an account,KS,25
+Money transfers,Domestic (US) money transfer,AK,23
+Credit reporting,,MP,31
+Payday loan,Payday loan,NH,16
+Consumer Loan,Personal line of credit,NH,80
+Consumer Loan,Personal line of credit,NV,85
+Debt collection,I do not know,GU,12
+Debt collection,Auto,WY,37
+Consumer Loan,Personal line of credit,ND,67
+Consumer Loan,Installment loan,WV,66
+Consumer Loan,Personal line of credit,MT,59
+Mortgage,Conventional adjustable mortgage (ARM),AP,14
+Bank account or service,Cashing a check without an account,IA,20
+Debt collection,Auto,ME,10
+Mortgage,Home equity loan or line of credit,PR,35
+Money transfers,Domestic (US) money transfer,ID,21
+Debt collection,Mortgage,SD,41
+Money transfers,International money transfer,ID,13
+Money transfers,International money transfer,VT,26
+Consumer Loan,Vehicle lease,,77
+Mortgage,Conventional fixed mortgage,AA,25
+Student loan,Non-federal student loan,AA,15
+Mortgage,Second mortgage,AR,39
+Debt collection,Credit card,MP,11
+Payday loan,Payday loan,VT,43
+Prepaid card,Government benefit payment card,MA,55
+Bank account or service,Cashing a check without an account,ID,32
+Prepaid card,Gift or merchant card,OH,80
+Prepaid card,Mobile wallet,DC,82
+Other financial service,Money order,TX,22
+Debt collection,Payday loan,AK,28
+Other financial service,Credit repair,TN,12
+Bank account or service,Savings account,IA,13
+Debt collection,Federal student loan,ND,41
+Other financial service,Foreign currency exchange,SC,45
+Consumer Loan,Pawn loan,TX,74
+Prepaid card,Government benefit payment card,CO,51
+Other financial service,Check cashing,MN,26
+Debt collection,I do not know,MH,41
+Consumer Loan,Pawn loan,MD,64
+Mortgage,Home equity loan or line of credit,AP,42
+Other financial service,Foreign currency exchange,FL,18
+Consumer Loan,Vehicle lease,SD,80
+Other financial service,Money order,FL,15
+Prepaid card,Other special purpose card,MD,62
+Prepaid card,Transit card,OR,74
+Other financial service,Money order,FM,37
+Prepaid card,Other special purpose card,MN,82
+Prepaid card,Transit card,FL,70
+Prepaid card,Other special purpose card,AZ,71
+Consumer Loan,Title loan,NM,78
+Bank account or service,Cashing a check without an account,OR,30
+Mortgage,Home equity loan or line of credit,AK,30
+Debt collection,Federal student loan,MS,23
+Other financial service,Refund anticipation check,NY,10
+Prepaid card,ID prepaid card,RI,65
+Debt collection,Federal student loan,AK,12
+Bank account or service,Checking account,AS,19
+Consumer Loan,Pawn loan,SC,53
+Prepaid card,Gift or merchant card,VT,77
+Other financial service,Money order,TN,40
+Consumer Loan,Title loan,LA,70
+Prepaid card,General purpose card,HI,84
+Debt collection,Credit card,GU,21
+Other financial service,Foreign currency exchange,TN,39
+Prepaid card,Other special purpose card,NJ,84
+Consumer Loan,Title loan,MI,78
+Prepaid card,Mobile wallet,IL,71
+Prepaid card,General purpose card,ME,83
+Bank account or service,Cashing a check without an account,DE,25
+Prepaid card,Gift or merchant card,,57
+Prepaid card,ID prepaid card,DE,85
+Prepaid card,General purpose card,DC,51
+Consumer Loan,Pawn loan,GA,76
+Consumer Loan,Vehicle loan,AP,58
+Consumer Loan,Vehicle lease,MT,67
+Debt collection,Non-federal student loan,AP,21
+Bank account or service,Savings account,AE,35
+Other financial service,Credit repair,OH,32
+Other financial service,Credit repair,IL,18
+Prepaid card,Mobile wallet,MT,83
+Other financial service,Refund anticipation check,,10
+Debt collection,Non-federal student loan,DE,34
+Money transfers,International money transfer,ME,29
+Money transfers,International money transfer,AS,16
+Mortgage,FHA mortgage,MH,38
+Consumer Loan,Title loan,DC,59
+Mortgage,Home equity loan or line of credit,WY,27
+Other financial service,Debt settlement,NC,40
+Other financial service,Debt settlement,OK,25
+Bank account or service,Savings account,VT,37
+Prepaid card,Government benefit payment card,WA,79
+Debt collection,Federal student loan,VT,34
+Prepaid card,Government benefit payment card,AZ,68
+Debt collection,Non-federal student loan,MT,45
+Consumer Loan,Vehicle lease,NE,82
+Prepaid card,General purpose card,NH,56
+Other financial service,Money order,,31
+Other financial service,Debt settlement,NV,25
+Other financial service,Debt settlement,WI,39
+Prepaid card,Mobile wallet,MA,66
+Mortgage,Conventional fixed mortgage,MP,16
+Consumer Loan,Title loan,KS,70
+Consumer Loan,Title loan,NV,56
+Prepaid card,Gift or merchant card,NE,56
+Bank account or service,Savings account,HI,41
+Prepaid card,Gift or merchant card,MI,66
+Debt collection,Mortgage,AE,32
+Prepaid card,Mobile wallet,SC,82
+Debt collection,Mortgage,AK,41
+Other financial service,Check cashing,NV,13
+Prepaid card,General purpose card,MS,60
+Prepaid card,Gift or merchant card,NV,63
+Prepaid card,Payroll card,WI,79
+Other financial service,Check cashing,PR,43
+Prepaid card,Government benefit payment card,IN,63
+Debt collection,Medical,AE,11
+Bank account or service,Cashing a check without an account,WA,28
+Prepaid card,Government benefit payment card,WI,69
+Other financial service,Money order,VA,18
+Money transfers,International money transfer,ND,34
+Other financial service,Credit repair,GA,31
+Other financial service,Credit repair,WY,25
+Prepaid card,ID prepaid card,LA,77
+Other financial service,Debt settlement,SC,29
+Other financial service,Credit repair,SC,30
+Other financial service,Debt settlement,CT,13
+Prepaid card,Transit card,CA,58
+Mortgage,VA mortgage,MT,45
+Mortgage,Reverse mortgage,WY,25
+Other financial service,Check cashing,MD,41
+Prepaid card,ID prepaid card,TN,53
+Other financial service,Check cashing,TN,18
+Prepaid card,Other special purpose card,,74
+Prepaid card,General purpose card,RI,77
+Consumer Loan,Pawn loan,LA,50
+Prepaid card,Payroll card,CO,58
+Prepaid card,ID prepaid card,KY,70
+Prepaid card,ID prepaid card,WI,73
+Prepaid card,Government benefit payment card,VA,75
+Prepaid card,ID prepaid card,AZ,66
+Prepaid card,Other special purpose card,MO,50
+Prepaid card,ID prepaid card,IA,69
+Prepaid card,Payroll card,IN,81
+Mortgage,FHA mortgage,FM,22
+Prepaid card,Other special purpose card,MS,73
+Prepaid card,Government benefit payment card,AL,79
+Other financial service,Money order,SC,44
+Money transfers,Domestic (US) money transfer,AE,36
+Consumer Loan,Title loan,OK,69
+Prepaid card,Transit card,MI,71
+Money transfers,Domestic (US) money transfer,ME,38
+Prepaid card,Gift or merchant card,IN,79
+Consumer Loan,Title loan,MN,85
+Prepaid card,Gift or merchant card,MO,81
+Consumer Loan,Pawn loan,WI,69
+Bank account or service,(CD) Certificate of deposit,NM,13
+Money transfers,International money transfer,VI,11
+Prepaid card,Government benefit payment card,DC,55
+Other financial service,Debt settlement,VA,34
+Other financial service,Refund anticipation check,NH,26
+Other financial service,Debt settlement,OH,44
+Other financial service,Debt settlement,OR,18
+Other financial service,Refund anticipation check,TN,28
+Bank account or service,Checking account,AP,35
+Prepaid card,Transit card,TX,69
+Money transfers,Domestic (US) money transfer,PR,12
+Debt collection,Credit card,FM,10
+Prepaid card,Other special purpose card,OK,66
+Consumer Loan,Vehicle lease,ME,54
+Other financial service,Foreign currency exchange,NC,24
+Other financial service,Credit repair,PA,11
+Prepaid card,Payroll card,DE,74
+Other financial service,Credit repair,KY,40
+Other financial service,Money order,PA,26
+Other financial service,Foreign currency exchange,VA,34
+Mortgage,Reverse mortgage,SD,39
+Consumer Loan,Vehicle lease,AK,72
+Bank account or service,(CD) Certificate of deposit,AP,13
+Mortgage,Other mortgage,MH,39
+Mortgage,VA mortgage,GU,40
+Bank account or service,Checking account,MP,29
+Other financial service,Check cashing,RI,19
+Mortgage,Second mortgage,ID,15
+Mortgage,Second mortgage,OK,26
+Bank account or service,(CD) Certificate of deposit,MT,15
+Bank account or service,Cashing a check without an account,DC,45
+Bank account or service,(CD) Certificate of deposit,ID,25
+Bank account or service,Cashing a check without an account,UT,25
+Credit card,,MP,76
+Mortgage,Second mortgage,SD,15
+Bank account or service,Savings account,AP,19
+Mortgage,Second mortgage,RI,41
+Bank account or service,Other bank product/service,AS,24
+Credit reporting,,PW,34
+Mortgage,VA mortgage,AA,36
+Mortgage,Home equity loan or line of credit,GU,37
+Bank account or service,Savings account,WY,16
+Credit card,,AS,52
+Bank account or service,Checking account,FM,23
+Money transfers,Domestic (US) money transfer,WY,43
+Money transfers,Domestic (US) money transfer,VT,31
+Consumer Loan,Personal line of credit,WY,81
+Bank account or service,Checking account,AA,19
+Money transfers,Domestic (US) money transfer,GU,25
+Consumer Loan,Personal line of credit,ME,82
+Bank account or service,(CD) Certificate of deposit,AE,38
+Bank account or service,Savings account,AS,24
+Prepaid card,Government benefit payment card,OK,82
+Other financial service,Credit repair,NY,28
+Other financial service,Credit repair,CA,19
+Prepaid card,Transit card,VA,53
+Prepaid card,Government benefit payment card,NE,59
+Prepaid card,Mobile wallet,IA,55
+Mortgage,Conventional adjustable mortgage (ARM),PW,45
+Other financial service,Credit repair,OK,32
+Consumer Loan,Pawn loan,AK,82
+Prepaid card,Government benefit payment card,,79
+Other financial service,Debt settlement,KY,42
+Other financial service,Credit repair,OR,14
+Prepaid card,Other special purpose card,WI,78
+Other financial service,Money order,AL,42
+Prepaid card,Other special purpose card,NM,78
+Consumer Loan,Title loan,MS,59
+Prepaid card,Mobile wallet,ME,57
+Mortgage,Reverse mortgage,IA,28
+Other financial service,Refund anticipation check,CA,39
+Consumer Loan,Pawn loan,RI,61
+Other financial service,Money order,CT,20
+Debt collection,Auto,VT,45
+Consumer Loan,Title loan,SD,61
+Debt collection,Medical,AS,34
+Consumer Loan,Vehicle lease,NH,78
+Prepaid card,Gift or merchant card,NH,50
+Debt collection,Auto,AK,22
+Other financial service,Check cashing,PA,34
+Debt collection,Payday loan,MH,10
+Debt collection,Non-federal student loan,PR,25
+Other financial service,Refund anticipation check,WI,45
+Consumer Loan,Pawn loan,MI,76
+Prepaid card,Transit card,MN,65
+Debt collection,Medical,GU,34
+Bank account or service,Cashing a check without an account,AE,14
+Other financial service,Debt settlement,RI,33
+Other financial service,Check cashing,ME,10
+Debt collection,Medical,VI,23
+Debt collection,Medical,AP,21
+Debt collection,I do not know,AE,31
+Money transfers,Domestic (US) money transfer,NH,25
+Other financial service,Credit repair,RI,26
+Consumer Loan,Title loan,VT,68
+Prepaid card,Gift or merchant card,OR,85
+Other financial service,Debt settlement,GA,31
+Debt collection,Federal student loan,FM,28
+Other financial service,Credit repair,MS,13
+Other financial service,Money order,MA,22
+Other financial service,Credit repair,MI,23
+Prepaid card,Payroll card,IA,75
+Other financial service,Money order,MN,12
+Consumer Loan,Installment loan,VI,64
+Consumer Loan,Title loan,IA,83
+Other financial service,Foreign currency exchange,IL,44
+Other financial service,Debt settlement,AL,19
+Other financial service,Foreign currency exchange,MD,38
+Other financial service,Refund anticipation check,FL,33
+Consumer Loan,Pawn loan,OH,59
+Prepaid card,Mobile wallet,AK,74
+Prepaid card,Payroll card,ND,59
+Bank account or service,Other bank product/service,GU,26
+Prepaid card,General purpose card,WV,79
+Other financial service,Money order,NJ,45
+Prepaid card,Payroll card,KY,71
+Prepaid card,Transit card,SC,77
+Other financial service,Credit repair,MN,12
+Prepaid card,Government benefit payment card,NV,74
+Other financial service,Check cashing,WV,12
+Prepaid card,Transit card,RI,78
+Other financial service,Foreign currency exchange,MN,35
+Consumer Loan,Vehicle lease,KS,56
+Prepaid card,Payroll card,RI,63
+Prepaid card,General purpose card,VT,53
+Prepaid card,Government benefit payment card,PR,61
+Prepaid card,General purpose card,UT,67
+Prepaid card,Mobile wallet,NM,54
+Bank account or service,(CD) Certificate of deposit,IA,43
+Prepaid card,Mobile wallet,MS,62
+Prepaid card,Government benefit payment card,ID,75
+Prepaid card,ID prepaid card,NE,70
+Consumer Loan,Pawn loan,AL,57
+Prepaid card,Transit card,NC,75
+Other financial service,Debt settlement,DE,21
+Other financial service,Foreign currency exchange,NJ,10
+Other financial service,Foreign currency exchange,LA,18
+Debt collection,I do not know,AS,16
+Other financial service,Money order,AZ,10
+Other financial service,Foreign currency exchange,MA,16
+Other financial service,Refund anticipation check,MD,22
+Consumer Loan,Title loan,MH,77
+Bank account or service,(CD) Certificate of deposit,AS,23
+Other financial service,Money order,NV,37
+Money transfers,Domestic (US) money transfer,ND,12
+Prepaid card,Government benefit payment card,TN,50
+Credit card,,AA,80
+Consumer Loan,Vehicle lease,PW,55
+Bank account or service,Cashing a check without an account,ND,33
+Mortgage,Conventional adjustable mortgage (ARM),FM,12
+Bank account or service,Cashing a check without an account,WI,22
+Mortgage,Other mortgage,AS,14
+Bank account or service,Other bank product/service,MP,17
+Debt collection,Federal student loan,HI,19
+Debt collection,Non-federal student loan,MH,20
+Consumer Loan,Pawn loan,UT,61
+Mortgage,VA mortgage,FM,10
+Other financial service,Check cashing,IN,40
+Debt collection,Credit card,MH,19
+Bank account or service,(CD) Certificate of deposit,SD,27
+Money transfers,International money transfer,AE,10
+Prepaid card,Government benefit payment card,MD,50
+Debt collection,Medical,MH,26
+Other financial service,Debt settlement,AR,30
+Other financial service,Refund anticipation check,KY,38
+Debt collection,Non-federal student loan,ND,44
+Other financial service,Credit repair,WA,12
+Consumer Loan,Pawn loan,MO,70
+Prepaid card,Government benefit payment card,AK,67
+Other financial service,Credit repair,AL,31
+Bank account or service,Checking account,PW,42
+Consumer Loan,Vehicle lease,WV,63
+Other financial service,Refund anticipation check,TX,10
+Prepaid card,ID prepaid card,DC,68
+Other financial service,Check cashing,LA,44
+Prepaid card,Payroll card,NM,55
+Other financial service,Money order,DC,12
+Debt collection,Auto,VI,44
+Consumer Loan,Title loan,RI,83
+Other financial service,Money order,DE,23
+Mortgage,Conventional adjustable mortgage (ARM),GU,45
+Other financial service,Refund anticipation check,SC,37
+Debt collection,Mortgage,ND,11
+Prepaid card,Gift or merchant card,SC,72
+Prepaid card,Gift or merchant card,ID,60
+Prepaid card,General purpose card,NM,57
+Consumer Loan,Title loan,CT,71
+Other financial service,Check cashing,OK,10
+Prepaid card,Payroll card,ID,50
+Other financial service,Foreign currency exchange,OR,32
+Prepaid card,Payroll card,WA,78
+Consumer Loan,Installment loan,AP,66
+Other financial service,Debt settlement,AZ,19
+Prepaid card,ID prepaid card,AL,58
+Prepaid card,Transit card,WV,51
+Prepaid card,Government benefit payment card,KS,71
+Prepaid card,Electronic Benefit Transfer / EBT card,LA,74
+Prepaid card,Payroll card,UT,64
+Prepaid card,ID prepaid card,OR,55
+Prepaid card,Government benefit payment card,ME,67
+Other financial service,Credit repair,WV,22
+Other financial service,Refund anticipation check,UT,17
+Prepaid card,Electronic Benefit Transfer / EBT card,NY,84
+Prepaid card,ID prepaid card,OK,51
+Bank account or service,(CD) Certificate of deposit,WY,43
+Other financial service,Debt settlement,IN,21
+Debt collection,Medical,FM,20
+Other financial service,Debt settlement,WV,13
+Other financial service,Check cashing,AR,24
+Prepaid card,Mobile wallet,AL,68
+Other financial service,Foreign currency exchange,CO,32
+Other financial service,Foreign currency exchange,UT,13
+Prepaid card,Electronic Benefit Transfer / EBT card,CA,82
+Consumer Loan,Pawn loan,NV,72
+Bank account or service,Savings account,MT,39
+Other financial service,Check cashing,AK,23
+Credit card,,PW,83
+Mortgage,Second mortgage,ME,45
+Other financial service,Traveler’s/Cashier’s checks,CA,39
+Other financial service,Traveler’s/Cashier’s checks,TN,10
+Other financial service,Traveler’s/Cashier’s checks,NY,40
+Other financial service,Traveler’s/Cashier’s checks,AL,33
+Other financial service,Traveler’s/Cashier’s checks,TX,17
+Other financial service,Traveler’s/Cashier’s checks,OH,31
+Other financial service,Traveler’s/Cashier’s checks,WI,38
+Other financial service,Traveler’s/Cashier’s checks,MD,45
+Other financial service,Traveler’s/Cashier’s checks,WA,33
+Other financial service,Traveler’s/Cashier’s checks,AZ,35
+Other financial service,Traveler’s/Cashier’s checks,MN,26
+Other financial service,Traveler’s/Cashier’s checks,FL,37
+Other financial service,Traveler’s/Cashier’s checks,MA,26
+Other financial service,Traveler’s/Cashier’s checks,IL,11
+Other financial service,Traveler’s/Cashier’s checks,NJ,39
+Other financial service,Traveler’s/Cashier’s checks,PA,13
+Other financial service,Traveler’s/Cashier’s checks,OR,13
+Other financial service,Traveler’s/Cashier’s checks,NM,15
+Other financial service,Traveler’s/Cashier’s checks,ME,31
+Other financial service,Traveler’s/Cashier’s checks,,36
+Other financial service,Traveler’s/Cashier’s checks,GA,29
+Other financial service,Traveler’s/Cashier’s checks,VA,16
+Other financial service,Traveler’s/Cashier’s checks,SD,15
+Mortgage,Reverse mortgage,AK,29
+Mortgage,FHA mortgage,PW,38
+Bank account or service,Cashing a check without an account,MT,23
+Other financial service,Credit repair,DC,37
+Other financial service,Credit repair,NM,18
+Prepaid card,Mobile wallet,LA,67
+Prepaid card,Government benefit payment card,VT,74
+Other financial service,Foreign currency exchange,DC,14
+Other financial service,Refund anticipation check,IL,30
+Other financial service,Debt settlement,VT,12
+Other financial service,Check cashing,DE,15
+Prepaid card,Mobile wallet,KS,54
+Debt collection,I do not know,MP,22
+Prepaid card,Transit card,NH,74
+Consumer Loan,Title loan,AR,58
+Prepaid card,Mobile wallet,OK,67
+Other financial service,Traveler’s/Cashier’s checks,IN,43
+Bank account or service,Savings account,MP,36
+Student loan,Federal student loan servicing,CA,12
+Student loan,Federal student loan servicing,GA,18
+Student loan,Federal student loan servicing,AR,29
+Student loan,Federal student loan servicing,FL,10
+Student loan,Federal student loan servicing,TX,37
+Student loan,Federal student loan servicing,IN,39
+Student loan,Federal student loan servicing,AZ,11
+Student loan,Federal student loan servicing,NC,39
+Student loan,Federal student loan servicing,MD,15
+Student loan,Federal student loan servicing,AL,34
+Student loan,Federal student loan servicing,RI,23
+Student loan,Federal student loan servicing,NY,14
+Student loan,Federal student loan servicing,CT,27
+Student loan,Federal student loan servicing,NM,28
+Student loan,Federal student loan servicing,NJ,45
+Student loan,Federal student loan servicing,MI,15
+Student loan,Federal student loan servicing,MN,45
+Student loan,Federal student loan servicing,CO,13
+Student loan,Federal student loan servicing,DC,40
+Student loan,Federal student loan servicing,WV,39
+Student loan,Federal student loan servicing,WI,22
+Student loan,Federal student loan servicing,PA,36
+Student loan,Federal student loan servicing,TN,11
+Student loan,Federal student loan servicing,OH,36
+Student loan,Federal student loan servicing,IL,45
+Student loan,Federal student loan servicing,VA,25
+Virtual currency,Domestic (US) money transfer,MN,112
+Student loan,Federal student loan servicing,WA,12
+Student loan,Federal student loan servicing,OR,30
+Student loan,Federal student loan servicing,KY,11
+Student loan,Federal student loan servicing,AE,10
+Student loan,Federal student loan servicing,NH,17
+Student loan,Federal student loan servicing,OK,13
+Student loan,Federal student loan servicing,SC,38
+Student loan,Federal student loan servicing,IA,11
+Student loan,Federal student loan servicing,LA,22
+Student loan,Federal student loan servicing,NE,11
+Student loan,Federal student loan servicing,MO,16
+Student loan,Federal student loan servicing,KS,30
+Student loan,Federal student loan servicing,WY,22
+Student loan,Federal student loan servicing,,19
+Student loan,Federal student loan servicing,DE,32
+Student loan,Federal student loan servicing,MA,11
+Student loan,Federal student loan servicing,HI,10
+Student loan,Federal student loan servicing,MT,27
+Student loan,Federal student loan servicing,UT,35
+Student loan,Federal student loan servicing,NV,11
+Student loan,Federal student loan servicing,SD,28
+Student loan,Federal student loan servicing,ID,37
+Student loan,Federal student loan servicing,MS,34
+Student loan,Federal student loan servicing,VT,16
+Student loan,Federal student loan servicing,PR,28
+Student loan,Federal student loan servicing,AK,31
+Student loan,Federal student loan servicing,GU,42
+Virtual currency,Domestic (US) money transfer,FL,165
+Student loan,Federal student loan servicing,ME,26
+Virtual currency,Domestic (US) money transfer,NJ,198
+Virtual currency,International money transfer,,192
+Virtual currency,Domestic (US) money transfer,PA,144
+Student loan,Federal student loan servicing,MP,33
+Other financial service,Refund anticipation check,WA,33
+Virtual currency,Domestic (US) money transfer,IA,186
+Virtual currency,Domestic (US) money transfer,WA,175
+Prepaid card,Government benefit payment card,MS,65
+Prepaid card,Other special purpose card,DC,56
+Mortgage,VA mortgage,PW,40
+Debt collection,Credit card,AA,23
+Prepaid card,ID prepaid card,MS,77
+Consumer Loan,Vehicle lease,GU,50
+Other financial service,Money order,WV,42
+Other financial service,Money order,WA,26
+Debt collection,Payday loan,PR,34
+Prepaid card,Other special purpose card,IN,57
+Prepaid card,Gift or merchant card,WV,67
+Student loan,Federal student loan servicing,ND,38
+Other financial service,Traveler’s/Cashier’s checks,CO,37
+Other financial service,Credit repair,CO,22
+Other financial service,Debt settlement,TN,31
+Student loan,Federal student loan servicing,VI,17
+Other financial service,Refund anticipation check,HI,28
+Bank account or service,Savings account,ND,15
+Prepaid card,ID prepaid card,WA,80
+Other financial service,Debt settlement,ND,21
+Prepaid card,Other special purpose card,ID,68
+Student loan,Non-federal student loan,MP,24
+Other financial service,Check cashing,OR,44
+Consumer Loan,Pawn loan,WA,72
+Mortgage,Home equity loan or line of credit,AS,43
+Virtual currency,Domestic (US) money transfer,MD,194
+Other financial service,Traveler’s/Cashier’s checks,LA,12
+Consumer Loan,Title loan,NH,79
+Student loan,Federal student loan servicing,AP,21
+Other financial service,Foreign currency exchange,AP,21
+Money transfers,International money transfer,AP,10
+Prepaid card,Mobile wallet,IN,58
+Other financial service,Credit repair,NH,11
+Other financial service,Check cashing,NH,24
+Other financial service,Debt settlement,NM,41
+Payday loan,Payday loan,WV,35
+Other financial service,Refund anticipation check,AR,11
+Prepaid card,Payroll card,DC,69
+Prepaid card,Mobile wallet,NE,83
+Other financial service,Foreign currency exchange,NV,37
