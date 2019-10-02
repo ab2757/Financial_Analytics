@@ -1,7 +1,7 @@
 
 # Financial Analytics
 
-## Let us: [PYTHON](https://github.com/ab2757/ABDS2019/tree/master/Basics%20of%20Python)
+## Let us: [PYTHON](https://github.com/ab2757/Financial_Analytics/tree/master/Basics%20of%20Python)
 * Installation – Anaconda
 * Intro to Jupyter notebook
 * Understanding Basics of Python
@@ -25,7 +25,7 @@
 * SQL in Python
 
 
-## [Linear Regression](https://github.com/ab2757/ABDS2019/tree/master/LinearRegression)
+## [Linear Regression](https://github.com/ab2757/Financial_Analytics/tree/master/LinearRegression)
 * What is regression?
 * Introduction to Linear Regression
 * Applications & examples from the Finance world
@@ -48,7 +48,7 @@
     4. Autocorrelation of error terms
 
 
-## [Logistic Regression](https://github.com/ab2757/ABDS2019/tree/master/Logistic%20Regression)
+## [Logistic Regression](https://github.com/ab2757/Financial_Analytics/tree/master/Logistic%20Regression)
 * Classification techniques & business problems
 * Intro to Logistic Regression models
     1. Why Logistic vs. Linear models
@@ -70,7 +70,7 @@
 
 #### Practice case study: Credit Risk – Identify the customers with high risk of default and give the required recommendation on the model output.
 
-## [Time Series](https://github.com/ab2757/ABDS2019/tree/master/cash%20flow%20forecasting)
+## [Time Series](https://github.com/ab2757/Financial_Analytics/tree/master/cash%20flow%20forecasting)
 * Introduction
 * Applications&banking industry examples
 * Components of time series
@@ -90,7 +90,7 @@ As a financial expert, you are given the actual cash requirements for a company 
 * Final o/p
 
 
-## [Segmentation](https://github.com/ab2757/ABDS2019/tree/master/Segmentation)
+## [Segmentation](https://github.com/ab2757/Financial_Analytics/tree/master/Segmentation)
 1. K-Means
 * Marketing analytics & unsupervised techniques
 * Why and Where to use Clustering
@@ -104,7 +104,7 @@ As a financial expert, you are given the actual cash requirements for a company 
 * Comment on the final clusters
 
 
-## [Decision Tress & Random Forest](https://github.com/ab2757/ABDS2019/tree/master/DT_RF)
+## [Decision Tress & Random Forest](https://github.com/ab2757/Financial_Analytics/tree/master/DT_RF)
 1. Decision Tress
 * What is Decision Tree
 * Applications & advantages
